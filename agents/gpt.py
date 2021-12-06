@@ -5,6 +5,11 @@ import openai
 import asyncio
 import jsonlines
 import json
+import asyncio
+import time
+
+openai.api_key = ""
+
 
 class GPTAgent(Agent):
 
@@ -15,16 +20,11 @@ class GPTAgent(Agent):
     id = ""
     prompt = ""
 
+    model = ""
+
     #prompt_seed =  "Sandra went back to the garden.\nSandra went to the hallway.\nWhere is Sandra?\nhallway\n\n"
 
     prompt_seed = ''
-
-    '''prompt_seed = 'The office is north of the bedroom.' \
-                  'The bedroom is north of the bathroom.' \
-                  'The kitchen is west of the garden.' \
-                  'What is north of the bedroom?' \
-                  'office\n\n' 
-                  '''
 
     # initialize by setting id
     def __init__(self, opt, mode):
@@ -56,37 +56,47 @@ class GPTAgent(Agent):
         if self.observation['episode_done']:
             self.prompt = self.prompt_seed
 
-        self.prompt += text + "\n"
+        self.prompt += text + " "
 
+        # response = self.get_generic_response(self.observation['text'])
+        # response = self.get_answer_response(self.observation['text'])
+        time.sleep(1.1)
         response = self.get_oneshot_response(self.prompt)
-
         answer = self.observation["labels"][0]
 
         if (answer in response):
             self.num_correct += 1
-            self.prompt += response + "\n\n"
-        else:
-            self.prompt += answer + "\n\n"
+
+        self.prompt += answer.strip() + "\n\n"
 
         reply['text'] = "".join(response)
 
         return reply
 
-    @staticmethod
-    def get_generic_response(text):
+
+    def get_generic_response(self, text):
 
         prompt = text + "\n"
 
 
-        response = openai.Completion.create(engine='davinci', prompt=prompt, max_tokens=15, stop="\n")
+        response = openai.Completion.create(model=self.model, prompt=prompt, max_tokens=15, stop="\n")
+
 
         return response.choices[0].text.lower()
 
     def get_oneshot_response(self, prompt):
 
-        response = openai.Completion.create(engine='davinci', prompt=prompt, max_tokens=15, stop="\n")
+        print("PROMPT: ", prompt)
 
-        return response.choices[0].text.lower()
+        response = openai.Completion.create(model=self.model, prompt=prompt, max_tokens=5, stop="\n")
+
+        answer = response.choices[0].text.lower()
+        answer = answer.replace(".", "")
+        answer = answer.replace("?", "")
+
+        print("ANSWER:", answer)
+
+        return answer
 
     @staticmethod
     def get_answer_response(text):
@@ -111,8 +121,8 @@ class GPTAgent(Agent):
         response = openai.File.create(file=open("data.json"), purpose='answers')
 
         answer = openai.Answer.create(
-            search_model="ada",
-            model="curie",
+            search_model="ada:ft-uchicago-2021-12-05-19-19-23",
+            model="ada:ft-uchicago-2021-12-05-19-19-23",
             question="file-2ksWL61f0Q5c5vCYOLwUuhPk",
             file=response.id,
             examples_context="In 2017, U.S. life expectancy was 78.6 years.",
@@ -127,14 +137,15 @@ class GPTAgent(Agent):
 
 
 def main():
-
     parser = ParlaiParser()
     opt = parser.parse_args()
+
+    print(opt)
 
     agent = GPTAgent(opt, 'default')
     world = create_task(opt, agent)
 
-    for _ in range(200):
+    for _ in range(100):
         world.parley()
         print(world.display())
         if world.epoch_done():
