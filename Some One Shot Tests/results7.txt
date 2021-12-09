@@ -1,0 +1,1653 @@
+2021-12-07 22:15:42,462 INFO     | creating task(s): babi:task10k:7
+2021-12-07 22:15:42,499 INFO     | loading fbdialog data: C:\Users\sandr\ParlAI\data\bAbI\tasks_1-20_v1-2\en-valid-10k-nosf\qa7_train.txt
+IS FIRST!!
+PROMPT:  John moved to the office.
+Daniel picked up the football there.
+How many objects is Daniel carrying?
+one
+
+Daniel discarded the football.
+Mary went back to the garden.
+How many objects is Daniel carrying?
+
+ANSWER: milkmaid's sweater
+PROMPT:  John moved to the office.
+Daniel picked up the football there.
+How many objects is Daniel carrying?
+one
+
+Daniel discarded the football.
+Mary went back to the garden.
+How many objects is Daniel carrying?
+none
+
+Mary went to the hallway.
+Mary travelled to the kitchen.
+How many objects is Daniel carrying?
+
+ANSWER: one
+PROMPT:  John moved to the office.
+Daniel picked up the football there.
+How many objects is Daniel carrying?
+one
+
+Daniel discarded the football.
+Mary went back to the garden.
+How many objects is Daniel carrying?
+none
+
+Mary went to the hallway.
+Mary travelled to the kitchen.
+How many objects is Daniel carrying?
+none
+
+Mary went to the garden.
+John moved to the kitchen.
+John journeyed to the office.
+Daniel went back to the office.
+Daniel travelled to the kitchen.
+Daniel moved to the bathroom.
+Daniel travelled to the kitchen.
+Sandra journeyed to the garden.
+John journeyed to the hallway.
+Daniel got the football there.
+How many objects is Daniel carrying?
+
+ANSWER: one
+IS FIRST!!
+PROMPT:  Daniel moved to the hallway.
+Daniel journeyed to the kitchen.
+How many objects is Daniel carrying?
+one
+
+Mary went to the kitchen.
+Sandra picked up the apple there.
+How many objects is Sandra carrying?
+
+ANSWER: thirty
+PROMPT:  Daniel moved to the hallway.
+Daniel journeyed to the kitchen.
+How many objects is Daniel carrying?
+one
+
+Mary went to the kitchen.
+Sandra picked up the apple there.
+How many objects is Sandra carrying?
+one
+
+John travelled to the bedroom.
+Daniel moved to the bathroom.
+How many objects is Sandra carrying?
+
+ANSWER: 2
+PROMPT:  Daniel moved to the hallway.
+Daniel journeyed to the kitchen.
+How many objects is Daniel carrying?
+one
+
+Mary went to the kitchen.
+Sandra picked up the apple there.
+How many objects is Sandra carrying?
+one
+
+John travelled to the bedroom.
+Daniel moved to the bathroom.
+How many objects is Sandra carrying?
+one
+
+Sandra dropped the apple.
+Daniel got the milk there.
+How many objects is Sandra carrying?
+
+ANSWER: one
+PROMPT:  Daniel moved to the hallway.
+Daniel journeyed to the kitchen.
+How many objects is Daniel carrying?
+one
+
+Mary went to the kitchen.
+Sandra picked up the apple there.
+How many objects is Sandra carrying?
+one
+
+John travelled to the bedroom.
+Daniel moved to the bathroom.
+How many objects is Sandra carrying?
+one
+
+Sandra dropped the apple.
+Daniel got the milk there.
+How many objects is Sandra carrying?
+none
+
+Daniel moved to the bedroom.
+Daniel moved to the bathroom.
+How many objects is Sandra carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  Daniel dropped the milk.
+Sandra took the apple there.
+How many objects is Daniel carrying?
+none
+
+Sandra grabbed the football there.
+John moved to the hallway.
+How many objects is Sandra carrying?
+
+ANSWER: none
+PROMPT:  Daniel dropped the milk.
+Sandra took the apple there.
+How many objects is Daniel carrying?
+none
+
+Sandra grabbed the football there.
+John moved to the hallway.
+How many objects is Sandra carrying?
+one
+
+Mary went back to the kitchen.
+Daniel went back to the bathroom.
+How many objects is Sandra carrying?
+
+ANSWER: one
+PROMPT:  Daniel dropped the milk.
+Sandra took the apple there.
+How many objects is Daniel carrying?
+none
+
+Sandra grabbed the football there.
+John moved to the hallway.
+How many objects is Sandra carrying?
+one
+
+Mary went back to the kitchen.
+Daniel went back to the bathroom.
+How many objects is Sandra carrying?
+one
+
+Sandra passed the football to Mary.
+John travelled to the bedroom.
+How many objects is Sandra carrying?
+
+ANSWER: one
+PROMPT:  Daniel dropped the milk.
+Sandra took the apple there.
+How many objects is Daniel carrying?
+none
+
+Sandra grabbed the football there.
+John moved to the hallway.
+How many objects is Sandra carrying?
+one
+
+Mary went back to the kitchen.
+Daniel went back to the bathroom.
+How many objects is Sandra carrying?
+one
+
+Sandra passed the football to Mary.
+John travelled to the bedroom.
+How many objects is Sandra carrying?
+none
+
+Mary gave the football to Sandra.
+John went back to the kitchen.
+How many objects is Sandra carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  Daniel picked up the apple there.
+Daniel travelled to the office.
+How many objects is Mary carrying?
+none
+
+John went back to the bedroom.
+Mary went back to the bedroom.
+Sandra got the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+
+ANSWER: none
+PROMPT:  Daniel picked up the apple there.
+Daniel travelled to the office.
+How many objects is Mary carrying?
+none
+
+John went back to the bedroom.
+Mary went back to the bedroom.
+Sandra got the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John handed the apple to Mary.
+Mary gave the apple to John.
+How many objects is Mary carrying?
+
+ANSWER: none
+PROMPT:  Daniel picked up the apple there.
+Daniel travelled to the office.
+How many objects is Mary carrying?
+none
+
+John went back to the bedroom.
+Mary went back to the bedroom.
+Sandra got the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John handed the apple to Mary.
+Mary gave the apple to John.
+How many objects is Mary carrying?
+none
+
+John gave the apple to Mary.
+Mary passed the apple to John.
+How many objects is Mary carrying?
+
+ANSWER: john handed the apple to
+PROMPT:  Daniel picked up the apple there.
+Daniel travelled to the office.
+How many objects is Mary carrying?
+none
+
+John went back to the bedroom.
+Mary went back to the bedroom.
+Sandra got the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John handed the apple to Mary.
+Mary gave the apple to John.
+How many objects is Mary carrying?
+none
+
+John gave the apple to Mary.
+Mary passed the apple to John.
+How many objects is Mary carrying?
+none
+
+John passed the apple to Mary.
+Mary gave the apple to John.
+How many objects is Mary carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  John handed the apple to Mary.
+Mary went back to the office.
+How many objects is John carrying?
+none
+
+Sandra picked up the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+
+ANSWER: two
+PROMPT:  John handed the apple to Mary.
+Mary went back to the office.
+How many objects is John carrying?
+none
+
+Sandra picked up the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John dropped the apple.
+John grabbed the football there.
+How many objects is John carrying?
+
+ANSWER: none
+PROMPT:  John handed the apple to Mary.
+Mary went back to the office.
+How many objects is John carrying?
+none
+
+Sandra picked up the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John dropped the apple.
+John grabbed the football there.
+How many objects is John carrying?
+one
+
+Mary moved to the bedroom.
+John dropped the football.
+How many objects is John carrying?
+
+ANSWER: one
+PROMPT:  John handed the apple to Mary.
+Mary went back to the office.
+How many objects is John carrying?
+none
+
+Sandra picked up the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John dropped the apple.
+John grabbed the football there.
+How many objects is John carrying?
+one
+
+Mary moved to the bedroom.
+John dropped the football.
+How many objects is John carrying?
+none
+
+Sandra got the apple there.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  John handed the apple to Sandra.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John journeyed to the kitchen.
+John went back to the bedroom.
+John travelled to the bathroom.
+John travelled to the kitchen.
+Daniel went back to the office.
+Sandra travelled to the kitchen.
+Daniel got the milk there.
+Mary journeyed to the kitchen.
+How many objects is Daniel carrying?
+
+ANSWER: none
+PROMPT:  John handed the apple to Sandra.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John journeyed to the kitchen.
+John went back to the bedroom.
+John travelled to the bathroom.
+John travelled to the kitchen.
+Daniel went back to the office.
+Sandra travelled to the kitchen.
+Daniel got the milk there.
+Mary journeyed to the kitchen.
+How many objects is Daniel carrying?
+one
+
+John went to the bedroom.
+Daniel travelled to the garden.
+How many objects is Daniel carrying?
+
+ANSWER: six
+PROMPT:  John handed the apple to Sandra.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John journeyed to the kitchen.
+John went back to the bedroom.
+John travelled to the bathroom.
+John travelled to the kitchen.
+Daniel went back to the office.
+Sandra travelled to the kitchen.
+Daniel got the milk there.
+Mary journeyed to the kitchen.
+How many objects is Daniel carrying?
+one
+
+John went to the bedroom.
+Daniel travelled to the garden.
+How many objects is Daniel carrying?
+one
+
+Sandra went to the hallway.
+Daniel dropped the milk.
+How many objects is Daniel carrying?
+
+ANSWER: one
+PROMPT:  John handed the apple to Sandra.
+Sandra handed the apple to John.
+How many objects is Sandra carrying?
+none
+
+John journeyed to the kitchen.
+John went back to the bedroom.
+John travelled to the bathroom.
+John travelled to the kitchen.
+Daniel went back to the office.
+Sandra travelled to the kitchen.
+Daniel got the milk there.
+Mary journeyed to the kitchen.
+How many objects is Daniel carrying?
+one
+
+John went to the bedroom.
+Daniel travelled to the garden.
+How many objects is Daniel carrying?
+one
+
+Sandra went to the hallway.
+Daniel dropped the milk.
+How many objects is Daniel carrying?
+none
+
+Sandra went to the garden.
+Sandra picked up the milk there.
+How many objects is Sandra carrying?
+
+ANSWER: the milk
+IS FIRST!!
+PROMPT:  Sandra passed the milk to Daniel.
+Daniel went to the office.
+How many objects is Sandra carrying?
+none
+
+Daniel moved to the garden.
+Mary went to the bedroom.
+John travelled to the bedroom.
+John went to the kitchen.
+John grabbed the football there.
+Sandra journeyed to the hallway.
+How many objects is John carrying?
+
+ANSWER: none
+PROMPT:  Sandra passed the milk to Daniel.
+Daniel went to the office.
+How many objects is Sandra carrying?
+none
+
+Daniel moved to the garden.
+Mary went to the bedroom.
+John travelled to the bedroom.
+John went to the kitchen.
+John grabbed the football there.
+Sandra journeyed to the hallway.
+How many objects is John carrying?
+one
+
+Sandra got the apple there.
+Daniel travelled to the hallway.
+How many objects is Sandra carrying?
+
+ANSWER: five
+PROMPT:  Sandra passed the milk to Daniel.
+Daniel went to the office.
+How many objects is Sandra carrying?
+none
+
+Daniel moved to the garden.
+Mary went to the bedroom.
+John travelled to the bedroom.
+John went to the kitchen.
+John grabbed the football there.
+Sandra journeyed to the hallway.
+How many objects is John carrying?
+one
+
+Sandra got the apple there.
+Daniel travelled to the hallway.
+How many objects is Sandra carrying?
+one
+
+Sandra gave the apple to Daniel.
+Daniel passed the apple to Sandra.
+How many objects is Daniel carrying?
+
+ANSWER: one
+PROMPT:  Sandra passed the milk to Daniel.
+Daniel went to the office.
+How many objects is Sandra carrying?
+none
+
+Daniel moved to the garden.
+Mary went to the bedroom.
+John travelled to the bedroom.
+John went to the kitchen.
+John grabbed the football there.
+Sandra journeyed to the hallway.
+How many objects is John carrying?
+one
+
+Sandra got the apple there.
+Daniel travelled to the hallway.
+How many objects is Sandra carrying?
+one
+
+Sandra gave the apple to Daniel.
+Daniel passed the apple to Sandra.
+How many objects is Daniel carrying?
+none
+
+Sandra left the apple.
+Daniel grabbed the apple there.
+How many objects is Sandra carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  John left the football.
+Daniel passed the apple to Sandra.
+How many objects is Sandra carrying?
+one
+
+Sandra went back to the bathroom.
+Mary moved to the garden.
+Mary travelled to the bathroom.
+Mary moved to the bedroom.
+Daniel went back to the kitchen.
+Mary moved to the hallway.
+Sandra moved to the office.
+Mary picked up the football there.
+How many objects is Mary carrying?
+
+ANSWER: one
+PROMPT:  John left the football.
+Daniel passed the apple to Sandra.
+How many objects is Sandra carrying?
+one
+
+Sandra went back to the bathroom.
+Mary moved to the garden.
+Mary travelled to the bathroom.
+Mary moved to the bedroom.
+Daniel went back to the kitchen.
+Mary moved to the hallway.
+Sandra moved to the office.
+Mary picked up the football there.
+How many objects is Mary carrying?
+one
+
+Sandra travelled to the kitchen.
+Mary went to the kitchen.
+How many objects is Mary carrying?
+
+ANSWER: one
+PROMPT:  John left the football.
+Daniel passed the apple to Sandra.
+How many objects is Sandra carrying?
+one
+
+Sandra went back to the bathroom.
+Mary moved to the garden.
+Mary travelled to the bathroom.
+Mary moved to the bedroom.
+Daniel went back to the kitchen.
+Mary moved to the hallway.
+Sandra moved to the office.
+Mary picked up the football there.
+How many objects is Mary carrying?
+one
+
+Sandra travelled to the kitchen.
+Mary went to the kitchen.
+How many objects is Mary carrying?
+one
+
+Sandra moved to the bedroom.
+Mary handed the football to Daniel.
+How many objects is Mary carrying?
+
+ANSWER: one
+PROMPT:  John left the football.
+Daniel passed the apple to Sandra.
+How many objects is Sandra carrying?
+one
+
+Sandra went back to the bathroom.
+Mary moved to the garden.
+Mary travelled to the bathroom.
+Mary moved to the bedroom.
+Daniel went back to the kitchen.
+Mary moved to the hallway.
+Sandra moved to the office.
+Mary picked up the football there.
+How many objects is Mary carrying?
+one
+
+Sandra travelled to the kitchen.
+Mary went to the kitchen.
+How many objects is Mary carrying?
+one
+
+Sandra moved to the bedroom.
+Mary handed the football to Daniel.
+How many objects is Mary carrying?
+none
+
+John took the apple there.
+Mary went back to the bathroom.
+How many objects is Mary carrying?
+
+ANSWER: a box of sweets
+IS FIRST!!
+PROMPT:  Mary went to the kitchen.
+Daniel handed the football to Mary.
+How many objects is John carrying?
+one
+
+Sandra went to the bathroom.
+John moved to the garden.
+Daniel picked up the apple there.
+Daniel handed the apple to Mary.
+How many objects is Daniel carrying?
+
+ANSWER: paspberry
+PROMPT:  Mary went to the kitchen.
+Daniel handed the football to Mary.
+How many objects is John carrying?
+one
+
+Sandra went to the bathroom.
+John moved to the garden.
+Daniel picked up the apple there.
+Daniel handed the apple to Mary.
+How many objects is Daniel carrying?
+none
+
+Mary gave the apple to Daniel.
+Daniel gave the apple to Mary.
+How many objects is Daniel carrying?
+
+ANSWER: two
+PROMPT:  Mary went to the kitchen.
+Daniel handed the football to Mary.
+How many objects is John carrying?
+one
+
+Sandra went to the bathroom.
+John moved to the garden.
+Daniel picked up the apple there.
+Daniel handed the apple to Mary.
+How many objects is Daniel carrying?
+none
+
+Mary gave the apple to Daniel.
+Daniel gave the apple to Mary.
+How many objects is Daniel carrying?
+none
+
+Mary gave the apple to Daniel.
+Sandra picked up the football there.
+How many objects is Daniel carrying?
+
+ANSWER: none
+PROMPT:  Mary went to the kitchen.
+Daniel handed the football to Mary.
+How many objects is John carrying?
+one
+
+Sandra went to the bathroom.
+John moved to the garden.
+Daniel picked up the apple there.
+Daniel handed the apple to Mary.
+How many objects is Daniel carrying?
+none
+
+Mary gave the apple to Daniel.
+Daniel gave the apple to Mary.
+How many objects is Daniel carrying?
+none
+
+Mary gave the apple to Daniel.
+Sandra picked up the football there.
+How many objects is Daniel carrying?
+one
+
+Daniel passed the apple to Mary.
+Mary travelled to the kitchen.
+How many objects is Daniel carrying?
+
+ANSWER: one
+IS FIRST!!
+PROMPT:  Mary moved to the bathroom.
+Mary dropped the apple.
+How many objects is Mary carrying?
+none
+
+Mary grabbed the milk there.
+Daniel went to the office.
+How many objects is Mary carrying?
+
+ANSWER: none
+PROMPT:  Mary moved to the bathroom.
+Mary dropped the apple.
+How many objects is Mary carrying?
+none
+
+Mary grabbed the milk there.
+Daniel went to the office.
+How many objects is Mary carrying?
+one
+
+Sandra went back to the kitchen.
+Daniel travelled to the bathroom.
+How many objects is Mary carrying?
+
+ANSWER: none
+PROMPT:  Mary moved to the bathroom.
+Mary dropped the apple.
+How many objects is Mary carrying?
+none
+
+Mary grabbed the milk there.
+Daniel went to the office.
+How many objects is Mary carrying?
+one
+
+Sandra went back to the kitchen.
+Daniel travelled to the bathroom.
+How many objects is Mary carrying?
+one
+
+Mary passed the milk to Daniel.
+Daniel put down the milk.
+How many objects is Mary carrying?
+
+ANSWER: one
+PROMPT:  Mary moved to the bathroom.
+Mary dropped the apple.
+How many objects is Mary carrying?
+none
+
+Mary grabbed the milk there.
+Daniel went to the office.
+How many objects is Mary carrying?
+one
+
+Sandra went back to the kitchen.
+Daniel travelled to the bathroom.
+How many objects is Mary carrying?
+one
+
+Mary passed the milk to Daniel.
+Daniel put down the milk.
+How many objects is Mary carrying?
+none
+
+John moved to the kitchen.
+Sandra took the apple there.
+How many objects is Daniel carrying?
+
+ANSWER: two
+IS FIRST!!
+PROMPT:  Sandra gave the apple to John.
+Daniel travelled to the bedroom.
+How many objects is Sandra carrying?
+none
+
+Daniel journeyed to the garden.
+John travelled to the garden.
+John grabbed the milk there.
+John passed the milk to Mary.
+How many objects is John carrying?
+
+ANSWER: none
+PROMPT:  Sandra gave the apple to John.
+Daniel travelled to the bedroom.
+How many objects is Sandra carrying?
+none
+
+Daniel journeyed to the garden.
+John travelled to the garden.
+John grabbed the milk there.
+John passed the milk to Mary.
+How many objects is John carrying?
+none
+
+Sandra went back to the office.
+Sandra moved to the hallway.
+How many objects is John carrying?
+
+ANSWER: two objects
+PROMPT:  Sandra gave the apple to John.
+Daniel travelled to the bedroom.
+How many objects is Sandra carrying?
+none
+
+Daniel journeyed to the garden.
+John travelled to the garden.
+John grabbed the milk there.
+John passed the milk to Mary.
+How many objects is John carrying?
+none
+
+Sandra went back to the office.
+Sandra moved to the hallway.
+How many objects is John carrying?
+none
+
+Mary gave the milk to John.
+John put down the milk.
+How many objects is Mary carrying?
+
+ANSWER: one
+PROMPT:  Sandra gave the apple to John.
+Daniel travelled to the bedroom.
+How many objects is Sandra carrying?
+none
+
+Daniel journeyed to the garden.
+John travelled to the garden.
+John grabbed the milk there.
+John passed the milk to Mary.
+How many objects is John carrying?
+none
+
+Sandra went back to the office.
+Sandra moved to the hallway.
+How many objects is John carrying?
+none
+
+Mary gave the milk to John.
+John put down the milk.
+How many objects is Mary carrying?
+none
+
+Daniel got the milk there.
+Daniel passed the milk to John.
+How many objects is John carrying?
+
+ANSWER: one
+IS FIRST!!
+PROMPT:  Sandra journeyed to the bathroom.
+John handed the milk to Mary.
+How many objects is Daniel carrying?
+none
+
+Sandra moved to the bathroom.
+Daniel journeyed to the bedroom.
+Daniel went to the kitchen.
+Daniel went back to the bedroom.
+Sandra went back to the kitchen.
+Sandra travelled to the office.
+Sandra went back to the bathroom.
+Sandra moved to the kitchen.
+Mary went back to the kitchen.
+Daniel went to the office.
+Sandra picked up the football there.
+Daniel grabbed the milk there.
+How many objects is Daniel carrying?
+
+ANSWER: six
+PROMPT:  Sandra journeyed to the bathroom.
+John handed the milk to Mary.
+How many objects is Daniel carrying?
+none
+
+Sandra moved to the bathroom.
+Daniel journeyed to the bedroom.
+Daniel went to the kitchen.
+Daniel went back to the bedroom.
+Sandra went back to the kitchen.
+Sandra travelled to the office.
+Sandra went back to the bathroom.
+Sandra moved to the kitchen.
+Mary went back to the kitchen.
+Daniel went to the office.
+Sandra picked up the football there.
+Daniel grabbed the milk there.
+How many objects is Daniel carrying?
+one
+
+Daniel dropped the milk.
+Sandra put down the football.
+How many objects is Daniel carrying?
+
+ANSWER: seven
+PROMPT:  Sandra journeyed to the bathroom.
+John handed the milk to Mary.
+How many objects is Daniel carrying?
+none
+
+Sandra moved to the bathroom.
+Daniel journeyed to the bedroom.
+Daniel went to the kitchen.
+Daniel went back to the bedroom.
+Sandra went back to the kitchen.
+Sandra travelled to the office.
+Sandra went back to the bathroom.
+Sandra moved to the kitchen.
+Mary went back to the kitchen.
+Daniel went to the office.
+Sandra picked up the football there.
+Daniel grabbed the milk there.
+How many objects is Daniel carrying?
+one
+
+Daniel dropped the milk.
+Sandra put down the football.
+How many objects is Daniel carrying?
+none
+
+Mary got the football there.
+Daniel went back to the bedroom.
+How many objects is Daniel carrying?
+
+ANSWER: one
+PROMPT:  Sandra journeyed to the bathroom.
+John handed the milk to Mary.
+How many objects is Daniel carrying?
+none
+
+Sandra moved to the bathroom.
+Daniel journeyed to the bedroom.
+Daniel went to the kitchen.
+Daniel went back to the bedroom.
+Sandra went back to the kitchen.
+Sandra travelled to the office.
+Sandra went back to the bathroom.
+Sandra moved to the kitchen.
+Mary went back to the kitchen.
+Daniel went to the office.
+Sandra picked up the football there.
+Daniel grabbed the milk there.
+How many objects is Daniel carrying?
+one
+
+Daniel dropped the milk.
+Sandra put down the football.
+How many objects is Daniel carrying?
+none
+
+Mary got the football there.
+Daniel went back to the bedroom.
+How many objects is Daniel carrying?
+none
+
+Mary handed the football to Sandra.
+John travelled to the office.
+How many objects is Mary carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  Sandra left the football there.
+Sandra took the football there.
+How many objects is Mary carrying?
+none
+
+John travelled to the bathroom.
+John went back to the hallway.
+John took the apple there.
+Daniel journeyed to the kitchen.
+How many objects is John carrying?
+
+ANSWER: all
+PROMPT:  Sandra left the football there.
+Sandra took the football there.
+How many objects is Mary carrying?
+none
+
+John travelled to the bathroom.
+John went back to the hallway.
+John took the apple there.
+Daniel journeyed to the kitchen.
+How many objects is John carrying?
+one
+
+John journeyed to the office.
+Daniel went to the office.
+How many objects is John carrying?
+
+ANSWER: two
+PROMPT:  Sandra left the football there.
+Sandra took the football there.
+How many objects is Mary carrying?
+none
+
+John travelled to the bathroom.
+John went back to the hallway.
+John took the apple there.
+Daniel journeyed to the kitchen.
+How many objects is John carrying?
+one
+
+John journeyed to the office.
+Daniel went to the office.
+How many objects is John carrying?
+one
+
+Mary journeyed to the hallway.
+John moved to the garden.
+Daniel travelled to the bathroom.
+John grabbed the milk there.
+How many objects is John carrying?
+
+ANSWER: one
+PROMPT:  Sandra left the football there.
+Sandra took the football there.
+How many objects is Mary carrying?
+none
+
+John travelled to the bathroom.
+John went back to the hallway.
+John took the apple there.
+Daniel journeyed to the kitchen.
+How many objects is John carrying?
+one
+
+John journeyed to the office.
+Daniel went to the office.
+How many objects is John carrying?
+one
+
+Mary journeyed to the hallway.
+John moved to the garden.
+Daniel travelled to the bathroom.
+John grabbed the milk there.
+How many objects is John carrying?
+two
+
+John left the milk there.
+John discarded the apple.
+How many objects is John carrying?
+
+ANSWER: one
+IS FIRST!!
+PROMPT:  John went to the office.
+John went back to the garden.
+How many objects is John carrying?
+none
+
+John picked up the football there.
+Daniel moved to the garden.
+How many objects is John carrying?
+
+ANSWER: none
+PROMPT:  John went to the office.
+John went back to the garden.
+How many objects is John carrying?
+none
+
+John picked up the football there.
+Daniel moved to the garden.
+How many objects is John carrying?
+one
+
+John journeyed to the bedroom.
+John picked up the apple there.
+How many objects is John carrying?
+
+ANSWER: nine
+PROMPT:  John went to the office.
+John went back to the garden.
+How many objects is John carrying?
+none
+
+John picked up the football there.
+Daniel moved to the garden.
+How many objects is John carrying?
+one
+
+John journeyed to the bedroom.
+John picked up the apple there.
+How many objects is John carrying?
+two
+
+Mary journeyed to the bathroom.
+John discarded the apple.
+How many objects is John carrying?
+
+ANSWER: one
+PROMPT:  John went to the office.
+John went back to the garden.
+How many objects is John carrying?
+none
+
+John picked up the football there.
+Daniel moved to the garden.
+How many objects is John carrying?
+one
+
+John journeyed to the bedroom.
+John picked up the apple there.
+How many objects is John carrying?
+two
+
+Mary journeyed to the bathroom.
+John discarded the apple.
+How many objects is John carrying?
+one
+
+Daniel travelled to the bedroom.
+Daniel went to the garden.
+How many objects is John carrying?
+
+ANSWER: two
+IS FIRST!!
+PROMPT:  Daniel went back to the office.
+John discarded the football.
+How many objects is John carrying?
+none
+
+Mary moved to the kitchen.
+Daniel moved to the bathroom.
+Sandra moved to the kitchen.
+Mary went back to the hallway.
+Sandra moved to the bathroom.
+John went back to the office.
+John journeyed to the bathroom.
+Daniel took the football there.
+How many objects is Daniel carrying?
+
+ANSWER: none
+PROMPT:  Daniel went back to the office.
+John discarded the football.
+How many objects is John carrying?
+none
+
+Mary moved to the kitchen.
+Daniel moved to the bathroom.
+Sandra moved to the kitchen.
+Mary went back to the hallway.
+Sandra moved to the bathroom.
+John went back to the office.
+John journeyed to the bathroom.
+Daniel took the football there.
+How many objects is Daniel carrying?
+one
+
+Daniel handed the football to John.
+John handed the football to Sandra.
+How many objects is Daniel carrying?
+
+ANSWER: two
+PROMPT:  Daniel went back to the office.
+John discarded the football.
+How many objects is John carrying?
+none
+
+Mary moved to the kitchen.
+Daniel moved to the bathroom.
+Sandra moved to the kitchen.
+Mary went back to the hallway.
+Sandra moved to the bathroom.
+John went back to the office.
+John journeyed to the bathroom.
+Daniel took the football there.
+How many objects is Daniel carrying?
+one
+
+Daniel handed the football to John.
+John handed the football to Sandra.
+How many objects is Daniel carrying?
+none
+
+Sandra passed the football to John.
+John gave the football to Sandra.
+How many objects is John carrying?
+
+ANSWER: nine
+PROMPT:  Daniel went back to the office.
+John discarded the football.
+How many objects is John carrying?
+none
+
+Mary moved to the kitchen.
+Daniel moved to the bathroom.
+Sandra moved to the kitchen.
+Mary went back to the hallway.
+Sandra moved to the bathroom.
+John went back to the office.
+John journeyed to the bathroom.
+Daniel took the football there.
+How many objects is Daniel carrying?
+one
+
+Daniel handed the football to John.
+John handed the football to Sandra.
+How many objects is Daniel carrying?
+none
+
+Sandra passed the football to John.
+John gave the football to Sandra.
+How many objects is John carrying?
+none
+
+Sandra discarded the football.
+Sandra journeyed to the hallway.
+How many objects is John carrying?
+
+ANSWER: one
+IS FIRST!!
+PROMPT:  Mary went to the office.
+Sandra travelled to the kitchen.
+How many objects is John carrying?
+none
+
+Sandra went to the kitchen.
+Daniel went back to the hallway.
+John travelled to the kitchen.
+Daniel journeyed to the bathroom.
+Mary moved to the bathroom.
+Daniel grabbed the milk there.
+How many objects is Daniel carrying?
+
+ANSWER: one
+PROMPT:  Mary went to the office.
+Sandra travelled to the kitchen.
+How many objects is John carrying?
+none
+
+Sandra went to the kitchen.
+Daniel went back to the hallway.
+John travelled to the kitchen.
+Daniel journeyed to the bathroom.
+Mary moved to the bathroom.
+Daniel grabbed the milk there.
+How many objects is Daniel carrying?
+one
+
+Daniel journeyed to the office.
+Mary travelled to the office.
+How many objects is Daniel carrying?
+
+ANSWER: 2
+PROMPT:  Mary went to the office.
+Sandra travelled to the kitchen.
+How many objects is John carrying?
+none
+
+Sandra went to the kitchen.
+Daniel went back to the hallway.
+John travelled to the kitchen.
+Daniel journeyed to the bathroom.
+Mary moved to the bathroom.
+Daniel grabbed the milk there.
+How many objects is Daniel carrying?
+one
+
+Daniel journeyed to the office.
+Mary travelled to the office.
+How many objects is Daniel carrying?
+one
+
+Daniel passed the milk to Mary.
+Mary gave the milk to Daniel.
+How many objects is Mary carrying?
+
+ANSWER: two
+PROMPT:  Mary went to the office.
+Sandra travelled to the kitchen.
+How many objects is John carrying?
+none
+
+Sandra went to the kitchen.
+Daniel went back to the hallway.
+John travelled to the kitchen.
+Daniel journeyed to the bathroom.
+Mary moved to the bathroom.
+Daniel grabbed the milk there.
+How many objects is Daniel carrying?
+one
+
+Daniel journeyed to the office.
+Mary travelled to the office.
+How many objects is Daniel carrying?
+one
+
+Daniel passed the milk to Mary.
+Mary gave the milk to Daniel.
+How many objects is Mary carrying?
+none
+
+Daniel moved to the bathroom.
+Mary went back to the hallway.
+How many objects is Mary carrying?
+
+ANSWER: one
+IS FIRST!!
+PROMPT:  Daniel moved to the kitchen.
+Mary moved to the bedroom.
+How many objects is Mary carrying?
+none
+
+John got the football there.
+John passed the football to Sandra.
+How many objects is John carrying?
+
+ANSWER: none
+PROMPT:  Daniel moved to the kitchen.
+Mary moved to the bedroom.
+How many objects is Mary carrying?
+none
+
+John got the football there.
+John passed the football to Sandra.
+How many objects is John carrying?
+none
+
+Sandra went back to the kitchen.
+John travelled to the hallway.
+How many objects is John carrying?
+
+ANSWER: none
+PROMPT:  Daniel moved to the kitchen.
+Mary moved to the bedroom.
+How many objects is Mary carrying?
+none
+
+John got the football there.
+John passed the football to Sandra.
+How many objects is John carrying?
+none
+
+Sandra went back to the kitchen.
+John travelled to the hallway.
+How many objects is John carrying?
+none
+
+Sandra left the football.
+John went to the garden.
+How many objects is John carrying?
+
+ANSWER: none
+PROMPT:  Daniel moved to the kitchen.
+Mary moved to the bedroom.
+How many objects is Mary carrying?
+none
+
+John got the football there.
+John passed the football to Sandra.
+How many objects is John carrying?
+none
+
+Sandra went back to the kitchen.
+John travelled to the hallway.
+How many objects is John carrying?
+none
+
+Sandra left the football.
+John went to the garden.
+How many objects is John carrying?
+none
+
+Sandra went back to the garden.
+Daniel journeyed to the bedroom.
+How many objects is Sandra carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  Sandra went back to the kitchen.
+Daniel went back to the office.
+Sandra went back to the office.
+Sandra went back to the kitchen.
+Daniel moved to the bedroom.
+Sandra journeyed to the bathroom.
+Mary travelled to the bedroom.
+Sandra travelled to the garden.
+Daniel journeyed to the garden.
+Daniel went back to the kitchen.
+Daniel picked up the football there.
+Daniel took the milk there.
+How many objects is Daniel carrying?
+two
+
+Mary took the milk there.
+Daniel went back to the bedroom.
+How many objects is Mary carrying?
+
+ANSWER: eight
+PROMPT:  Sandra went back to the kitchen.
+Daniel went back to the office.
+Sandra went back to the office.
+Sandra went back to the kitchen.
+Daniel moved to the bedroom.
+Sandra journeyed to the bathroom.
+Mary travelled to the bedroom.
+Sandra travelled to the garden.
+Daniel journeyed to the garden.
+Daniel went back to the kitchen.
+Daniel picked up the football there.
+Daniel took the milk there.
+How many objects is Daniel carrying?
+two
+
+Mary took the milk there.
+Daniel went back to the bedroom.
+How many objects is Mary carrying?
+one
+
+Mary passed the milk to Daniel.
+John journeyed to the bedroom.
+How many objects is Mary carrying?
+
+ANSWER: three
+PROMPT:  Sandra went back to the kitchen.
+Daniel went back to the office.
+Sandra went back to the office.
+Sandra went back to the kitchen.
+Daniel moved to the bedroom.
+Sandra journeyed to the bathroom.
+Mary travelled to the bedroom.
+Sandra travelled to the garden.
+Daniel journeyed to the garden.
+Daniel went back to the kitchen.
+Daniel picked up the football there.
+Daniel took the milk there.
+How many objects is Daniel carrying?
+two
+
+Mary took the milk there.
+Daniel went back to the bedroom.
+How many objects is Mary carrying?
+one
+
+Mary passed the milk to Daniel.
+John journeyed to the bedroom.
+How many objects is Mary carrying?
+none
+
+Mary went to the office.
+Daniel gave the milk to John.
+How many objects is Mary carrying?
+
+ANSWER: three
+PROMPT:  Sandra went back to the kitchen.
+Daniel went back to the office.
+Sandra went back to the office.
+Sandra went back to the kitchen.
+Daniel moved to the bedroom.
+Sandra journeyed to the bathroom.
+Mary travelled to the bedroom.
+Sandra travelled to the garden.
+Daniel journeyed to the garden.
+Daniel went back to the kitchen.
+Daniel picked up the football there.
+Daniel took the milk there.
+How many objects is Daniel carrying?
+two
+
+Mary took the milk there.
+Daniel went back to the bedroom.
+How many objects is Mary carrying?
+one
+
+Mary passed the milk to Daniel.
+John journeyed to the bedroom.
+How many objects is Mary carrying?
+none
+
+Mary went to the office.
+Daniel gave the milk to John.
+How many objects is Mary carrying?
+none
+
+John passed the milk to Daniel.
+Sandra went back to the bedroom.
+How many objects is Daniel carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  Mary went back to the garden.
+Mary went back to the bedroom.
+How many objects is John carrying?
+none
+
+Daniel took the milk there.
+Sandra moved to the bedroom.
+How many objects is Daniel carrying?
+
+ANSWER: none
+PROMPT:  Mary went back to the garden.
+Mary went back to the bedroom.
+How many objects is John carrying?
+none
+
+Daniel took the milk there.
+Sandra moved to the bedroom.
+How many objects is Daniel carrying?
+one
+
+Daniel moved to the office.
+Daniel dropped the milk.
+How many objects is Daniel carrying?
+
+ANSWER: two
+PROMPT:  Mary went back to the garden.
+Mary went back to the bedroom.
+How many objects is John carrying?
+none
+
+Daniel took the milk there.
+Sandra moved to the bedroom.
+How many objects is Daniel carrying?
+one
+
+Daniel moved to the office.
+Daniel dropped the milk.
+How many objects is Daniel carrying?
+none
+
+Daniel travelled to the kitchen.
+John moved to the office.
+How many objects is Daniel carrying?
+
+ANSWER: one
+PROMPT:  Mary went back to the garden.
+Mary went back to the bedroom.
+How many objects is John carrying?
+none
+
+Daniel took the milk there.
+Sandra moved to the bedroom.
+How many objects is Daniel carrying?
+one
+
+Daniel moved to the office.
+Daniel dropped the milk.
+How many objects is Daniel carrying?
+none
+
+Daniel travelled to the kitchen.
+John moved to the office.
+How many objects is Daniel carrying?
+none
+
+John moved to the hallway.
+Daniel journeyed to the bedroom.
+How many objects is Daniel carrying?
+
+ANSWER: none
+IS FIRST!!
+PROMPT:  Sandra moved to the bathroom.
+Mary went back to the garden.
+Sandra moved to the hallway.
+Daniel went to the bathroom.
+Sandra went to the garden.
+Daniel moved to the office.
+John moved to the bathroom.
+Daniel picked up the milk there.
+How many objects is Daniel carrying?
+one
+
+Sandra picked up the football there.
+Mary went to the office.
+How many objects is Sandra carrying?
+
+ANSWER: another
+PROMPT:  Sandra moved to the bathroom.
+Mary went back to the garden.
+Sandra moved to the hallway.
+Daniel went to the bathroom.
+Sandra went to the garden.
+Daniel moved to the office.
+John moved to the bathroom.
+Daniel picked up the milk there.
+How many objects is Daniel carrying?
+one
+
+Sandra picked up the football there.
+Mary went to the office.
+How many objects is Sandra carrying?
+one
+
+Sandra dropped the football.
+Daniel moved to the garden.
+How many objects is Sandra carrying?
+
+ANSWER: two
+PROMPT:  Sandra moved to the bathroom.
+Mary went back to the garden.
+Sandra moved to the hallway.
+Daniel went to the bathroom.
+Sandra went to the garden.
+Daniel moved to the office.
+John moved to the bathroom.
+Daniel picked up the milk there.
+How many objects is Daniel carrying?
+one
+
+Sandra picked up the football there.
+Mary went to the office.
+How many objects is Sandra carrying?
+one
+
+Sandra dropped the football.
+Daniel moved to the garden.
+How many objects is Sandra carrying?
+none
+
+Sandra moved to the kitchen.
+John travelled to the bedroom.
+How many objects is Sandra carrying?
+
+ANSWER: one
+PROMPT:  Sandra moved to the bathroom.
+Mary went back to the garden.
+Sandra moved to the hallway.
+Daniel went to the bathroom.
+Sandra went to the garden.
+Daniel moved to the office.
+John moved to the bathroom.
+Daniel picked up the milk there.
+How many objects is Daniel carrying?
+one
+
+Sandra picked up the football there.
+Mary went to the office.
+How many objects is Sandra carrying?
+one
+
+Sandra dropped the football.
+Daniel moved to the garden.
+How many objects is Sandra carrying?
+none
+
+Sandra moved to the kitchen.
+John travelled to the bedroom.
+How many objects is Sandra carrying?
+none
+
+Daniel journeyed to the bathroom.
+Sandra went back to the bedroom.
+Daniel travelled to the office.
+Mary picked up the apple there.
+How many objects is Mary carrying?
+
+ANSWER: one
+IS FIRST!!
+NUM QUESTIONS: 79 NUM CORRECT: 33 PERCENT ACCURACY: 0.4177215189873418

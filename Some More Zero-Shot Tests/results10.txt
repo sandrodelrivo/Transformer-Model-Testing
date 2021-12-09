@@ -1,0 +1,1483 @@
+2021-12-07 21:35:11,042 INFO     | creating task(s): babi:task10k:10
+2021-12-07 21:35:11,105 INFO     | loading fbdialog data: C:\Users\sandr\ParlAI\data\bAbI\tasks_1-20_v1-2\en-valid-10k-nosf\qa10_train.txt
+PROMPT:  Mary is either in the bedroom or the school.
+Mary is either in the park or the park.
+Is Mary in the park?
+
+ANSWER: mary is up stairs
+PROMPT:  Mary is either in the bedroom or the school.
+Mary is either in the park or the park.
+Is Mary in the park?
+maybe
+
+Mary is in the bedroom.
+Julie is in the cinema.
+Is Mary in the kitchen?
+
+ANSWER: yes
+PROMPT:  Mary is either in the bedroom or the school.
+Mary is either in the park or the park.
+Is Mary in the park?
+maybe
+
+Mary is in the bedroom.
+Julie is in the cinema.
+Is Mary in the kitchen?
+no
+
+Bill journeyed to the office.
+Bill went to the kitchen.
+Is Bill in the kitchen?
+
+ANSWER: no, bill wasn't
+PROMPT:  Mary is either in the bedroom or the school.
+Mary is either in the park or the park.
+Is Mary in the park?
+maybe
+
+Mary is in the bedroom.
+Julie is in the cinema.
+Is Mary in the kitchen?
+no
+
+Bill journeyed to the office.
+Bill went to the kitchen.
+Is Bill in the kitchen?
+yes
+
+Bill is in the cinema.
+Mary is either in the bedroom or the cinema.
+Is Julie in the bedroom?
+
+ANSWER: yes
+PROMPT:  Julie is either in the office or the bedroom.
+Mary went back to the bedroom.
+Is Julie in the office?
+
+ANSWER: maybe she's got
+PROMPT:  Julie is either in the office or the bedroom.
+Mary went back to the bedroom.
+Is Julie in the office?
+maybe
+
+Fred is in the kitchen.
+Mary moved to the office.
+Is Mary in the office?
+
+ANSWER: yes
+PROMPT:  Julie is either in the office or the bedroom.
+Mary went back to the bedroom.
+Is Julie in the office?
+maybe
+
+Fred is in the kitchen.
+Mary moved to the office.
+Is Mary in the office?
+yes
+
+Julie is either in the kitchen or the cinema.
+Fred is either in the school or the kitchen.
+Is Fred in the school?
+
+ANSWER: yes - yes car
+PROMPT:  Julie is either in the office or the bedroom.
+Mary went back to the bedroom.
+Is Julie in the office?
+maybe
+
+Fred is in the kitchen.
+Mary moved to the office.
+Is Mary in the office?
+yes
+
+Julie is either in the kitchen or the cinema.
+Fred is either in the school or the kitchen.
+Is Fred in the school?
+maybe
+
+Mary is either in the bedroom or the park.
+Fred is in the park.
+Is Fred in the kitchen?
+
+ANSWER: yes
+PROMPT:  Julie is either in the office or the bedroom.
+Mary went back to the bedroom.
+Is Julie in the office?
+maybe
+
+Fred is in the kitchen.
+Mary moved to the office.
+Is Mary in the office?
+yes
+
+Julie is either in the kitchen or the cinema.
+Fred is either in the school or the kitchen.
+Is Fred in the school?
+maybe
+
+Mary is either in the bedroom or the park.
+Fred is in the park.
+Is Fred in the kitchen?
+no
+
+Julie travelled to the office.
+Julie went to the school.
+Is Julie in the school?
+
+ANSWER: maybe
+PROMPT:  Bill is either in the office or the bedroom.
+Mary journeyed to the school.
+Is Mary in the kitchen?
+
+ANSWER: no, she hasn't
+PROMPT:  Bill is either in the office or the bedroom.
+Mary journeyed to the school.
+Is Mary in the kitchen?
+no
+
+Fred went to the school.
+Julie went to the cinema.
+Is Julie in the cinema?
+
+ANSWER: no
+PROMPT:  Bill is either in the office or the bedroom.
+Mary journeyed to the school.
+Is Mary in the kitchen?
+no
+
+Fred went to the school.
+Julie went to the cinema.
+Is Julie in the cinema?
+yes
+
+Fred is either in the cinema or the park.
+Bill went to the office.
+Is Julie in the kitchen?
+
+ANSWER: no
+PROMPT:  Bill is either in the office or the bedroom.
+Mary journeyed to the school.
+Is Mary in the kitchen?
+no
+
+Fred went to the school.
+Julie went to the cinema.
+Is Julie in the cinema?
+yes
+
+Fred is either in the cinema or the park.
+Bill went to the office.
+Is Julie in the kitchen?
+no
+
+Fred went to the kitchen.
+Julie is in the bedroom.
+Is Julie in the bedroom?
+
+ANSWER: no
+PROMPT:  Bill is either in the office or the bedroom.
+Mary journeyed to the school.
+Is Mary in the kitchen?
+no
+
+Fred went to the school.
+Julie went to the cinema.
+Is Julie in the cinema?
+yes
+
+Fred is either in the cinema or the park.
+Bill went to the office.
+Is Julie in the kitchen?
+no
+
+Fred went to the kitchen.
+Julie is in the bedroom.
+Is Julie in the bedroom?
+yes
+
+Julie moved to the kitchen.
+Fred is in the office.
+Is Julie in the kitchen?
+
+ANSWER: yes
+PROMPT:  Julie is either in the office or the bedroom.
+Bill journeyed to the park.
+Is Julie in the school?
+
+ANSWER: yes
+PROMPT:  Julie is either in the office or the bedroom.
+Bill journeyed to the park.
+Is Julie in the school?
+no
+
+Bill is either in the bedroom or the school.
+Bill is either in the school or the kitchen.
+Is Bill in the kitchen?
+
+ANSWER: no
+PROMPT:  Julie is either in the office or the bedroom.
+Bill journeyed to the park.
+Is Julie in the school?
+no
+
+Bill is either in the bedroom or the school.
+Bill is either in the school or the kitchen.
+Is Bill in the kitchen?
+maybe
+
+Bill travelled to the bedroom.
+Bill is either in the bedroom or the park.
+Is Bill in the cinema?
+
+ANSWER: yes
+PROMPT:  Julie is either in the office or the bedroom.
+Bill journeyed to the park.
+Is Julie in the school?
+no
+
+Bill is either in the bedroom or the school.
+Bill is either in the school or the kitchen.
+Is Bill in the kitchen?
+maybe
+
+Bill travelled to the bedroom.
+Bill is either in the bedroom or the park.
+Is Bill in the cinema?
+no
+
+Julie is in the park.
+Bill went to the office.
+Is Julie in the park?
+
+ANSWER: no
+PROMPT:  Julie is either in the office or the bedroom.
+Bill journeyed to the park.
+Is Julie in the school?
+no
+
+Bill is either in the bedroom or the school.
+Bill is either in the school or the kitchen.
+Is Bill in the kitchen?
+maybe
+
+Bill travelled to the bedroom.
+Bill is either in the bedroom or the park.
+Is Bill in the cinema?
+no
+
+Julie is in the park.
+Bill went to the office.
+Is Julie in the park?
+yes
+
+Mary travelled to the park.
+Julie is either in the bedroom or the school.
+Is Bill in the office?
+
+ANSWER: no
+PROMPT:  Fred is in the cinema.
+Mary journeyed to the school.
+Is Mary in the school?
+
+ANSWER: mary has ever, been
+PROMPT:  Fred is in the cinema.
+Mary journeyed to the school.
+Is Mary in the school?
+yes
+
+Mary travelled to the office.
+Julie moved to the park.
+Is Mary in the kitchen?
+
+ANSWER: yes
+PROMPT:  Fred is in the cinema.
+Mary journeyed to the school.
+Is Mary in the school?
+yes
+
+Mary travelled to the office.
+Julie moved to the park.
+Is Mary in the kitchen?
+no
+
+Julie journeyed to the school.
+Mary went to the kitchen.
+Is Mary in the kitchen?
+
+ANSWER: yes
+PROMPT:  Fred is in the cinema.
+Mary journeyed to the school.
+Is Mary in the school?
+yes
+
+Mary travelled to the office.
+Julie moved to the park.
+Is Mary in the kitchen?
+no
+
+Julie journeyed to the school.
+Mary went to the kitchen.
+Is Mary in the kitchen?
+yes
+
+Fred is in the bedroom.
+Mary is in the office.
+Is Mary in the park?
+
+ANSWER: yes
+PROMPT:  Fred is in the cinema.
+Mary journeyed to the school.
+Is Mary in the school?
+yes
+
+Mary travelled to the office.
+Julie moved to the park.
+Is Mary in the kitchen?
+no
+
+Julie journeyed to the school.
+Mary went to the kitchen.
+Is Mary in the kitchen?
+yes
+
+Fred is in the bedroom.
+Mary is in the office.
+Is Mary in the park?
+no
+
+Julie moved to the cinema.
+Julie moved to the park.
+Is Mary in the office?
+
+ANSWER: yes
+PROMPT:  Mary moved to the school.
+Bill is either in the park or the park.
+Is Bill in the park?
+
+ANSWER: bill lives outside the park
+PROMPT:  Mary moved to the school.
+Bill is either in the park or the park.
+Is Bill in the park?
+maybe
+
+Bill went back to the school.
+Fred went to the office.
+Is Fred in the cinema?
+
+ANSWER: tom went to the news
+PROMPT:  Mary moved to the school.
+Bill is either in the park or the park.
+Is Bill in the park?
+maybe
+
+Bill went back to the school.
+Fred went to the office.
+Is Fred in the cinema?
+no
+
+Fred is either in the kitchen or the bedroom.
+Julie moved to the park.
+Is Bill in the bedroom?
+
+ANSWER: maybe
+PROMPT:  Mary moved to the school.
+Bill is either in the park or the park.
+Is Bill in the park?
+maybe
+
+Bill went back to the school.
+Fred went to the office.
+Is Fred in the cinema?
+no
+
+Fred is either in the kitchen or the bedroom.
+Julie moved to the park.
+Is Bill in the bedroom?
+no
+
+Bill is either in the office or the office.
+Julie is either in the bedroom or the park.
+Is Bill in the cinema?
+
+ANSWER: no
+PROMPT:  Mary moved to the school.
+Bill is either in the park or the park.
+Is Bill in the park?
+maybe
+
+Bill went back to the school.
+Fred went to the office.
+Is Fred in the cinema?
+no
+
+Fred is either in the kitchen or the bedroom.
+Julie moved to the park.
+Is Bill in the bedroom?
+no
+
+Bill is either in the office or the office.
+Julie is either in the bedroom or the park.
+Is Bill in the cinema?
+no
+
+Mary is either in the school or the cinema.
+Fred went back to the bedroom.
+Is Mary in the school?
+
+ANSWER: yes
+PROMPT:  Mary is either in the cinema or the bedroom.
+Mary is in the school.
+Is Mary in the school?
+
+ANSWER: 
+PROMPT:  Mary is either in the cinema or the bedroom.
+Mary is in the school.
+Is Mary in the school?
+yes
+
+Julie journeyed to the cinema.
+Mary is in the office.
+Is Julie in the cinema?
+
+ANSWER: no
+PROMPT:  Mary is either in the cinema or the bedroom.
+Mary is in the school.
+Is Mary in the school?
+yes
+
+Julie journeyed to the cinema.
+Mary is in the office.
+Is Julie in the cinema?
+yes
+
+Mary went back to the bedroom.
+Fred journeyed to the kitchen.
+Is Mary in the cinema?
+
+ANSWER: no
+PROMPT:  Mary is either in the cinema or the bedroom.
+Mary is in the school.
+Is Mary in the school?
+yes
+
+Julie journeyed to the cinema.
+Mary is in the office.
+Is Julie in the cinema?
+yes
+
+Mary went back to the bedroom.
+Fred journeyed to the kitchen.
+Is Mary in the cinema?
+no
+
+Mary travelled to the kitchen.
+Mary is in the bedroom.
+Is Mary in the bedroom?
+
+ANSWER: yes
+PROMPT:  Mary is either in the cinema or the bedroom.
+Mary is in the school.
+Is Mary in the school?
+yes
+
+Julie journeyed to the cinema.
+Mary is in the office.
+Is Julie in the cinema?
+yes
+
+Mary went back to the bedroom.
+Fred journeyed to the kitchen.
+Is Mary in the cinema?
+no
+
+Mary travelled to the kitchen.
+Mary is in the bedroom.
+Is Mary in the bedroom?
+yes
+
+Mary journeyed to the school.
+Fred travelled to the park.
+Is Fred in the park?
+
+ANSWER: no
+PROMPT:  Julie is in the bedroom.
+Fred went back to the cinema.
+Is Fred in the park?
+
+ANSWER: he is in the park
+PROMPT:  Julie is in the bedroom.
+Fred went back to the cinema.
+Is Fred in the park?
+no
+
+Bill journeyed to the bedroom.
+Fred went back to the park.
+Is Bill in the kitchen?
+
+ANSWER: yes
+PROMPT:  Julie is in the bedroom.
+Fred went back to the cinema.
+Is Fred in the park?
+no
+
+Bill journeyed to the bedroom.
+Fred went back to the park.
+Is Bill in the kitchen?
+no
+
+Mary went to the office.
+Bill is in the office.
+Is Fred in the park?
+
+ANSWER: no
+PROMPT:  Julie is in the bedroom.
+Fred went back to the cinema.
+Is Fred in the park?
+no
+
+Bill journeyed to the bedroom.
+Fred went back to the park.
+Is Bill in the kitchen?
+no
+
+Mary went to the office.
+Bill is in the office.
+Is Fred in the park?
+yes
+
+Bill moved to the school.
+Julie is either in the park or the school.
+Is Fred in the park?
+
+ANSWER: no
+PROMPT:  Julie is in the bedroom.
+Fred went back to the cinema.
+Is Fred in the park?
+no
+
+Bill journeyed to the bedroom.
+Fred went back to the park.
+Is Bill in the kitchen?
+no
+
+Mary went to the office.
+Bill is in the office.
+Is Fred in the park?
+yes
+
+Bill moved to the school.
+Julie is either in the park or the school.
+Is Fred in the park?
+yes
+
+Bill travelled to the park.
+Fred is either in the office or the school.
+Is Julie in the park?
+
+ANSWER: yes
+PROMPT:  Julie travelled to the kitchen.
+Mary is either in the office or the cinema.
+Is Julie in the kitchen?
+
+ANSWER: if so then (1
+PROMPT:  Julie travelled to the kitchen.
+Mary is either in the office or the cinema.
+Is Julie in the kitchen?
+yes
+
+Julie travelled to the kitchen.
+Julie went back to the bedroom.
+Is Julie in the school?
+
+ANSWER: yes
+PROMPT:  Julie travelled to the kitchen.
+Mary is either in the office or the cinema.
+Is Julie in the kitchen?
+yes
+
+Julie travelled to the kitchen.
+Julie went back to the bedroom.
+Is Julie in the school?
+no
+
+Julie is either in the cinema or the school.
+Bill is either in the kitchen or the office.
+Is Julie in the cinema?
+
+ANSWER: no
+PROMPT:  Julie travelled to the kitchen.
+Mary is either in the office or the cinema.
+Is Julie in the kitchen?
+yes
+
+Julie travelled to the kitchen.
+Julie went back to the bedroom.
+Is Julie in the school?
+no
+
+Julie is either in the cinema or the school.
+Bill is either in the kitchen or the office.
+Is Julie in the cinema?
+maybe
+
+Fred is either in the park or the kitchen.
+Bill is in the school.
+Is Bill in the school?
+
+ANSWER: no
+PROMPT:  Julie travelled to the kitchen.
+Mary is either in the office or the cinema.
+Is Julie in the kitchen?
+yes
+
+Julie travelled to the kitchen.
+Julie went back to the bedroom.
+Is Julie in the school?
+no
+
+Julie is either in the cinema or the school.
+Bill is either in the kitchen or the office.
+Is Julie in the cinema?
+maybe
+
+Fred is either in the park or the kitchen.
+Bill is in the school.
+Is Bill in the school?
+yes
+
+Bill went to the cinema.
+Mary is either in the office or the kitchen.
+Is Bill in the cinema?
+
+ANSWER: yes
+PROMPT:  Bill journeyed to the office.
+Fred is in the bedroom.
+Is Fred in the kitchen?
+
+ANSWER: fred in the bedroom
+PROMPT:  Bill journeyed to the office.
+Fred is in the bedroom.
+Is Fred in the kitchen?
+no
+
+Julie is in the school.
+Bill journeyed to the park.
+Is Julie in the school?
+
+ANSWER: no
+PROMPT:  Bill journeyed to the office.
+Fred is in the bedroom.
+Is Fred in the kitchen?
+no
+
+Julie is in the school.
+Bill journeyed to the park.
+Is Julie in the school?
+yes
+
+Mary travelled to the school.
+Fred journeyed to the office.
+Is Mary in the office?
+
+ANSWER: fred is in the office
+PROMPT:  Bill journeyed to the office.
+Fred is in the bedroom.
+Is Fred in the kitchen?
+no
+
+Julie is in the school.
+Bill journeyed to the park.
+Is Julie in the school?
+yes
+
+Mary travelled to the school.
+Fred journeyed to the office.
+Is Mary in the office?
+no
+
+Fred went back to the cinema.
+Julie moved to the bedroom.
+Is Julie in the bedroom?
+
+ANSWER: yes
+PROMPT:  Bill journeyed to the office.
+Fred is in the bedroom.
+Is Fred in the kitchen?
+no
+
+Julie is in the school.
+Bill journeyed to the park.
+Is Julie in the school?
+yes
+
+Mary travelled to the school.
+Fred journeyed to the office.
+Is Mary in the office?
+no
+
+Fred went back to the cinema.
+Julie moved to the bedroom.
+Is Julie in the bedroom?
+yes
+
+Bill is in the cinema.
+Julie is either in the kitchen or the kitchen.
+Is Fred in the cinema?
+
+ANSWER: no
+PROMPT:  Mary is in the cinema.
+Fred journeyed to the park.
+Is Fred in the park?
+
+ANSWER: that's a good question
+PROMPT:  Mary is in the cinema.
+Fred journeyed to the park.
+Is Fred in the park?
+yes
+
+Mary went to the kitchen.
+Julie is either in the cinema or the park.
+Is Julie in the cinema?
+
+ANSWER: no
+PROMPT:  Mary is in the cinema.
+Fred journeyed to the park.
+Is Fred in the park?
+yes
+
+Mary went to the kitchen.
+Julie is either in the cinema or the park.
+Is Julie in the cinema?
+maybe
+
+Fred is either in the park or the bedroom.
+Bill went to the park.
+Is Fred in the bedroom?
+
+ANSWER: yes
+PROMPT:  Mary is in the cinema.
+Fred journeyed to the park.
+Is Fred in the park?
+yes
+
+Mary went to the kitchen.
+Julie is either in the cinema or the park.
+Is Julie in the cinema?
+maybe
+
+Fred is either in the park or the bedroom.
+Bill went to the park.
+Is Fred in the bedroom?
+maybe
+
+Mary journeyed to the cinema.
+Fred journeyed to the cinema.
+Is Mary in the park?
+
+ANSWER: yes
+PROMPT:  Mary is in the cinema.
+Fred journeyed to the park.
+Is Fred in the park?
+yes
+
+Mary went to the kitchen.
+Julie is either in the cinema or the park.
+Is Julie in the cinema?
+maybe
+
+Fred is either in the park or the bedroom.
+Bill went to the park.
+Is Fred in the bedroom?
+maybe
+
+Mary journeyed to the cinema.
+Fred journeyed to the cinema.
+Is Mary in the park?
+no
+
+Fred travelled to the kitchen.
+Fred went to the office.
+Is Fred in the cinema?
+
+ANSWER: maybe
+PROMPT:  Julie is either in the bedroom or the office.
+Mary is either in the park or the office.
+Is Julie in the park?
+
+ANSWER: yes
+PROMPT:  Julie is either in the bedroom or the office.
+Mary is either in the park or the office.
+Is Julie in the park?
+no
+
+Julie is in the bedroom.
+Mary went back to the school.
+Is Julie in the bedroom?
+
+ANSWER: no
+PROMPT:  Julie is either in the bedroom or the office.
+Mary is either in the park or the office.
+Is Julie in the park?
+no
+
+Julie is in the bedroom.
+Mary went back to the school.
+Is Julie in the bedroom?
+yes
+
+Julie journeyed to the school.
+Fred went to the school.
+Is Mary in the school?
+
+ANSWER: bob met her
+PROMPT:  Julie is either in the bedroom or the office.
+Mary is either in the park or the office.
+Is Julie in the park?
+no
+
+Julie is in the bedroom.
+Mary went back to the school.
+Is Julie in the bedroom?
+yes
+
+Julie journeyed to the school.
+Fred went to the school.
+Is Mary in the school?
+yes
+
+Julie is in the bedroom.
+Mary went to the office.
+Is Julie in the office?
+
+ANSWER: yes fred is the only
+PROMPT:  Julie is either in the bedroom or the office.
+Mary is either in the park or the office.
+Is Julie in the park?
+no
+
+Julie is in the bedroom.
+Mary went back to the school.
+Is Julie in the bedroom?
+yes
+
+Julie journeyed to the school.
+Fred went to the school.
+Is Mary in the school?
+yes
+
+Julie is in the bedroom.
+Mary went to the office.
+Is Julie in the office?
+no
+
+Mary moved to the park.
+Fred went back to the cinema.
+Is Fred in the school?
+
+ANSWER: fred goes to the gym
+PROMPT:  Fred is either in the kitchen or the park.
+Julie is in the kitchen.
+Is Mary in the school?
+
+ANSWER: give me bob right away
+PROMPT:  Fred is either in the kitchen or the park.
+Julie is in the kitchen.
+Is Mary in the school?
+no
+
+Julie is either in the park or the kitchen.
+Bill is either in the bedroom or the park.
+Is Julie in the park?
+
+ANSWER: in the park
+PROMPT:  Fred is either in the kitchen or the park.
+Julie is in the kitchen.
+Is Mary in the school?
+no
+
+Julie is either in the park or the kitchen.
+Bill is either in the bedroom or the park.
+Is Julie in the park?
+maybe
+
+Fred went to the cinema.
+Fred is in the school.
+Is Julie in the kitchen?
+
+ANSWER: no
+PROMPT:  Fred is either in the kitchen or the park.
+Julie is in the kitchen.
+Is Mary in the school?
+no
+
+Julie is either in the park or the kitchen.
+Bill is either in the bedroom or the park.
+Is Julie in the park?
+maybe
+
+Fred went to the cinema.
+Fred is in the school.
+Is Julie in the kitchen?
+maybe
+
+Mary went back to the kitchen.
+Fred journeyed to the kitchen.
+Is Fred in the park?
+
+ANSWER: maybe
+PROMPT:  Fred is either in the kitchen or the park.
+Julie is in the kitchen.
+Is Mary in the school?
+no
+
+Julie is either in the park or the kitchen.
+Bill is either in the bedroom or the park.
+Is Julie in the park?
+maybe
+
+Fred went to the cinema.
+Fred is in the school.
+Is Julie in the kitchen?
+maybe
+
+Mary went back to the kitchen.
+Fred journeyed to the kitchen.
+Is Fred in the park?
+no
+
+Fred is either in the school or the cinema.
+Bill is either in the kitchen or the office.
+Is Mary in the kitchen?
+
+ANSWER: no
+PROMPT:  Fred travelled to the kitchen.
+Julie went back to the cinema.
+Is Fred in the kitchen?
+
+ANSWER: fred was startled
+PROMPT:  Fred travelled to the kitchen.
+Julie went back to the cinema.
+Is Fred in the kitchen?
+yes
+
+Mary moved to the park.
+Mary travelled to the cinema.
+Is Mary in the school?
+
+ANSWER: is mary coming to the
+PROMPT:  Fred travelled to the kitchen.
+Julie went back to the cinema.
+Is Fred in the kitchen?
+yes
+
+Mary moved to the park.
+Mary travelled to the cinema.
+Is Mary in the school?
+no
+
+Julie is either in the school or the kitchen.
+Bill is in the office.
+Is Mary in the bedroom?
+
+ANSWER: no
+PROMPT:  Fred travelled to the kitchen.
+Julie went back to the cinema.
+Is Fred in the kitchen?
+yes
+
+Mary moved to the park.
+Mary travelled to the cinema.
+Is Mary in the school?
+no
+
+Julie is either in the school or the kitchen.
+Bill is in the office.
+Is Mary in the bedroom?
+no
+
+Mary is either in the kitchen or the park.
+Julie is in the office.
+Is Julie in the school?
+
+ANSWER: no
+PROMPT:  Fred travelled to the kitchen.
+Julie went back to the cinema.
+Is Fred in the kitchen?
+yes
+
+Mary moved to the park.
+Mary travelled to the cinema.
+Is Mary in the school?
+no
+
+Julie is either in the school or the kitchen.
+Bill is in the office.
+Is Mary in the bedroom?
+no
+
+Mary is either in the kitchen or the park.
+Julie is in the office.
+Is Julie in the school?
+no
+
+Fred went back to the office.
+Fred is either in the office or the kitchen.
+Is Julie in the cinema?
+
+ANSWER: no
+PROMPT:  Bill went back to the cinema.
+Julie is either in the school or the office.
+Is Bill in the office?
+
+ANSWER: is julie there
+PROMPT:  Bill went back to the cinema.
+Julie is either in the school or the office.
+Is Bill in the office?
+no
+
+Julie is in the park.
+Julie went to the office.
+Is Julie in the office?
+
+ANSWER: not in the office
+PROMPT:  Bill went back to the cinema.
+Julie is either in the school or the office.
+Is Bill in the office?
+no
+
+Julie is in the park.
+Julie went to the office.
+Is Julie in the office?
+yes
+
+Bill is either in the office or the bedroom.
+Bill went to the cinema.
+Is Bill in the cinema?
+
+ANSWER: yes
+PROMPT:  Bill went back to the cinema.
+Julie is either in the school or the office.
+Is Bill in the office?
+no
+
+Julie is in the park.
+Julie went to the office.
+Is Julie in the office?
+yes
+
+Bill is either in the office or the bedroom.
+Bill went to the cinema.
+Is Bill in the cinema?
+yes
+
+Mary is either in the office or the bedroom.
+Julie moved to the park.
+Is Bill in the cinema?
+
+ANSWER: yes
+PROMPT:  Bill went back to the cinema.
+Julie is either in the school or the office.
+Is Bill in the office?
+no
+
+Julie is in the park.
+Julie went to the office.
+Is Julie in the office?
+yes
+
+Bill is either in the office or the bedroom.
+Bill went to the cinema.
+Is Bill in the cinema?
+yes
+
+Mary is either in the office or the bedroom.
+Julie moved to the park.
+Is Bill in the cinema?
+yes
+
+Fred is in the park.
+Mary is in the bedroom.
+Is Julie in the park?
+
+ANSWER: yes
+PROMPT:  Mary went to the kitchen.
+Julie is in the bedroom.
+Is Julie in the cinema?
+
+ANSWER: she could be in the
+PROMPT:  Mary went to the kitchen.
+Julie is in the bedroom.
+Is Julie in the cinema?
+no
+
+Fred is in the office.
+Mary journeyed to the park.
+Is Mary in the school?
+
+ANSWER: yes
+PROMPT:  Mary went to the kitchen.
+Julie is in the bedroom.
+Is Julie in the cinema?
+no
+
+Fred is in the office.
+Mary journeyed to the park.
+Is Mary in the school?
+no
+
+Mary went to the office.
+Julie is either in the office or the kitchen.
+Is Fred in the cinema?
+
+ANSWER: no
+PROMPT:  Mary went to the kitchen.
+Julie is in the bedroom.
+Is Julie in the cinema?
+no
+
+Fred is in the office.
+Mary journeyed to the park.
+Is Mary in the school?
+no
+
+Mary went to the office.
+Julie is either in the office or the kitchen.
+Is Fred in the cinema?
+no
+
+Mary is in the bedroom.
+Mary went back to the kitchen.
+Is Mary in the park?
+
+ANSWER: no
+PROMPT:  Mary went to the kitchen.
+Julie is in the bedroom.
+Is Julie in the cinema?
+no
+
+Fred is in the office.
+Mary journeyed to the park.
+Is Mary in the school?
+no
+
+Mary went to the office.
+Julie is either in the office or the kitchen.
+Is Fred in the cinema?
+no
+
+Mary is in the bedroom.
+Mary went back to the kitchen.
+Is Mary in the park?
+no
+
+Julie is either in the bedroom or the cinema.
+Fred moved to the kitchen.
+Is Fred in the kitchen?
+
+ANSWER: no
+PROMPT:  Bill travelled to the cinema.
+Bill is either in the school or the park.
+Is Julie in the cinema?
+
+ANSWER: is peeta in the
+PROMPT:  Bill travelled to the cinema.
+Bill is either in the school or the park.
+Is Julie in the cinema?
+maybe
+
+Fred is in the school.
+Bill is in the park.
+Is Bill in the park?
+
+ANSWER: no
+PROMPT:  Bill travelled to the cinema.
+Bill is either in the school or the park.
+Is Julie in the cinema?
+maybe
+
+Fred is in the school.
+Bill is in the park.
+Is Bill in the park?
+yes
+
+Julie is either in the bedroom or the cinema.
+Fred went to the cinema.
+Is Fred in the cinema?
+
+ANSWER: yes
+PROMPT:  Bill travelled to the cinema.
+Bill is either in the school or the park.
+Is Julie in the cinema?
+maybe
+
+Fred is in the school.
+Bill is in the park.
+Is Bill in the park?
+yes
+
+Julie is either in the bedroom or the cinema.
+Fred went to the cinema.
+Is Fred in the cinema?
+yes
+
+Julie is in the kitchen.
+Mary is in the cinema.
+Is Julie in the school?
+
+ANSWER: yes
+PROMPT:  Bill travelled to the cinema.
+Bill is either in the school or the park.
+Is Julie in the cinema?
+maybe
+
+Fred is in the school.
+Bill is in the park.
+Is Bill in the park?
+yes
+
+Julie is either in the bedroom or the cinema.
+Fred went to the cinema.
+Is Fred in the cinema?
+yes
+
+Julie is in the kitchen.
+Mary is in the cinema.
+Is Julie in the school?
+no
+
+Fred is either in the kitchen or the school.
+Julie journeyed to the school.
+Is Julie in the school?
+
+ANSWER: bump
+PROMPT:  Mary moved to the office.
+Mary travelled to the kitchen.
+Is Fred in the office?
+
+ANSWER: fred appeared and shouted at
+PROMPT:  Mary moved to the office.
+Mary travelled to the kitchen.
+Is Fred in the office?
+no
+
+Fred moved to the cinema.
+Fred is either in the kitchen or the school.
+Is Fred in the office?
+
+ANSWER: yes
+PROMPT:  Mary moved to the office.
+Mary travelled to the kitchen.
+Is Fred in the office?
+no
+
+Fred moved to the cinema.
+Fred is either in the kitchen or the school.
+Is Fred in the office?
+no
+
+Julie went to the school.
+Bill is in the park.
+Is Fred in the park?
+
+ANSWER: no
+PROMPT:  Mary moved to the office.
+Mary travelled to the kitchen.
+Is Fred in the office?
+no
+
+Fred moved to the cinema.
+Fred is either in the kitchen or the school.
+Is Fred in the office?
+no
+
+Julie went to the school.
+Bill is in the park.
+Is Fred in the park?
+no
+
+Mary moved to the school.
+Julie is in the bedroom.
+Is Julie in the bedroom?
+
+ANSWER: no
+PROMPT:  Mary moved to the office.
+Mary travelled to the kitchen.
+Is Fred in the office?
+no
+
+Fred moved to the cinema.
+Fred is either in the kitchen or the school.
+Is Fred in the office?
+no
+
+Julie went to the school.
+Bill is in the park.
+Is Fred in the park?
+no
+
+Mary moved to the school.
+Julie is in the bedroom.
+Is Julie in the bedroom?
+yes
+
+Bill is either in the school or the office.
+Julie moved to the kitchen.
+Is Bill in the park?
+
+ANSWER: yes
+PROMPT:  Julie is either in the cinema or the office.
+Fred went to the school.
+Is Julie in the office?
+
+ANSWER: why isn't julie in
+PROMPT:  Julie is either in the cinema or the office.
+Fred went to the school.
+Is Julie in the office?
+maybe
+
+Mary is either in the kitchen or the bedroom.
+Fred went to the cinema.
+Is Fred in the park?
+
+ANSWER: oho, i picked
+PROMPT:  Julie is either in the cinema or the office.
+Fred went to the school.
+Is Julie in the office?
+maybe
+
+Mary is either in the kitchen or the bedroom.
+Fred went to the cinema.
+Is Fred in the park?
+no
+
+Fred is in the school.
+Bill is in the office.
+Is Bill in the office?
+
+ANSWER: yes
+PROMPT:  Julie is either in the cinema or the office.
+Fred went to the school.
+Is Julie in the office?
+maybe
+
+Mary is either in the kitchen or the bedroom.
+Fred went to the cinema.
+Is Fred in the park?
+no
+
+Fred is in the school.
+Bill is in the office.
+Is Bill in the office?
+yes
+
+Julie journeyed to the school.
+Bill travelled to the bedroom.
+Is Bill in the kitchen?
+
+ANSWER: no
+PROMPT:  Julie is either in the cinema or the office.
+Fred went to the school.
+Is Julie in the office?
+maybe
+
+Mary is either in the kitchen or the bedroom.
+Fred went to the cinema.
+Is Fred in the park?
+no
+
+Fred is in the school.
+Bill is in the office.
+Is Bill in the office?
+yes
+
+Julie journeyed to the school.
+Bill travelled to the bedroom.
+Is Bill in the kitchen?
+no
+
+Bill went to the school.
+Julie is either in the park or the cinema.
+Is Bill in the school?
+
+ANSWER: no!
+PROMPT:  Mary is in the school.
+Julie journeyed to the office.
+Is Bill in the school?
+
+ANSWER: julie held her breath
+PROMPT:  Mary is in the school.
+Julie journeyed to the office.
+Is Bill in the school?
+yes
+
+Mary went to the kitchen.
+Fred moved to the cinema.
+Is Mary in the kitchen?
+
+ANSWER: yes _____________________________
+PROMPT:  Mary is in the school.
+Julie journeyed to the office.
+Is Bill in the school?
+yes
+
+Mary went to the kitchen.
+Fred moved to the cinema.
+Is Mary in the kitchen?
+yes
+
+Bill is either in the office or the kitchen.
+Fred is in the school.
+Is Mary in the kitchen?
+
+ANSWER: yes
+PROMPT:  Mary is in the school.
+Julie journeyed to the office.
+Is Bill in the school?
+yes
+
+Mary went to the kitchen.
+Fred moved to the cinema.
+Is Mary in the kitchen?
+yes
+
+Bill is either in the office or the kitchen.
+Fred is in the school.
+Is Mary in the kitchen?
+yes
+
+Julie is either in the park or the bedroom.
+Mary went back to the school.
+Is Julie in the bedroom?
+
+ANSWER: yes
+PROMPT:  Mary is in the school.
+Julie journeyed to the office.
+Is Bill in the school?
+yes
+
+Mary went to the kitchen.
+Fred moved to the cinema.
+Is Mary in the kitchen?
+yes
+
+Bill is either in the office or the kitchen.
+Fred is in the school.
+Is Mary in the kitchen?
+yes
+
+Julie is either in the park or the bedroom.
+Mary went back to the school.
+Is Julie in the bedroom?
+maybe
+
+Mary moved to the bedroom.
+Julie is either in the office or the cinema.
+Is Mary in the park?
+
+ANSWER: yes
+PROMPT:  Julie journeyed to the kitchen.
+Julie moved to the park.
+Is Mary in the bedroom?
+
+ANSWER: judy thought julie
+NUM QUESTIONS: 100 NUM CORRECT: 26 PERCENT ACCURACY: 0.26

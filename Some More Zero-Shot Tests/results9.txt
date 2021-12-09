@@ -1,0 +1,1483 @@
+2021-12-07 21:32:58,346 INFO     | creating task(s): babi:task10k:9
+2021-12-07 21:32:58,444 INFO     | loading fbdialog data: C:\Users\sandr\ParlAI\data\bAbI\tasks_1-20_v1-2\en-valid-10k-nosf\qa9_train.txt
+PROMPT:  Sandra went to the bedroom.
+Daniel travelled to the office.
+Is Daniel in the kitchen?
+
+ANSWER: george tracked de silva's
+PROMPT:  Sandra went to the bedroom.
+Daniel travelled to the office.
+Is Daniel in the kitchen?
+no
+
+Daniel is in the garden.
+Sandra is not in the bedroom.
+Is Daniel in the garden?
+
+ANSWER: no
+PROMPT:  Sandra went to the bedroom.
+Daniel travelled to the office.
+Is Daniel in the kitchen?
+no
+
+Daniel is in the garden.
+Sandra is not in the bedroom.
+Is Daniel in the garden?
+yes
+
+Daniel is not in the garden.
+Mary went to the garden.
+Is Mary in the garden?
+
+ANSWER: no
+PROMPT:  Sandra went to the bedroom.
+Daniel travelled to the office.
+Is Daniel in the kitchen?
+no
+
+Daniel is in the garden.
+Sandra is not in the bedroom.
+Is Daniel in the garden?
+yes
+
+Daniel is not in the garden.
+Mary went to the garden.
+Is Mary in the garden?
+yes
+
+John went to the office.
+Daniel is no longer in the bedroom.
+Is Sandra in the bedroom?
+
+ANSWER: yes
+PROMPT:  Daniel is not in the kitchen.
+Sandra moved to the garden.
+Is Sandra in the garden?
+
+ANSWER: no
+PROMPT:  Daniel is not in the kitchen.
+Sandra moved to the garden.
+Is Sandra in the garden?
+yes
+
+John is no longer in the office.
+John journeyed to the bedroom.
+Is John in the bathroom?
+
+ANSWER: yes
+PROMPT:  Daniel is not in the kitchen.
+Sandra moved to the garden.
+Is Sandra in the garden?
+yes
+
+John is no longer in the office.
+John journeyed to the bedroom.
+Is John in the bathroom?
+no
+
+Mary is in the kitchen.
+Daniel is not in the hallway.
+Is John in the bedroom?
+
+ANSWER: yes
+PROMPT:  Daniel is not in the kitchen.
+Sandra moved to the garden.
+Is Sandra in the garden?
+yes
+
+John is no longer in the office.
+John journeyed to the bedroom.
+Is John in the bathroom?
+no
+
+Mary is in the kitchen.
+Daniel is not in the hallway.
+Is John in the bedroom?
+yes
+
+Mary is in the bathroom.
+Mary travelled to the bedroom.
+Is Daniel in the hallway?
+
+ANSWER: no
+PROMPT:  Daniel is not in the kitchen.
+Sandra moved to the garden.
+Is Sandra in the garden?
+yes
+
+John is no longer in the office.
+John journeyed to the bedroom.
+Is John in the bathroom?
+no
+
+Mary is in the kitchen.
+Daniel is not in the hallway.
+Is John in the bedroom?
+yes
+
+Mary is in the bathroom.
+Mary travelled to the bedroom.
+Is Daniel in the hallway?
+no
+
+Sandra went to the bathroom.
+Sandra travelled to the office.
+Is Mary in the hallway?
+
+ANSWER: yes
+PROMPT:  John is in the kitchen.
+John went to the bathroom.
+Is Sandra in the garden?
+
+ANSWER: 
+PROMPT:  John is in the kitchen.
+John went to the bathroom.
+Is Sandra in the garden?
+no
+
+Mary went back to the hallway.
+Sandra is in the kitchen.
+Is Sandra in the bedroom?
+
+ANSWER: no
+PROMPT:  John is in the kitchen.
+John went to the bathroom.
+Is Sandra in the garden?
+no
+
+Mary went back to the hallway.
+Sandra is in the kitchen.
+Is Sandra in the bedroom?
+no
+
+Mary is in the office.
+Mary went back to the bedroom.
+Is Mary in the bedroom?
+
+ANSWER: no
+PROMPT:  John is in the kitchen.
+John went to the bathroom.
+Is Sandra in the garden?
+no
+
+Mary went back to the hallway.
+Sandra is in the kitchen.
+Is Sandra in the bedroom?
+no
+
+Mary is in the office.
+Mary went back to the bedroom.
+Is Mary in the bedroom?
+yes
+
+Daniel is no longer in the kitchen.
+John went to the bedroom.
+Is Mary in the bedroom?
+
+ANSWER: no
+PROMPT:  John is in the kitchen.
+John went to the bathroom.
+Is Sandra in the garden?
+no
+
+Mary went back to the hallway.
+Sandra is in the kitchen.
+Is Sandra in the bedroom?
+no
+
+Mary is in the office.
+Mary went back to the bedroom.
+Is Mary in the bedroom?
+yes
+
+Daniel is no longer in the kitchen.
+John went to the bedroom.
+Is Mary in the bedroom?
+yes
+
+Daniel went back to the kitchen.
+John is not in the bedroom.
+Is Mary in the garden?
+
+ANSWER: yes
+PROMPT:  John went back to the garden.
+Sandra journeyed to the office.
+Is John in the garden?
+
+ANSWER: he's taking too many
+PROMPT:  John went back to the garden.
+Sandra journeyed to the office.
+Is John in the garden?
+yes
+
+Sandra is no longer in the garden.
+Daniel travelled to the bathroom.
+Is Daniel in the bathroom?
+
+ANSWER: yes
+PROMPT:  John went back to the garden.
+Sandra journeyed to the office.
+Is John in the garden?
+yes
+
+Sandra is no longer in the garden.
+Daniel travelled to the bathroom.
+Is Daniel in the bathroom?
+yes
+
+John is no longer in the office.
+Mary is not in the bedroom.
+Is John in the office?
+
+ANSWER: yes
+PROMPT:  John went back to the garden.
+Sandra journeyed to the office.
+Is John in the garden?
+yes
+
+Sandra is no longer in the garden.
+Daniel travelled to the bathroom.
+Is Daniel in the bathroom?
+yes
+
+John is no longer in the office.
+Mary is not in the bedroom.
+Is John in the office?
+no
+
+Sandra is in the garden.
+Daniel is in the bedroom.
+Is Sandra in the garden?
+
+ANSWER: yes
+PROMPT:  John went back to the garden.
+Sandra journeyed to the office.
+Is John in the garden?
+yes
+
+Sandra is no longer in the garden.
+Daniel travelled to the bathroom.
+Is Daniel in the bathroom?
+yes
+
+John is no longer in the office.
+Mary is not in the bedroom.
+Is John in the office?
+no
+
+Sandra is in the garden.
+Daniel is in the bedroom.
+Is Sandra in the garden?
+yes
+
+John is no longer in the kitchen.
+Sandra went to the bathroom.
+Is John in the kitchen?
+
+ANSWER: yes
+PROMPT:  Sandra is not in the bathroom.
+Mary is not in the kitchen.
+Is Daniel in the bedroom?
+
+ANSWER: is sandra alone
+PROMPT:  Sandra is not in the bathroom.
+Mary is not in the kitchen.
+Is Daniel in the bedroom?
+yes
+
+Mary moved to the kitchen.
+Daniel went to the bedroom.
+Is Daniel in the bedroom?
+
+ANSWER: not in the bedroom
+PROMPT:  Sandra is not in the bathroom.
+Mary is not in the kitchen.
+Is Daniel in the bedroom?
+yes
+
+Mary moved to the kitchen.
+Daniel went to the bedroom.
+Is Daniel in the bedroom?
+yes
+
+John is not in the hallway.
+John went to the kitchen.
+Is John in the bathroom?
+
+ANSWER: yes
+PROMPT:  Sandra is not in the bathroom.
+Mary is not in the kitchen.
+Is Daniel in the bedroom?
+yes
+
+Mary moved to the kitchen.
+Daniel went to the bedroom.
+Is Daniel in the bedroom?
+yes
+
+John is not in the hallway.
+John went to the kitchen.
+Is John in the bathroom?
+no
+
+Daniel is no longer in the bedroom.
+Daniel went to the bathroom.
+Is Daniel in the bathroom?
+
+ANSWER: no
+PROMPT:  Sandra is not in the bathroom.
+Mary is not in the kitchen.
+Is Daniel in the bedroom?
+yes
+
+Mary moved to the kitchen.
+Daniel went to the bedroom.
+Is Daniel in the bedroom?
+yes
+
+John is not in the hallway.
+John went to the kitchen.
+Is John in the bathroom?
+no
+
+Daniel is no longer in the bedroom.
+Daniel went to the bathroom.
+Is Daniel in the bathroom?
+yes
+
+Sandra is no longer in the kitchen.
+Mary moved to the office.
+Is Daniel in the hallway?
+
+ANSWER: no
+PROMPT:  Mary journeyed to the bedroom.
+Sandra is not in the office.
+Is Mary in the hallway?
+
+ANSWER: 
+PROMPT:  Mary journeyed to the bedroom.
+Sandra is not in the office.
+Is Mary in the hallway?
+no
+
+John travelled to the hallway.
+Daniel went to the kitchen.
+Is John in the bathroom?
+
+ANSWER: yes
+PROMPT:  Mary journeyed to the bedroom.
+Sandra is not in the office.
+Is Mary in the hallway?
+no
+
+John travelled to the hallway.
+Daniel went to the kitchen.
+Is John in the bathroom?
+no
+
+Daniel is no longer in the kitchen.
+John went back to the bathroom.
+Is Daniel in the kitchen?
+
+ANSWER: no
+PROMPT:  Mary journeyed to the bedroom.
+Sandra is not in the office.
+Is Mary in the hallway?
+no
+
+John travelled to the hallway.
+Daniel went to the kitchen.
+Is John in the bathroom?
+no
+
+Daniel is no longer in the kitchen.
+John went back to the bathroom.
+Is Daniel in the kitchen?
+no
+
+Sandra is in the hallway.
+John is in the garden.
+Is Sandra in the bedroom?
+
+ANSWER: while mary is however in
+PROMPT:  Mary journeyed to the bedroom.
+Sandra is not in the office.
+Is Mary in the hallway?
+no
+
+John travelled to the hallway.
+Daniel went to the kitchen.
+Is John in the bathroom?
+no
+
+Daniel is no longer in the kitchen.
+John went back to the bathroom.
+Is Daniel in the kitchen?
+no
+
+Sandra is in the hallway.
+John is in the garden.
+Is Sandra in the bedroom?
+no
+
+Daniel went back to the bathroom.
+Daniel is in the bedroom.
+Is Daniel in the bedroom?
+
+ANSWER: no
+PROMPT:  John is no longer in the garden.
+Daniel travelled to the garden.
+Is John in the garden?
+
+ANSWER: daniel 15:1,
+PROMPT:  John is no longer in the garden.
+Daniel travelled to the garden.
+Is John in the garden?
+no
+
+John went back to the office.
+Sandra journeyed to the bathroom.
+Is Sandra in the bathroom?
+
+ANSWER: yes
+PROMPT:  John is no longer in the garden.
+Daniel travelled to the garden.
+Is John in the garden?
+no
+
+John went back to the office.
+Sandra journeyed to the bathroom.
+Is Sandra in the bathroom?
+yes
+
+Sandra travelled to the office.
+John is no longer in the office.
+Is John in the office?
+
+ANSWER: yes
+PROMPT:  John is no longer in the garden.
+Daniel travelled to the garden.
+Is John in the garden?
+no
+
+John went back to the office.
+Sandra journeyed to the bathroom.
+Is Sandra in the bathroom?
+yes
+
+Sandra travelled to the office.
+John is no longer in the office.
+Is John in the office?
+no
+
+Daniel moved to the bathroom.
+Sandra went back to the bedroom.
+Is Sandra in the garden?
+
+ANSWER: yes
+PROMPT:  John is no longer in the garden.
+Daniel travelled to the garden.
+Is John in the garden?
+no
+
+John went back to the office.
+Sandra journeyed to the bathroom.
+Is Sandra in the bathroom?
+yes
+
+Sandra travelled to the office.
+John is no longer in the office.
+Is John in the office?
+no
+
+Daniel moved to the bathroom.
+Sandra went back to the bedroom.
+Is Sandra in the garden?
+no
+
+Sandra travelled to the garden.
+Sandra went to the bedroom.
+Is Sandra in the bedroom?
+
+ANSWER: no
+PROMPT:  John is no longer in the kitchen.
+John is not in the bedroom.
+Is John in the bedroom?
+
+ANSWER: 
+PROMPT:  John is no longer in the kitchen.
+John is not in the bedroom.
+Is John in the bedroom?
+no
+
+John is in the hallway.
+Mary went back to the garden.
+Is Mary in the garden?
+
+ANSWER: no
+PROMPT:  John is no longer in the kitchen.
+John is not in the bedroom.
+Is John in the bedroom?
+no
+
+John is in the hallway.
+Mary went back to the garden.
+Is Mary in the garden?
+yes
+
+Daniel went back to the garden.
+John went to the bathroom.
+Is John in the bedroom?
+
+ANSWER: no
+PROMPT:  John is no longer in the kitchen.
+John is not in the bedroom.
+Is John in the bedroom?
+no
+
+John is in the hallway.
+Mary went back to the garden.
+Is Mary in the garden?
+yes
+
+Daniel went back to the garden.
+John went to the bathroom.
+Is John in the bedroom?
+no
+
+Daniel is not in the garden.
+John journeyed to the garden.
+Is Mary in the garden?
+
+ANSWER: yes
+PROMPT:  John is no longer in the kitchen.
+John is not in the bedroom.
+Is John in the bedroom?
+no
+
+John is in the hallway.
+Mary went back to the garden.
+Is Mary in the garden?
+yes
+
+Daniel went back to the garden.
+John went to the bathroom.
+Is John in the bedroom?
+no
+
+Daniel is not in the garden.
+John journeyed to the garden.
+Is Mary in the garden?
+yes
+
+Daniel is in the office.
+Sandra is in the office.
+Is John in the garden?
+
+ANSWER: yes
+PROMPT:  Mary went to the office.
+Mary moved to the bedroom.
+Is John in the garden?
+
+ANSWER: no, i am in
+PROMPT:  Mary went to the office.
+Mary moved to the bedroom.
+Is John in the garden?
+yes
+
+John is in the kitchen.
+Sandra journeyed to the bedroom.
+Is Sandra in the bedroom?
+
+ANSWER: she is
+PROMPT:  Mary went to the office.
+Mary moved to the bedroom.
+Is John in the garden?
+yes
+
+John is in the kitchen.
+Sandra journeyed to the bedroom.
+Is Sandra in the bedroom?
+yes
+
+John is not in the kitchen.
+John went back to the kitchen.
+Is Sandra in the office?
+
+ANSWER: yes
+PROMPT:  Mary went to the office.
+Mary moved to the bedroom.
+Is John in the garden?
+yes
+
+John is in the kitchen.
+Sandra journeyed to the bedroom.
+Is Sandra in the bedroom?
+yes
+
+John is not in the kitchen.
+John went back to the kitchen.
+Is Sandra in the office?
+no
+
+John journeyed to the garden.
+Mary is not in the hallway.
+Is Sandra in the bedroom?
+
+ANSWER: no
+PROMPT:  Mary went to the office.
+Mary moved to the bedroom.
+Is John in the garden?
+yes
+
+John is in the kitchen.
+Sandra journeyed to the bedroom.
+Is Sandra in the bedroom?
+yes
+
+John is not in the kitchen.
+John went back to the kitchen.
+Is Sandra in the office?
+no
+
+John journeyed to the garden.
+Mary is not in the hallway.
+Is Sandra in the bedroom?
+yes
+
+John moved to the kitchen.
+Sandra is in the hallway.
+Is John in the kitchen?
+
+ANSWER: yes
+PROMPT:  Daniel is in the garden.
+Mary journeyed to the bedroom.
+Is Daniel in the bedroom?
+
+ANSWER: mary looked closely at the
+PROMPT:  Daniel is in the garden.
+Mary journeyed to the bedroom.
+Is Daniel in the bedroom?
+no
+
+Mary moved to the bathroom.
+Mary moved to the kitchen.
+Is Mary in the office?
+
+ANSWER: no
+PROMPT:  Daniel is in the garden.
+Mary journeyed to the bedroom.
+Is Daniel in the bedroom?
+no
+
+Mary moved to the bathroom.
+Mary moved to the kitchen.
+Is Mary in the office?
+no
+
+John journeyed to the hallway.
+Mary went back to the bathroom.
+Is Mary in the bathroom?
+
+ANSWER: yes
+PROMPT:  Daniel is in the garden.
+Mary journeyed to the bedroom.
+Is Daniel in the bedroom?
+no
+
+Mary moved to the bathroom.
+Mary moved to the kitchen.
+Is Mary in the office?
+no
+
+John journeyed to the hallway.
+Mary went back to the bathroom.
+Is Mary in the bathroom?
+yes
+
+Daniel is in the office.
+Mary is in the garden.
+Is Mary in the garden?
+
+ANSWER: yes
+PROMPT:  Daniel is in the garden.
+Mary journeyed to the bedroom.
+Is Daniel in the bedroom?
+no
+
+Mary moved to the bathroom.
+Mary moved to the kitchen.
+Is Mary in the office?
+no
+
+John journeyed to the hallway.
+Mary went back to the bathroom.
+Is Mary in the bathroom?
+yes
+
+Daniel is in the office.
+Mary is in the garden.
+Is Mary in the garden?
+yes
+
+John went back to the kitchen.
+Sandra is not in the hallway.
+Is John in the bedroom?
+
+ANSWER: yes
+PROMPT:  Mary journeyed to the bedroom.
+Sandra travelled to the bathroom.
+Is Mary in the kitchen?
+
+ANSWER: yes sherry who
+PROMPT:  Mary journeyed to the bedroom.
+Sandra travelled to the bathroom.
+Is Mary in the kitchen?
+no
+
+Mary journeyed to the bathroom.
+John went to the bedroom.
+Is Mary in the bathroom?
+
+ANSWER: no
+PROMPT:  Mary journeyed to the bedroom.
+Sandra travelled to the bathroom.
+Is Mary in the kitchen?
+no
+
+Mary journeyed to the bathroom.
+John went to the bedroom.
+Is Mary in the bathroom?
+yes
+
+Daniel is no longer in the bedroom.
+John moved to the garden.
+Is John in the garden?
+
+ANSWER: yes
+PROMPT:  Mary journeyed to the bedroom.
+Sandra travelled to the bathroom.
+Is Mary in the kitchen?
+no
+
+Mary journeyed to the bathroom.
+John went to the bedroom.
+Is Mary in the bathroom?
+yes
+
+Daniel is no longer in the bedroom.
+John moved to the garden.
+Is John in the garden?
+yes
+
+Mary is in the garden.
+Sandra is in the garden.
+Is Mary in the office?
+
+ANSWER: sandra is in the
+PROMPT:  Mary journeyed to the bedroom.
+Sandra travelled to the bathroom.
+Is Mary in the kitchen?
+no
+
+Mary journeyed to the bathroom.
+John went to the bedroom.
+Is Mary in the bathroom?
+yes
+
+Daniel is no longer in the bedroom.
+John moved to the garden.
+Is John in the garden?
+yes
+
+Mary is in the garden.
+Sandra is in the garden.
+Is Mary in the office?
+no
+
+Sandra is no longer in the garden.
+Sandra is no longer in the office.
+Is Sandra in the office?
+
+ANSWER: many
+PROMPT:  Daniel went to the office.
+Mary is not in the garden.
+Is Daniel in the bedroom?
+
+ANSWER: no: mary is in
+PROMPT:  Daniel went to the office.
+Mary is not in the garden.
+Is Daniel in the bedroom?
+no
+
+Mary is in the kitchen.
+Mary is in the bedroom.
+Is Mary in the kitchen?
+
+ANSWER: suppose then that the
+PROMPT:  Daniel went to the office.
+Mary is not in the garden.
+Is Daniel in the bedroom?
+no
+
+Mary is in the kitchen.
+Mary is in the bedroom.
+Is Mary in the kitchen?
+no
+
+Sandra went back to the hallway.
+Sandra travelled to the garden.
+Is Sandra in the garden?
+
+ANSWER: no
+PROMPT:  Daniel went to the office.
+Mary is not in the garden.
+Is Daniel in the bedroom?
+no
+
+Mary is in the kitchen.
+Mary is in the bedroom.
+Is Mary in the kitchen?
+no
+
+Sandra went back to the hallway.
+Sandra travelled to the garden.
+Is Sandra in the garden?
+yes
+
+Daniel moved to the bedroom.
+Sandra is in the kitchen.
+Is Daniel in the bedroom?
+
+ANSWER: yes
+PROMPT:  Daniel went to the office.
+Mary is not in the garden.
+Is Daniel in the bedroom?
+no
+
+Mary is in the kitchen.
+Mary is in the bedroom.
+Is Mary in the kitchen?
+no
+
+Sandra went back to the hallway.
+Sandra travelled to the garden.
+Is Sandra in the garden?
+yes
+
+Daniel moved to the bedroom.
+Sandra is in the kitchen.
+Is Daniel in the bedroom?
+yes
+
+Mary journeyed to the bathroom.
+Daniel went to the hallway.
+Is Sandra in the kitchen?
+
+ANSWER: no
+PROMPT:  Sandra is not in the kitchen.
+Sandra journeyed to the garden.
+Is Daniel in the hallway?
+
+ANSWER: 
+PROMPT:  Sandra is not in the kitchen.
+Sandra journeyed to the garden.
+Is Daniel in the hallway?
+yes
+
+Mary is in the office.
+Mary is not in the office.
+Is Mary in the office?
+
+ANSWER: no
+PROMPT:  Sandra is not in the kitchen.
+Sandra journeyed to the garden.
+Is Daniel in the hallway?
+yes
+
+Mary is in the office.
+Mary is not in the office.
+Is Mary in the office?
+no
+
+John is in the garden.
+Daniel is in the bedroom.
+Is Daniel in the bedroom?
+
+ANSWER: no
+PROMPT:  Sandra is not in the kitchen.
+Sandra journeyed to the garden.
+Is Daniel in the hallway?
+yes
+
+Mary is in the office.
+Mary is not in the office.
+Is Mary in the office?
+no
+
+John is in the garden.
+Daniel is in the bedroom.
+Is Daniel in the bedroom?
+yes
+
+John is no longer in the garden.
+Mary went back to the kitchen.
+Is Mary in the bedroom?
+
+ANSWER: no
+PROMPT:  Sandra is not in the kitchen.
+Sandra journeyed to the garden.
+Is Daniel in the hallway?
+yes
+
+Mary is in the office.
+Mary is not in the office.
+Is Mary in the office?
+no
+
+John is in the garden.
+Daniel is in the bedroom.
+Is Daniel in the bedroom?
+yes
+
+John is no longer in the garden.
+Mary went back to the kitchen.
+Is Mary in the bedroom?
+no
+
+Mary is in the bedroom.
+Daniel went back to the bathroom.
+Is Mary in the bathroom?
+
+ANSWER: no
+PROMPT:  Sandra is not in the hallway.
+Daniel is in the kitchen.
+Is Mary in the bedroom?
+
+ANSWER: daniel is filling a t
+PROMPT:  Sandra is not in the hallway.
+Daniel is in the kitchen.
+Is Mary in the bedroom?
+yes
+
+Sandra went back to the bathroom.
+Daniel is in the bathroom.
+Is Daniel in the office?
+
+ANSWER: no
+PROMPT:  Sandra is not in the hallway.
+Daniel is in the kitchen.
+Is Mary in the bedroom?
+yes
+
+Sandra went back to the bathroom.
+Daniel is in the bathroom.
+Is Daniel in the office?
+no
+
+Daniel went back to the kitchen.
+John went back to the kitchen.
+Is Sandra in the kitchen?
+
+ANSWER: yes
+PROMPT:  Sandra is not in the hallway.
+Daniel is in the kitchen.
+Is Mary in the bedroom?
+yes
+
+Sandra went back to the bathroom.
+Daniel is in the bathroom.
+Is Daniel in the office?
+no
+
+Daniel went back to the kitchen.
+John went back to the kitchen.
+Is Sandra in the kitchen?
+no
+
+Mary travelled to the garden.
+Sandra is in the bedroom.
+Is Daniel in the garden?
+
+ANSWER: yes
+PROMPT:  Sandra is not in the hallway.
+Daniel is in the kitchen.
+Is Mary in the bedroom?
+yes
+
+Sandra went back to the bathroom.
+Daniel is in the bathroom.
+Is Daniel in the office?
+no
+
+Daniel went back to the kitchen.
+John went back to the kitchen.
+Is Sandra in the kitchen?
+no
+
+Mary travelled to the garden.
+Sandra is in the bedroom.
+Is Daniel in the garden?
+no
+
+Daniel is in the bathroom.
+John moved to the garden.
+Is John in the garden?
+
+ANSWER: daniel was in the bathroom
+PROMPT:  Sandra moved to the hallway.
+Daniel is no longer in the bathroom.
+Is Daniel in the bathroom?
+
+ANSWER: daniel was gone
+PROMPT:  Sandra moved to the hallway.
+Daniel is no longer in the bathroom.
+Is Daniel in the bathroom?
+no
+
+Daniel is not in the hallway.
+Daniel went back to the hallway.
+Is Daniel in the office?
+
+ANSWER: no
+PROMPT:  Sandra moved to the hallway.
+Daniel is no longer in the bathroom.
+Is Daniel in the bathroom?
+no
+
+Daniel is not in the hallway.
+Daniel went back to the hallway.
+Is Daniel in the office?
+no
+
+Daniel journeyed to the kitchen.
+Sandra is no longer in the bathroom.
+Is Daniel in the garden?
+
+ANSWER: no
+PROMPT:  Sandra moved to the hallway.
+Daniel is no longer in the bathroom.
+Is Daniel in the bathroom?
+no
+
+Daniel is not in the hallway.
+Daniel went back to the hallway.
+Is Daniel in the office?
+no
+
+Daniel journeyed to the kitchen.
+Sandra is no longer in the bathroom.
+Is Daniel in the garden?
+no
+
+Sandra went back to the kitchen.
+John is in the hallway.
+Is Daniel in the bedroom?
+
+ANSWER: no
+PROMPT:  Sandra moved to the hallway.
+Daniel is no longer in the bathroom.
+Is Daniel in the bathroom?
+no
+
+Daniel is not in the hallway.
+Daniel went back to the hallway.
+Is Daniel in the office?
+no
+
+Daniel journeyed to the kitchen.
+Sandra is no longer in the bathroom.
+Is Daniel in the garden?
+no
+
+Sandra went back to the kitchen.
+John is in the hallway.
+Is Daniel in the bedroom?
+no
+
+Daniel went to the bedroom.
+Mary went to the bathroom.
+Is Sandra in the bedroom?
+
+ANSWER: no 
+PROMPT:  Sandra travelled to the office.
+Sandra is no longer in the office.
+Is Sandra in the office?
+
+ANSWER: yes, she isn't
+PROMPT:  Sandra travelled to the office.
+Sandra is no longer in the office.
+Is Sandra in the office?
+no
+
+Daniel is in the kitchen.
+Mary is in the hallway.
+Is Mary in the kitchen?
+
+ANSWER: no
+PROMPT:  Sandra travelled to the office.
+Sandra is no longer in the office.
+Is Sandra in the office?
+no
+
+Daniel is in the kitchen.
+Mary is in the hallway.
+Is Mary in the kitchen?
+no
+
+Sandra is not in the hallway.
+John is not in the garden.
+Is Daniel in the bedroom?
+
+ANSWER: no
+PROMPT:  Sandra travelled to the office.
+Sandra is no longer in the office.
+Is Sandra in the office?
+no
+
+Daniel is in the kitchen.
+Mary is in the hallway.
+Is Mary in the kitchen?
+no
+
+Sandra is not in the hallway.
+John is not in the garden.
+Is Daniel in the bedroom?
+no
+
+Daniel is in the hallway.
+John is not in the hallway.
+Is Mary in the bathroom?
+
+ANSWER: no but because my children
+PROMPT:  Sandra travelled to the office.
+Sandra is no longer in the office.
+Is Sandra in the office?
+no
+
+Daniel is in the kitchen.
+Mary is in the hallway.
+Is Mary in the kitchen?
+no
+
+Sandra is not in the hallway.
+John is not in the garden.
+Is Daniel in the bedroom?
+no
+
+Daniel is in the hallway.
+John is not in the hallway.
+Is Mary in the bathroom?
+no
+
+John is no longer in the office.
+John moved to the bathroom.
+Is John in the bathroom?
+
+ANSWER: yes
+PROMPT:  Sandra is in the garden.
+Sandra went back to the bedroom.
+Is John in the bedroom?
+
+ANSWER: when does arendelle
+PROMPT:  Sandra is in the garden.
+Sandra went back to the bedroom.
+Is John in the bedroom?
+no
+
+Mary is in the garden.
+Sandra went to the hallway.
+Is Mary in the bedroom?
+
+ANSWER: mary went back
+PROMPT:  Sandra is in the garden.
+Sandra went back to the bedroom.
+Is John in the bedroom?
+no
+
+Mary is in the garden.
+Sandra went to the hallway.
+Is Mary in the bedroom?
+no
+
+John is in the garden.
+John is no longer in the garden.
+Is John in the garden?
+
+ANSWER: yes
+PROMPT:  Sandra is in the garden.
+Sandra went back to the bedroom.
+Is John in the bedroom?
+no
+
+Mary is in the garden.
+Sandra went to the hallway.
+Is Mary in the bedroom?
+no
+
+John is in the garden.
+John is no longer in the garden.
+Is John in the garden?
+no
+
+John journeyed to the office.
+Mary journeyed to the bedroom.
+Is John in the office?
+
+ANSWER: no
+PROMPT:  Sandra is in the garden.
+Sandra went back to the bedroom.
+Is John in the bedroom?
+no
+
+Mary is in the garden.
+Sandra went to the hallway.
+Is Mary in the bedroom?
+no
+
+John is in the garden.
+John is no longer in the garden.
+Is John in the garden?
+no
+
+John journeyed to the office.
+Mary journeyed to the bedroom.
+Is John in the office?
+yes
+
+Sandra is in the garden.
+Daniel went back to the kitchen.
+Is John in the hallway?
+
+ANSWER: no
+PROMPT:  Sandra journeyed to the bathroom.
+Mary is in the office.
+Is Mary in the hallway?
+
+ANSWER: mary is behind the mass
+PROMPT:  Sandra journeyed to the bathroom.
+Mary is in the office.
+Is Mary in the hallway?
+no
+
+John is not in the bathroom.
+Sandra is not in the bathroom.
+Is John in the bathroom?
+
+ANSWER: no
+PROMPT:  Sandra journeyed to the bathroom.
+Mary is in the office.
+Is Mary in the hallway?
+no
+
+John is not in the bathroom.
+Sandra is not in the bathroom.
+Is John in the bathroom?
+no
+
+Daniel is not in the bedroom.
+Daniel moved to the hallway.
+Is John in the bathroom?
+
+ANSWER: yes
+PROMPT:  Sandra journeyed to the bathroom.
+Mary is in the office.
+Is Mary in the hallway?
+no
+
+John is not in the bathroom.
+Sandra is not in the bathroom.
+Is John in the bathroom?
+no
+
+Daniel is not in the bedroom.
+Daniel moved to the hallway.
+Is John in the bathroom?
+no
+
+Mary travelled to the kitchen.
+Daniel moved to the bedroom.
+Is Daniel in the office?
+
+ANSWER: no
+PROMPT:  Sandra journeyed to the bathroom.
+Mary is in the office.
+Is Mary in the hallway?
+no
+
+John is not in the bathroom.
+Sandra is not in the bathroom.
+Is John in the bathroom?
+no
+
+Daniel is not in the bedroom.
+Daniel moved to the hallway.
+Is John in the bathroom?
+no
+
+Mary travelled to the kitchen.
+Daniel moved to the bedroom.
+Is Daniel in the office?
+no
+
+Daniel travelled to the hallway.
+Mary is in the bedroom.
+Is Mary in the bedroom?
+
+ANSWER: yes
+PROMPT:  Daniel went back to the garden.
+Sandra is no longer in the hallway.
+Is Daniel in the bathroom?
+
+ANSWER: i can't see her
+PROMPT:  Daniel went back to the garden.
+Sandra is no longer in the hallway.
+Is Daniel in the bathroom?
+no
+
+Daniel moved to the office.
+Daniel is not in the office.
+Is Daniel in the office?
+
+ANSWER: no
+PROMPT:  Daniel went back to the garden.
+Sandra is no longer in the hallway.
+Is Daniel in the bathroom?
+no
+
+Daniel moved to the office.
+Daniel is not in the office.
+Is Daniel in the office?
+no
+
+Sandra went to the kitchen.
+Mary is in the hallway.
+Is Daniel in the office?
+
+ANSWER: no
+PROMPT:  Daniel went back to the garden.
+Sandra is no longer in the hallway.
+Is Daniel in the bathroom?
+no
+
+Daniel moved to the office.
+Daniel is not in the office.
+Is Daniel in the office?
+no
+
+Sandra went to the kitchen.
+Mary is in the hallway.
+Is Daniel in the office?
+no
+
+John is no longer in the garden.
+John is no longer in the hallway.
+Is John in the hallway?
+
+ANSWER: no
+PROMPT:  Daniel went back to the garden.
+Sandra is no longer in the hallway.
+Is Daniel in the bathroom?
+no
+
+Daniel moved to the office.
+Daniel is not in the office.
+Is Daniel in the office?
+no
+
+Sandra went to the kitchen.
+Mary is in the hallway.
+Is Daniel in the office?
+no
+
+John is no longer in the garden.
+John is no longer in the hallway.
+Is John in the hallway?
+no
+
+Sandra moved to the hallway.
+Sandra is in the kitchen.
+Is John in the hallway?
+
+ANSWER: yes
+PROMPT:  Mary is in the office.
+Sandra is not in the kitchen.
+Is John in the hallway?
+
+ANSWER: 
+PROMPT:  Mary is in the office.
+Sandra is not in the kitchen.
+Is John in the hallway?
+no
+
+Sandra is in the bathroom.
+John is no longer in the garden.
+Is Sandra in the kitchen?
+
+ANSWER: go back to the office
+PROMPT:  Mary is in the office.
+Sandra is not in the kitchen.
+Is John in the hallway?
+no
+
+Sandra is in the bathroom.
+John is no longer in the garden.
+Is Sandra in the kitchen?
+no
+
+John is in the garden.
+Daniel is not in the bathroom.
+Is Daniel in the bathroom?
+
+ANSWER: no
+PROMPT:  Mary is in the office.
+Sandra is not in the kitchen.
+Is John in the hallway?
+no
+
+Sandra is in the bathroom.
+John is no longer in the garden.
+Is Sandra in the kitchen?
+no
+
+John is in the garden.
+Daniel is not in the bathroom.
+Is Daniel in the bathroom?
+no
+
+Daniel is in the garden.
+John moved to the bathroom.
+Is John in the office?
+
+ANSWER: john moved to the office
+PROMPT:  Mary is in the office.
+Sandra is not in the kitchen.
+Is John in the hallway?
+no
+
+Sandra is in the bathroom.
+John is no longer in the garden.
+Is Sandra in the kitchen?
+no
+
+John is in the garden.
+Daniel is not in the bathroom.
+Is Daniel in the bathroom?
+no
+
+Daniel is in the garden.
+John moved to the bathroom.
+Is John in the office?
+no
+
+Mary travelled to the kitchen.
+Sandra moved to the garden.
+Is John in the bathroom?
+
+ANSWER: no
+PROMPT:  Daniel is in the hallway.
+Daniel went to the office.
+Is Daniel in the office?
+
+ANSWER: is daniel in the office
+NUM QUESTIONS: 100 NUM CORRECT: 38 PERCENT ACCURACY: 0.38
