@@ -1,0 +1,1399 @@
+2021-12-07 22:07:08,569 INFO     | creating task(s): babi:task10k:1
+2021-12-07 22:07:08,649 INFO     | loading fbdialog data: C:\Users\sandr\ParlAI\data\bAbI\tasks_1-20_v1-2\en-valid-10k-nosf\qa1_train.txt
+IS FIRST!!
+PROMPT:  Daniel went to the bedroom.
+Mary went to the hallway.
+Where is Mary?
+hallway
+
+John travelled to the kitchen.
+Daniel went to the hallway.
+Where is Daniel?
+
+ANSWER: 
+PROMPT:  Daniel went to the bedroom.
+Mary went to the hallway.
+Where is Mary?
+hallway
+
+John travelled to the kitchen.
+Daniel went to the hallway.
+Where is Daniel?
+hallway
+
+Mary went back to the bedroom.
+Mary moved to the garden.
+Where is Mary?
+
+ANSWER: gardener's lane
+PROMPT:  Daniel went to the bedroom.
+Mary went to the hallway.
+Where is Mary?
+hallway
+
+John travelled to the kitchen.
+Daniel went to the hallway.
+Where is Daniel?
+hallway
+
+Mary went back to the bedroom.
+Mary moved to the garden.
+Where is Mary?
+garden
+
+John travelled to the bedroom.
+Sandra moved to the hallway.
+Where is Mary?
+
+ANSWER: garden
+IS FIRST!!
+PROMPT:  Sandra went to the office.
+John journeyed to the garden.
+Where is John?
+garden
+
+Mary moved to the garden.
+Daniel went to the garden.
+Where is Daniel?
+
+ANSWER: 
+PROMPT:  Sandra went to the office.
+John journeyed to the garden.
+Where is John?
+garden
+
+Mary moved to the garden.
+Daniel went to the garden.
+Where is Daniel?
+garden
+
+John went to the hallway.
+John journeyed to the office.
+Where is John?
+
+ANSWER: garden
+PROMPT:  Sandra went to the office.
+John journeyed to the garden.
+Where is John?
+garden
+
+Mary moved to the garden.
+Daniel went to the garden.
+Where is Daniel?
+garden
+
+John went to the hallway.
+John journeyed to the office.
+Where is John?
+office
+
+Sandra journeyed to the kitchen.
+Sandra went back to the hallway.
+Where is John?
+
+ANSWER: hallway
+PROMPT:  Sandra went to the office.
+John journeyed to the garden.
+Where is John?
+garden
+
+Mary moved to the garden.
+Daniel went to the garden.
+Where is Daniel?
+garden
+
+John went to the hallway.
+John journeyed to the office.
+Where is John?
+office
+
+Sandra journeyed to the kitchen.
+Sandra went back to the hallway.
+Where is John?
+office
+
+Daniel went to the kitchen.
+Mary travelled to the kitchen.
+Where is John?
+
+ANSWER: kitchen
+IS FIRST!!
+PROMPT:  Sandra went to the garden.
+John travelled to the bathroom.
+Where is Mary?
+kitchen
+
+Daniel moved to the kitchen.
+Daniel went to the office.
+Where is Daniel?
+
+ANSWER: office
+PROMPT:  Sandra went to the garden.
+John travelled to the bathroom.
+Where is Mary?
+kitchen
+
+Daniel moved to the kitchen.
+Daniel went to the office.
+Where is Daniel?
+office
+
+John moved to the garden.
+Daniel moved to the garden.
+Where is Daniel?
+
+ANSWER: landing
+PROMPT:  Sandra went to the garden.
+John travelled to the bathroom.
+Where is Mary?
+kitchen
+
+Daniel moved to the kitchen.
+Daniel went to the office.
+Where is Daniel?
+office
+
+John moved to the garden.
+Daniel moved to the garden.
+Where is Daniel?
+garden
+
+Daniel journeyed to the hallway.
+Mary went to the bedroom.
+Where is Daniel?
+
+ANSWER: bedroom
+PROMPT:  Sandra went to the garden.
+John travelled to the bathroom.
+Where is Mary?
+kitchen
+
+Daniel moved to the kitchen.
+Daniel went to the office.
+Where is Daniel?
+office
+
+John moved to the garden.
+Daniel moved to the garden.
+Where is Daniel?
+garden
+
+Daniel journeyed to the hallway.
+Mary went to the bedroom.
+Where is Daniel?
+hallway
+
+John travelled to the bathroom.
+Sandra travelled to the office.
+Where is Sandra?
+
+ANSWER: office
+IS FIRST!!
+PROMPT:  John journeyed to the kitchen.
+Daniel journeyed to the bathroom.
+Where is John?
+kitchen
+
+John moved to the bathroom.
+Sandra journeyed to the bathroom.
+Where is Sandra?
+
+ANSWER: bathroom
+PROMPT:  John journeyed to the kitchen.
+Daniel journeyed to the bathroom.
+Where is John?
+kitchen
+
+John moved to the bathroom.
+Sandra journeyed to the bathroom.
+Where is Sandra?
+bathroom
+
+Sandra travelled to the kitchen.
+Daniel went to the kitchen.
+Where is Daniel?
+
+ANSWER: kitchen
+PROMPT:  John journeyed to the kitchen.
+Daniel journeyed to the bathroom.
+Where is John?
+kitchen
+
+John moved to the bathroom.
+Sandra journeyed to the bathroom.
+Where is Sandra?
+bathroom
+
+Sandra travelled to the kitchen.
+Daniel went to the kitchen.
+Where is Daniel?
+kitchen
+
+Daniel moved to the garden.
+Mary went to the bathroom.
+Where is Daniel?
+
+ANSWER: bathroom
+PROMPT:  John journeyed to the kitchen.
+Daniel journeyed to the bathroom.
+Where is John?
+kitchen
+
+John moved to the bathroom.
+Sandra journeyed to the bathroom.
+Where is Sandra?
+bathroom
+
+Sandra travelled to the kitchen.
+Daniel went to the kitchen.
+Where is Daniel?
+kitchen
+
+Daniel moved to the garden.
+Mary went to the bathroom.
+Where is Daniel?
+garden
+
+John went back to the hallway.
+Mary went back to the garden.
+Where is Mary?
+
+ANSWER: garden
+IS FIRST!!
+PROMPT:  John journeyed to the kitchen.
+Sandra journeyed to the bathroom.
+Where is Sandra?
+bathroom
+
+Sandra travelled to the office.
+Daniel journeyed to the hallway.
+Where is Daniel?
+
+ANSWER: hallway
+PROMPT:  John journeyed to the kitchen.
+Sandra journeyed to the bathroom.
+Where is Sandra?
+bathroom
+
+Sandra travelled to the office.
+Daniel journeyed to the hallway.
+Where is Daniel?
+hallway
+
+Sandra went to the hallway.
+Mary went to the garden.
+Where is Mary?
+
+ANSWER: garden
+PROMPT:  John journeyed to the kitchen.
+Sandra journeyed to the bathroom.
+Where is Sandra?
+bathroom
+
+Sandra travelled to the office.
+Daniel journeyed to the hallway.
+Where is Daniel?
+hallway
+
+Sandra went to the hallway.
+Mary went to the garden.
+Where is Mary?
+garden
+
+Mary travelled to the kitchen.
+John travelled to the garden.
+Where is Sandra?
+
+ANSWER: garden
+PROMPT:  John journeyed to the kitchen.
+Sandra journeyed to the bathroom.
+Where is Sandra?
+bathroom
+
+Sandra travelled to the office.
+Daniel journeyed to the hallway.
+Where is Daniel?
+hallway
+
+Sandra went to the hallway.
+Mary went to the garden.
+Where is Mary?
+garden
+
+Mary travelled to the kitchen.
+John travelled to the garden.
+Where is Sandra?
+hallway
+
+Sandra journeyed to the bathroom.
+Mary travelled to the bathroom.
+Where is Sandra?
+
+ANSWER: bathroom
+IS FIRST!!
+PROMPT:  John moved to the bathroom.
+Mary went to the office.
+Where is John?
+bathroom
+
+Daniel travelled to the garden.
+John went back to the kitchen.
+Where is John?
+
+ANSWER: bathroom
+PROMPT:  John moved to the bathroom.
+Mary went to the office.
+Where is John?
+bathroom
+
+Daniel travelled to the garden.
+John went back to the kitchen.
+Where is John?
+kitchen
+
+John went back to the bathroom.
+Sandra travelled to the garden.
+Where is Daniel?
+
+ANSWER: kitchen
+PROMPT:  John moved to the bathroom.
+Mary went to the office.
+Where is John?
+bathroom
+
+Daniel travelled to the garden.
+John went back to the kitchen.
+Where is John?
+kitchen
+
+John went back to the bathroom.
+Sandra travelled to the garden.
+Where is Daniel?
+garden
+
+Daniel journeyed to the office.
+Daniel moved to the garden.
+Where is John?
+
+ANSWER: office
+PROMPT:  John moved to the bathroom.
+Mary went to the office.
+Where is John?
+bathroom
+
+Daniel travelled to the garden.
+John went back to the kitchen.
+Where is John?
+kitchen
+
+John went back to the bathroom.
+Sandra travelled to the garden.
+Where is Daniel?
+garden
+
+Daniel journeyed to the office.
+Daniel moved to the garden.
+Where is John?
+bathroom
+
+Daniel journeyed to the office.
+Daniel went to the bathroom.
+Where is Daniel?
+
+ANSWER: the bathroom
+IS FIRST!!
+PROMPT:  Sandra travelled to the office.
+Sandra went back to the bathroom.
+Where is Daniel?
+bathroom
+
+Sandra moved to the bedroom.
+Mary went to the hallway.
+Where is Sandra?
+
+ANSWER: the 'rescue team
+PROMPT:  Sandra travelled to the office.
+Sandra went back to the bathroom.
+Where is Daniel?
+bathroom
+
+Sandra moved to the bedroom.
+Mary went to the hallway.
+Where is Sandra?
+bedroom
+
+John journeyed to the kitchen.
+Sandra moved to the office.
+Where is Mary?
+
+ANSWER: office
+PROMPT:  Sandra travelled to the office.
+Sandra went back to the bathroom.
+Where is Daniel?
+bathroom
+
+Sandra moved to the bedroom.
+Mary went to the hallway.
+Where is Sandra?
+bedroom
+
+John journeyed to the kitchen.
+Sandra moved to the office.
+Where is Mary?
+hallway
+
+Daniel went to the hallway.
+Mary travelled to the bedroom.
+Where is Mary?
+
+ANSWER: bedroom
+PROMPT:  Sandra travelled to the office.
+Sandra went back to the bathroom.
+Where is Daniel?
+bathroom
+
+Sandra moved to the bedroom.
+Mary went to the hallway.
+Where is Sandra?
+bedroom
+
+John journeyed to the kitchen.
+Sandra moved to the office.
+Where is Mary?
+hallway
+
+Daniel went to the hallway.
+Mary travelled to the bedroom.
+Where is Mary?
+bedroom
+
+Daniel moved to the bedroom.
+Mary went back to the hallway.
+Where is Daniel?
+
+ANSWER: hotel
+IS FIRST!!
+PROMPT:  Sandra went back to the hallway.
+Mary went to the kitchen.
+Where is Mary?
+kitchen
+
+John went to the bedroom.
+Mary travelled to the hallway.
+Where is Mary?
+
+ANSWER: bedroom
+PROMPT:  Sandra went back to the hallway.
+Mary went to the kitchen.
+Where is Mary?
+kitchen
+
+John went to the bedroom.
+Mary travelled to the hallway.
+Where is Mary?
+hallway
+
+Mary moved to the kitchen.
+Daniel went to the garden.
+Where is Daniel?
+
+ANSWER: garden
+PROMPT:  Sandra went back to the hallway.
+Mary went to the kitchen.
+Where is Mary?
+kitchen
+
+John went to the bedroom.
+Mary travelled to the hallway.
+Where is Mary?
+hallway
+
+Mary moved to the kitchen.
+Daniel went to the garden.
+Where is Daniel?
+garden
+
+Sandra journeyed to the bedroom.
+Sandra travelled to the hallway.
+Where is Mary?
+
+ANSWER: garden
+PROMPT:  Sandra went back to the hallway.
+Mary went to the kitchen.
+Where is Mary?
+kitchen
+
+John went to the bedroom.
+Mary travelled to the hallway.
+Where is Mary?
+hallway
+
+Mary moved to the kitchen.
+Daniel went to the garden.
+Where is Daniel?
+garden
+
+Sandra journeyed to the bedroom.
+Sandra travelled to the hallway.
+Where is Mary?
+kitchen
+
+John went to the office.
+Mary moved to the bedroom.
+Where is Mary?
+
+ANSWER: office
+IS FIRST!!
+PROMPT:  John went to the kitchen.
+Sandra moved to the bathroom.
+Where is Sandra?
+bathroom
+
+Mary travelled to the hallway.
+Daniel journeyed to the office.
+Where is Mary?
+
+ANSWER: office
+PROMPT:  John went to the kitchen.
+Sandra moved to the bathroom.
+Where is Sandra?
+bathroom
+
+Mary travelled to the hallway.
+Daniel journeyed to the office.
+Where is Mary?
+hallway
+
+Daniel moved to the garden.
+Daniel went back to the hallway.
+Where is Daniel?
+
+ANSWER: hallway
+PROMPT:  John went to the kitchen.
+Sandra moved to the bathroom.
+Where is Sandra?
+bathroom
+
+Mary travelled to the hallway.
+Daniel journeyed to the office.
+Where is Mary?
+hallway
+
+Daniel moved to the garden.
+Daniel went back to the hallway.
+Where is Daniel?
+hallway
+
+Mary moved to the garden.
+Mary went back to the hallway.
+Where is Daniel?
+
+ANSWER: hallway
+PROMPT:  John went to the kitchen.
+Sandra moved to the bathroom.
+Where is Sandra?
+bathroom
+
+Mary travelled to the hallway.
+Daniel journeyed to the office.
+Where is Mary?
+hallway
+
+Daniel moved to the garden.
+Daniel went back to the hallway.
+Where is Daniel?
+hallway
+
+Mary moved to the garden.
+Mary went back to the hallway.
+Where is Daniel?
+hallway
+
+John went back to the office.
+Mary journeyed to the bathroom.
+Where is John?
+
+ANSWER: bathroom
+IS FIRST!!
+PROMPT:  John travelled to the garden.
+John moved to the bedroom.
+Where is Mary?
+bathroom
+
+Mary journeyed to the bedroom.
+Daniel went back to the office.
+Where is Daniel?
+
+ANSWER: american dad
+PROMPT:  John travelled to the garden.
+John moved to the bedroom.
+Where is Mary?
+bathroom
+
+Mary journeyed to the bedroom.
+Daniel went back to the office.
+Where is Daniel?
+office
+
+Sandra went back to the garden.
+Mary travelled to the kitchen.
+Where is Mary?
+
+ANSWER: kitchen
+PROMPT:  John travelled to the garden.
+John moved to the bedroom.
+Where is Mary?
+bathroom
+
+Mary journeyed to the bedroom.
+Daniel went back to the office.
+Where is Daniel?
+office
+
+Sandra went back to the garden.
+Mary travelled to the kitchen.
+Where is Mary?
+kitchen
+
+Mary moved to the bathroom.
+Daniel journeyed to the bedroom.
+Where is Mary?
+
+ANSWER: nursing
+PROMPT:  John travelled to the garden.
+John moved to the bedroom.
+Where is Mary?
+bathroom
+
+Mary journeyed to the bedroom.
+Daniel went back to the office.
+Where is Daniel?
+office
+
+Sandra went back to the garden.
+Mary travelled to the kitchen.
+Where is Mary?
+kitchen
+
+Mary moved to the bathroom.
+Daniel journeyed to the bedroom.
+Where is Mary?
+bathroom
+
+Daniel went back to the hallway.
+John went back to the bathroom.
+Where is Daniel?
+
+ANSWER: shower
+IS FIRST!!
+PROMPT:  John went back to the garden.
+John travelled to the hallway.
+Where is Daniel?
+hallway
+
+Mary travelled to the garden.
+Mary travelled to the bedroom.
+Where is Mary?
+
+ANSWER: bedroom
+PROMPT:  John went back to the garden.
+John travelled to the hallway.
+Where is Daniel?
+hallway
+
+Mary travelled to the garden.
+Mary travelled to the bedroom.
+Where is Mary?
+bedroom
+
+John went to the garden.
+Daniel travelled to the garden.
+Where is Mary?
+
+ANSWER: bag
+PROMPT:  John went back to the garden.
+John travelled to the hallway.
+Where is Daniel?
+hallway
+
+Mary travelled to the garden.
+Mary travelled to the bedroom.
+Where is Mary?
+bedroom
+
+John went to the garden.
+Daniel travelled to the garden.
+Where is Mary?
+bedroom
+
+Sandra moved to the office.
+John went to the office.
+Where is John?
+
+ANSWER: office
+PROMPT:  John went back to the garden.
+John travelled to the hallway.
+Where is Daniel?
+hallway
+
+Mary travelled to the garden.
+Mary travelled to the bedroom.
+Where is Mary?
+bedroom
+
+John went to the garden.
+Daniel travelled to the garden.
+Where is Mary?
+bedroom
+
+Sandra moved to the office.
+John went to the office.
+Where is John?
+office
+
+Daniel travelled to the bedroom.
+Mary went back to the hallway.
+Where is Mary?
+
+ANSWER: hallway
+IS FIRST!!
+PROMPT:  Sandra moved to the bedroom.
+Sandra moved to the kitchen.
+Where is John?
+office
+
+Sandra went to the garden.
+John journeyed to the bedroom.
+Where is John?
+
+ANSWER: office
+PROMPT:  Sandra moved to the bedroom.
+Sandra moved to the kitchen.
+Where is John?
+office
+
+Sandra went to the garden.
+John journeyed to the bedroom.
+Where is John?
+bedroom
+
+Mary travelled to the kitchen.
+John journeyed to the garden.
+Where is John?
+
+ANSWER: apartment
+PROMPT:  Sandra moved to the bedroom.
+Sandra moved to the kitchen.
+Where is John?
+office
+
+Sandra went to the garden.
+John journeyed to the bedroom.
+Where is John?
+bedroom
+
+Mary travelled to the kitchen.
+John journeyed to the garden.
+Where is John?
+garden
+
+Mary went back to the office.
+Mary moved to the bathroom.
+Where is John?
+
+ANSWER: dressing
+PROMPT:  Sandra moved to the bedroom.
+Sandra moved to the kitchen.
+Where is John?
+office
+
+Sandra went to the garden.
+John journeyed to the bedroom.
+Where is John?
+bedroom
+
+Mary travelled to the kitchen.
+John journeyed to the garden.
+Where is John?
+garden
+
+Mary went back to the office.
+Mary moved to the bathroom.
+Where is John?
+garden
+
+Sandra travelled to the office.
+Sandra went to the kitchen.
+Where is Mary?
+
+ANSWER: garden
+IS FIRST!!
+PROMPT:  John moved to the kitchen.
+Daniel went back to the bedroom.
+Where is Mary?
+bathroom
+
+Mary went back to the bedroom.
+Sandra went back to the hallway.
+Where is Sandra?
+
+ANSWER: tower
+PROMPT:  John moved to the kitchen.
+Daniel went back to the bedroom.
+Where is Mary?
+bathroom
+
+Mary went back to the bedroom.
+Sandra went back to the hallway.
+Where is Sandra?
+hallway
+
+Daniel journeyed to the garden.
+Sandra went to the bathroom.
+Where is Mary?
+
+ANSWER: bathroom
+PROMPT:  John moved to the kitchen.
+Daniel went back to the bedroom.
+Where is Mary?
+bathroom
+
+Mary went back to the bedroom.
+Sandra went back to the hallway.
+Where is Sandra?
+hallway
+
+Daniel journeyed to the garden.
+Sandra went to the bathroom.
+Where is Mary?
+bedroom
+
+John went to the hallway.
+John went back to the garden.
+Where is Sandra?
+
+ANSWER: hallway
+PROMPT:  John moved to the kitchen.
+Daniel went back to the bedroom.
+Where is Mary?
+bathroom
+
+Mary went back to the bedroom.
+Sandra went back to the hallway.
+Where is Sandra?
+hallway
+
+Daniel journeyed to the garden.
+Sandra went to the bathroom.
+Where is Mary?
+bedroom
+
+John went to the hallway.
+John went back to the garden.
+Where is Sandra?
+bathroom
+
+John went to the kitchen.
+Daniel journeyed to the bathroom.
+Where is John?
+
+ANSWER: bathroom
+IS FIRST!!
+PROMPT:  John travelled to the garden.
+Mary went back to the bathroom.
+Where is Mary?
+bathroom
+
+Daniel journeyed to the garden.
+Sandra moved to the bathroom.
+Where is Daniel?
+
+ANSWER: bathroom
+PROMPT:  John travelled to the garden.
+Mary went back to the bathroom.
+Where is Mary?
+bathroom
+
+Daniel journeyed to the garden.
+Sandra moved to the bathroom.
+Where is Daniel?
+garden
+
+Mary went back to the bedroom.
+Daniel travelled to the bedroom.
+Where is Sandra?
+
+ANSWER: bedroom
+PROMPT:  John travelled to the garden.
+Mary went back to the bathroom.
+Where is Mary?
+bathroom
+
+Daniel journeyed to the garden.
+Sandra moved to the bathroom.
+Where is Daniel?
+garden
+
+Mary went back to the bedroom.
+Daniel travelled to the bedroom.
+Where is Sandra?
+bathroom
+
+Mary went to the office.
+John travelled to the bedroom.
+Where is John?
+
+ANSWER: office
+PROMPT:  John travelled to the garden.
+Mary went back to the bathroom.
+Where is Mary?
+bathroom
+
+Daniel journeyed to the garden.
+Sandra moved to the bathroom.
+Where is Daniel?
+garden
+
+Mary went back to the bedroom.
+Daniel travelled to the bedroom.
+Where is Sandra?
+bathroom
+
+Mary went to the office.
+John travelled to the bedroom.
+Where is John?
+bedroom
+
+Daniel went to the office.
+Sandra went back to the garden.
+Where is John?
+
+ANSWER: garden
+IS FIRST!!
+PROMPT:  John journeyed to the office.
+John went back to the hallway.
+Where is John?
+hallway
+
+Mary went back to the kitchen.
+John went back to the office.
+Where is John?
+
+ANSWER: office
+PROMPT:  John journeyed to the office.
+John went back to the hallway.
+Where is John?
+hallway
+
+Mary went back to the kitchen.
+John went back to the office.
+Where is John?
+office
+
+Daniel journeyed to the bedroom.
+Mary travelled to the bathroom.
+Where is Daniel?
+
+ANSWER: shower
+PROMPT:  John journeyed to the office.
+John went back to the hallway.
+Where is John?
+hallway
+
+Mary went back to the kitchen.
+John went back to the office.
+Where is John?
+office
+
+Daniel journeyed to the bedroom.
+Mary travelled to the bathroom.
+Where is Daniel?
+bedroom
+
+John journeyed to the kitchen.
+Sandra journeyed to the kitchen.
+Where is Mary?
+
+ANSWER: kills seat
+PROMPT:  John journeyed to the office.
+John went back to the hallway.
+Where is John?
+hallway
+
+Mary went back to the kitchen.
+John went back to the office.
+Where is John?
+office
+
+Daniel journeyed to the bedroom.
+Mary travelled to the bathroom.
+Where is Daniel?
+bedroom
+
+John journeyed to the kitchen.
+Sandra journeyed to the kitchen.
+Where is Mary?
+bathroom
+
+Daniel travelled to the office.
+Daniel journeyed to the bathroom.
+Where is Mary?
+
+ANSWER: bedroom
+IS FIRST!!
+PROMPT:  John travelled to the office.
+Daniel went back to the kitchen.
+Where is Daniel?
+kitchen
+
+John journeyed to the office.
+Sandra travelled to the office.
+Where is John?
+
+ANSWER: bad
+PROMPT:  John travelled to the office.
+Daniel went back to the kitchen.
+Where is Daniel?
+kitchen
+
+John journeyed to the office.
+Sandra travelled to the office.
+Where is John?
+office
+
+Daniel travelled to the kitchen.
+Daniel travelled to the bedroom.
+Where is Daniel?
+
+ANSWER: bedroom
+PROMPT:  John travelled to the office.
+Daniel went back to the kitchen.
+Where is Daniel?
+kitchen
+
+John journeyed to the office.
+Sandra travelled to the office.
+Where is John?
+office
+
+Daniel travelled to the kitchen.
+Daniel travelled to the bedroom.
+Where is Daniel?
+bedroom
+
+Sandra moved to the garden.
+John travelled to the bedroom.
+Where is Sandra?
+
+ANSWER: bedroom
+PROMPT:  John travelled to the office.
+Daniel went back to the kitchen.
+Where is Daniel?
+kitchen
+
+John journeyed to the office.
+Sandra travelled to the office.
+Where is John?
+office
+
+Daniel travelled to the kitchen.
+Daniel travelled to the bedroom.
+Where is Daniel?
+bedroom
+
+Sandra moved to the garden.
+John travelled to the bedroom.
+Where is Sandra?
+garden
+
+Sandra went to the kitchen.
+Mary moved to the bedroom.
+Where is Sandra?
+
+ANSWER: bedroom
+IS FIRST!!
+PROMPT:  Daniel travelled to the hallway.
+Mary journeyed to the kitchen.
+Where is Mary?
+kitchen
+
+Daniel travelled to the kitchen.
+Daniel went to the hallway.
+Where is Daniel?
+
+ANSWER: hallway
+PROMPT:  Daniel travelled to the hallway.
+Mary journeyed to the kitchen.
+Where is Mary?
+kitchen
+
+Daniel travelled to the kitchen.
+Daniel went to the hallway.
+Where is Daniel?
+hallway
+
+Mary travelled to the hallway.
+John went to the hallway.
+Where is Mary?
+
+ANSWER: hallway
+PROMPT:  Daniel travelled to the hallway.
+Mary journeyed to the kitchen.
+Where is Mary?
+kitchen
+
+Daniel travelled to the kitchen.
+Daniel went to the hallway.
+Where is Daniel?
+hallway
+
+Mary travelled to the hallway.
+John went to the hallway.
+Where is Mary?
+hallway
+
+Sandra moved to the garden.
+Mary went to the kitchen.
+Where is John?
+
+ANSWER: kitchen
+PROMPT:  Daniel travelled to the hallway.
+Mary journeyed to the kitchen.
+Where is Mary?
+kitchen
+
+Daniel travelled to the kitchen.
+Daniel went to the hallway.
+Where is Daniel?
+hallway
+
+Mary travelled to the hallway.
+John went to the hallway.
+Where is Mary?
+hallway
+
+Sandra moved to the garden.
+Mary went to the kitchen.
+Where is John?
+hallway
+
+John moved to the garden.
+John went back to the bathroom.
+Where is John?
+
+ANSWER: the bathroom
+IS FIRST!!
+PROMPT:  Mary went to the hallway.
+Daniel moved to the kitchen.
+Where is Mary?
+hallway
+
+Daniel went to the office.
+John moved to the garden.
+Where is John?
+
+ANSWER: garden door hallway
+PROMPT:  Mary went to the hallway.
+Daniel moved to the kitchen.
+Where is Mary?
+hallway
+
+Daniel went to the office.
+John moved to the garden.
+Where is John?
+garden
+
+Sandra travelled to the bathroom.
+Mary moved to the garden.
+Where is Mary?
+
+ANSWER: garden
+PROMPT:  Mary went to the hallway.
+Daniel moved to the kitchen.
+Where is Mary?
+hallway
+
+Daniel went to the office.
+John moved to the garden.
+Where is John?
+garden
+
+Sandra travelled to the bathroom.
+Mary moved to the garden.
+Where is Mary?
+garden
+
+Daniel went to the bathroom.
+Sandra moved to the hallway.
+Where is Daniel?
+
+ANSWER: garden
+PROMPT:  Mary went to the hallway.
+Daniel moved to the kitchen.
+Where is Mary?
+hallway
+
+Daniel went to the office.
+John moved to the garden.
+Where is John?
+garden
+
+Sandra travelled to the bathroom.
+Mary moved to the garden.
+Where is Mary?
+garden
+
+Daniel went to the bathroom.
+Sandra moved to the hallway.
+Where is Daniel?
+bathroom
+
+Mary moved to the hallway.
+Mary went to the bathroom.
+Where is Mary?
+
+ANSWER: garden
+IS FIRST!!
+PROMPT:  Daniel journeyed to the bedroom.
+John journeyed to the bedroom.
+Where is Daniel?
+bedroom
+
+Mary went to the kitchen.
+Daniel went to the garden.
+Where is Daniel?
+
+ANSWER: the tree
+PROMPT:  Daniel journeyed to the bedroom.
+John journeyed to the bedroom.
+Where is Daniel?
+bedroom
+
+Mary went to the kitchen.
+Daniel went to the garden.
+Where is Daniel?
+garden
+
+Mary went to the hallway.
+Daniel travelled to the bathroom.
+Where is Mary?
+
+ANSWER: bathroom
+PROMPT:  Daniel journeyed to the bedroom.
+John journeyed to the bedroom.
+Where is Daniel?
+bedroom
+
+Mary went to the kitchen.
+Daniel went to the garden.
+Where is Daniel?
+garden
+
+Mary went to the hallway.
+Daniel travelled to the bathroom.
+Where is Mary?
+hallway
+
+Daniel went back to the bedroom.
+Sandra journeyed to the kitchen.
+Where is Mary?
+
+ANSWER: kitchen
+PROMPT:  Daniel journeyed to the bedroom.
+John journeyed to the bedroom.
+Where is Daniel?
+bedroom
+
+Mary went to the kitchen.
+Daniel went to the garden.
+Where is Daniel?
+garden
+
+Mary went to the hallway.
+Daniel travelled to the bathroom.
+Where is Mary?
+hallway
+
+Daniel went back to the bedroom.
+Sandra journeyed to the kitchen.
+Where is Mary?
+hallway
+
+Daniel travelled to the garden.
+Daniel went back to the office.
+Where is Daniel?
+
+ANSWER: office
+IS FIRST!!
+PROMPT:  Mary journeyed to the bedroom.
+John went to the garden.
+Where is Sandra?
+kitchen
+
+John travelled to the bedroom.
+John moved to the office.
+Where is John?
+
+ANSWER: where is john 
+PROMPT:  Mary journeyed to the bedroom.
+John went to the garden.
+Where is Sandra?
+kitchen
+
+John travelled to the bedroom.
+John moved to the office.
+Where is John?
+office
+
+Mary went back to the kitchen.
+John went back to the hallway.
+Where is Mary?
+
+ANSWER: hall
+PROMPT:  Mary journeyed to the bedroom.
+John went to the garden.
+Where is Sandra?
+kitchen
+
+John travelled to the bedroom.
+John moved to the office.
+Where is John?
+office
+
+Mary went back to the kitchen.
+John went back to the hallway.
+Where is Mary?
+kitchen
+
+Sandra travelled to the bathroom.
+Mary travelled to the office.
+Where is John?
+
+ANSWER: office
+PROMPT:  Mary journeyed to the bedroom.
+John went to the garden.
+Where is Sandra?
+kitchen
+
+John travelled to the bedroom.
+John moved to the office.
+Where is John?
+office
+
+Mary went back to the kitchen.
+John went back to the hallway.
+Where is Mary?
+kitchen
+
+Sandra travelled to the bathroom.
+Mary travelled to the office.
+Where is John?
+hallway
+
+Sandra went to the garden.
+Sandra travelled to the kitchen.
+Where is Mary?
+
+ANSWER: kitchen
+IS FIRST!!
+NUM QUESTIONS: 79 NUM CORRECT: 27 PERCENT ACCURACY: 0.34177215189873417

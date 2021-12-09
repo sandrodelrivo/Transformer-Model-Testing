@@ -1,0 +1,2217 @@
+2021-12-07 22:08:52,098 INFO     | creating task(s): babi:task10k:2
+2021-12-07 22:08:52,155 INFO     | loading fbdialog data: C:\Users\sandr\ParlAI\data\bAbI\tasks_1-20_v1-2\en-valid-10k-nosf\qa2_train.txt
+IS FIRST!!
+PROMPT:  John travelled to the bedroom.
+Mary went back to the hallway.
+Sandra grabbed the milk there.
+Mary moved to the office.
+Mary went back to the kitchen.
+Daniel went to the kitchen.
+Mary went back to the bathroom.
+Sandra dropped the milk.
+John went to the office.
+Daniel moved to the bathroom.
+John grabbed the football there.
+Mary went back to the garden.
+Sandra got the milk there.
+Mary travelled to the hallway.
+Sandra discarded the milk.
+Daniel journeyed to the bedroom.
+Daniel went to the kitchen.
+John journeyed to the garden.
+Sandra got the milk there.
+Sandra dropped the milk.
+John left the football.
+Daniel went back to the bedroom.
+Where is the football?
+garden
+
+John got the football there.
+Sandra grabbed the milk there.
+John moved to the bathroom.
+John travelled to the garden.
+Where is the football?
+
+ANSWER: bed
+PROMPT:  John travelled to the bedroom.
+Mary went back to the hallway.
+Sandra grabbed the milk there.
+Mary moved to the office.
+Mary went back to the kitchen.
+Daniel went to the kitchen.
+Mary went back to the bathroom.
+Sandra dropped the milk.
+John went to the office.
+Daniel moved to the bathroom.
+John grabbed the football there.
+Mary went back to the garden.
+Sandra got the milk there.
+Mary travelled to the hallway.
+Sandra discarded the milk.
+Daniel journeyed to the bedroom.
+Daniel went to the kitchen.
+John journeyed to the garden.
+Sandra got the milk there.
+Sandra dropped the milk.
+John left the football.
+Daniel went back to the bedroom.
+Where is the football?
+garden
+
+John got the football there.
+Sandra grabbed the milk there.
+John moved to the bathroom.
+John travelled to the garden.
+Where is the football?
+garden
+
+Mary got the apple there.
+John travelled to the office.
+Sandra put down the milk.
+Mary discarded the apple.
+Where is the apple?
+
+ANSWER: front gate
+PROMPT:  John travelled to the bedroom.
+Mary went back to the hallway.
+Sandra grabbed the milk there.
+Mary moved to the office.
+Mary went back to the kitchen.
+Daniel went to the kitchen.
+Mary went back to the bathroom.
+Sandra dropped the milk.
+John went to the office.
+Daniel moved to the bathroom.
+John grabbed the football there.
+Mary went back to the garden.
+Sandra got the milk there.
+Mary travelled to the hallway.
+Sandra discarded the milk.
+Daniel journeyed to the bedroom.
+Daniel went to the kitchen.
+John journeyed to the garden.
+Sandra got the milk there.
+Sandra dropped the milk.
+John left the football.
+Daniel went back to the bedroom.
+Where is the football?
+garden
+
+John got the football there.
+Sandra grabbed the milk there.
+John moved to the bathroom.
+John travelled to the garden.
+Where is the football?
+garden
+
+Mary got the apple there.
+John travelled to the office.
+Sandra put down the milk.
+Mary discarded the apple.
+Where is the apple?
+hallway
+
+Mary picked up the apple there.
+Mary went to the garden.
+Where is the apple?
+
+ANSWER: garden
+IS FIRST!!
+PROMPT:  Mary journeyed to the kitchen.
+Sandra grabbed the milk there.
+Where is the apple?
+kitchen
+
+Sandra grabbed the football there.
+John grabbed the apple there.
+Daniel moved to the bedroom.
+Mary went to the bedroom.
+John discarded the apple.
+Sandra dropped the football.
+John went back to the hallway.
+Sandra journeyed to the kitchen.
+John went back to the bathroom.
+Sandra took the apple there.
+Daniel travelled to the bathroom.
+Daniel picked up the milk there.
+Sandra went back to the bedroom.
+Mary moved to the bathroom.
+Where is the apple?
+
+ANSWER: mary opened the bathroom doors
+PROMPT:  Mary journeyed to the kitchen.
+Sandra grabbed the milk there.
+Where is the apple?
+kitchen
+
+Sandra grabbed the football there.
+John grabbed the apple there.
+Daniel moved to the bedroom.
+Mary went to the bedroom.
+John discarded the apple.
+Sandra dropped the football.
+John went back to the hallway.
+Sandra journeyed to the kitchen.
+John went back to the bathroom.
+Sandra took the apple there.
+Daniel travelled to the bathroom.
+Daniel picked up the milk there.
+Sandra went back to the bedroom.
+Mary moved to the bathroom.
+Where is the apple?
+bedroom
+
+Mary journeyed to the bedroom.
+Sandra moved to the garden.
+Daniel discarded the milk.
+John went back to the bedroom.
+Where is the milk?
+
+ANSWER: bedroom
+PROMPT:  Mary journeyed to the kitchen.
+Sandra grabbed the milk there.
+Where is the apple?
+kitchen
+
+Sandra grabbed the football there.
+John grabbed the apple there.
+Daniel moved to the bedroom.
+Mary went to the bedroom.
+John discarded the apple.
+Sandra dropped the football.
+John went back to the hallway.
+Sandra journeyed to the kitchen.
+John went back to the bathroom.
+Sandra took the apple there.
+Daniel travelled to the bathroom.
+Daniel picked up the milk there.
+Sandra went back to the bedroom.
+Mary moved to the bathroom.
+Where is the apple?
+bedroom
+
+Mary journeyed to the bedroom.
+Sandra moved to the garden.
+Daniel discarded the milk.
+John went back to the bedroom.
+Where is the milk?
+bathroom
+
+Sandra discarded the apple.
+John travelled to the hallway.
+Where is the milk?
+
+ANSWER: kitchen
+PROMPT:  Mary journeyed to the kitchen.
+Sandra grabbed the milk there.
+Where is the apple?
+kitchen
+
+Sandra grabbed the football there.
+John grabbed the apple there.
+Daniel moved to the bedroom.
+Mary went to the bedroom.
+John discarded the apple.
+Sandra dropped the football.
+John went back to the hallway.
+Sandra journeyed to the kitchen.
+John went back to the bathroom.
+Sandra took the apple there.
+Daniel travelled to the bathroom.
+Daniel picked up the milk there.
+Sandra went back to the bedroom.
+Mary moved to the bathroom.
+Where is the apple?
+bedroom
+
+Mary journeyed to the bedroom.
+Sandra moved to the garden.
+Daniel discarded the milk.
+John went back to the bedroom.
+Where is the milk?
+bathroom
+
+Sandra discarded the apple.
+John travelled to the hallway.
+Where is the milk?
+bathroom
+
+John moved to the garden.
+Daniel took the milk there.
+Where is the apple?
+
+ANSWER: yards
+IS FIRST!!
+PROMPT:  Mary went to the garden.
+Mary grabbed the football there.
+Daniel journeyed to the kitchen.
+John went back to the kitchen.
+Where is the milk?
+kitchen
+
+Daniel travelled to the bathroom.
+John took the milk there.
+John grabbed the apple there.
+Mary went to the kitchen.
+Daniel journeyed to the kitchen.
+John dropped the milk.
+Daniel picked up the milk there.
+Sandra went back to the kitchen.
+John dropped the apple.
+Mary grabbed the apple there.
+Sandra moved to the bathroom.
+Sandra travelled to the office.
+Mary left the apple there.
+Daniel discarded the milk.
+Where is the milk?
+
+ANSWER: office
+PROMPT:  Mary went to the garden.
+Mary grabbed the football there.
+Daniel journeyed to the kitchen.
+John went back to the kitchen.
+Where is the milk?
+kitchen
+
+Daniel travelled to the bathroom.
+John took the milk there.
+John grabbed the apple there.
+Mary went to the kitchen.
+Daniel journeyed to the kitchen.
+John dropped the milk.
+Daniel picked up the milk there.
+Sandra went back to the kitchen.
+John dropped the apple.
+Mary grabbed the apple there.
+Sandra moved to the bathroom.
+Sandra travelled to the office.
+Mary left the apple there.
+Daniel discarded the milk.
+Where is the milk?
+kitchen
+
+John travelled to the office.
+John travelled to the hallway.
+Where is the milk?
+
+ANSWER: office
+PROMPT:  Mary went to the garden.
+Mary grabbed the football there.
+Daniel journeyed to the kitchen.
+John went back to the kitchen.
+Where is the milk?
+kitchen
+
+Daniel travelled to the bathroom.
+John took the milk there.
+John grabbed the apple there.
+Mary went to the kitchen.
+Daniel journeyed to the kitchen.
+John dropped the milk.
+Daniel picked up the milk there.
+Sandra went back to the kitchen.
+John dropped the apple.
+Mary grabbed the apple there.
+Sandra moved to the bathroom.
+Sandra travelled to the office.
+Mary left the apple there.
+Daniel discarded the milk.
+Where is the milk?
+kitchen
+
+John travelled to the office.
+John travelled to the hallway.
+Where is the milk?
+kitchen
+
+Daniel got the milk there.
+Daniel travelled to the office.
+Where is the milk?
+
+ANSWER: kitchen
+PROMPT:  Mary went to the garden.
+Mary grabbed the football there.
+Daniel journeyed to the kitchen.
+John went back to the kitchen.
+Where is the milk?
+kitchen
+
+Daniel travelled to the bathroom.
+John took the milk there.
+John grabbed the apple there.
+Mary went to the kitchen.
+Daniel journeyed to the kitchen.
+John dropped the milk.
+Daniel picked up the milk there.
+Sandra went back to the kitchen.
+John dropped the apple.
+Mary grabbed the apple there.
+Sandra moved to the bathroom.
+Sandra travelled to the office.
+Mary left the apple there.
+Daniel discarded the milk.
+Where is the milk?
+kitchen
+
+John travelled to the office.
+John travelled to the hallway.
+Where is the milk?
+kitchen
+
+Daniel got the milk there.
+Daniel travelled to the office.
+Where is the milk?
+office
+
+John went back to the kitchen.
+Daniel discarded the milk.
+Where is the milk?
+
+ANSWER: tank
+IS FIRST!!
+PROMPT:  Mary travelled to the office.
+Mary went to the bathroom.
+Where is the milk?
+office
+
+John travelled to the garden.
+John took the football there.
+Mary took the apple there.
+Mary dropped the apple.
+Mary got the apple there.
+Mary went back to the garden.
+Where is the apple?
+
+ANSWER: office
+PROMPT:  Mary travelled to the office.
+Mary went to the bathroom.
+Where is the milk?
+office
+
+John travelled to the garden.
+John took the football there.
+Mary took the apple there.
+Mary dropped the apple.
+Mary got the apple there.
+Mary went back to the garden.
+Where is the apple?
+garden
+
+John dropped the football.
+Sandra went to the hallway.
+Where is the apple?
+
+ANSWER: hallway
+PROMPT:  Mary travelled to the office.
+Mary went to the bathroom.
+Where is the milk?
+office
+
+John travelled to the garden.
+John took the football there.
+Mary took the apple there.
+Mary dropped the apple.
+Mary got the apple there.
+Mary went back to the garden.
+Where is the apple?
+garden
+
+John dropped the football.
+Sandra went to the hallway.
+Where is the apple?
+garden
+
+Mary took the football there.
+Sandra travelled to the kitchen.
+Sandra moved to the office.
+Mary left the apple.
+Where is the apple?
+
+ANSWER: office
+PROMPT:  Mary travelled to the office.
+Mary went to the bathroom.
+Where is the milk?
+office
+
+John travelled to the garden.
+John took the football there.
+Mary took the apple there.
+Mary dropped the apple.
+Mary got the apple there.
+Mary went back to the garden.
+Where is the apple?
+garden
+
+John dropped the football.
+Sandra went to the hallway.
+Where is the apple?
+garden
+
+Mary took the football there.
+Sandra travelled to the kitchen.
+Sandra moved to the office.
+Mary left the apple.
+Where is the apple?
+garden
+
+Mary took the apple there.
+Mary put down the apple.
+Where is the apple?
+
+ANSWER: garden
+IS FIRST!!
+PROMPT:  Mary took the apple there.
+Daniel travelled to the bathroom.
+Mary journeyed to the hallway.
+Daniel went to the office.
+Where is the apple?
+hallway
+
+Mary got the apple there.
+Mary dropped the apple.
+Daniel got the football there.
+Daniel went to the bathroom.
+Where is the football?
+
+ANSWER: good football, good football
+PROMPT:  Mary took the apple there.
+Daniel travelled to the bathroom.
+Mary journeyed to the hallway.
+Daniel went to the office.
+Where is the apple?
+hallway
+
+Mary got the apple there.
+Mary dropped the apple.
+Daniel got the football there.
+Daniel went to the bathroom.
+Where is the football?
+bathroom
+
+John travelled to the kitchen.
+Mary moved to the bedroom.
+Where is the football?
+
+ANSWER: bedroom
+PROMPT:  Mary took the apple there.
+Daniel travelled to the bathroom.
+Mary journeyed to the hallway.
+Daniel went to the office.
+Where is the apple?
+hallway
+
+Mary got the apple there.
+Mary dropped the apple.
+Daniel got the football there.
+Daniel went to the bathroom.
+Where is the football?
+bathroom
+
+John travelled to the kitchen.
+Mary moved to the bedroom.
+Where is the football?
+bathroom
+
+Mary moved to the kitchen.
+Mary went to the hallway.
+Daniel left the football.
+John journeyed to the bedroom.
+Where is the football?
+
+ANSWER: bathroom
+PROMPT:  Mary took the apple there.
+Daniel travelled to the bathroom.
+Mary journeyed to the hallway.
+Daniel went to the office.
+Where is the apple?
+hallway
+
+Mary got the apple there.
+Mary dropped the apple.
+Daniel got the football there.
+Daniel went to the bathroom.
+Where is the football?
+bathroom
+
+John travelled to the kitchen.
+Mary moved to the bedroom.
+Where is the football?
+bathroom
+
+Mary moved to the kitchen.
+Mary went to the hallway.
+Daniel left the football.
+John journeyed to the bedroom.
+Where is the football?
+bathroom
+
+Daniel journeyed to the kitchen.
+Daniel moved to the bathroom.
+Where is the football?
+
+ANSWER: bathroom
+IS FIRST!!
+PROMPT:  Mary moved to the office.
+Daniel travelled to the garden.
+Sandra journeyed to the office.
+Sandra moved to the hallway.
+Daniel travelled to the bathroom.
+Daniel grabbed the football there.
+Sandra took the apple there.
+Sandra went back to the kitchen.
+Where is the apple?
+kitchen
+
+Daniel grabbed the milk there.
+Mary went to the bedroom.
+Sandra journeyed to the garden.
+Daniel left the milk.
+Sandra journeyed to the bedroom.
+Sandra went to the bathroom.
+John went to the office.
+John journeyed to the bathroom.
+John moved to the office.
+Mary journeyed to the bathroom.
+Mary travelled to the kitchen.
+Sandra travelled to the kitchen.
+Daniel journeyed to the office.
+Mary picked up the apple there.
+Sandra went back to the hallway.
+Mary put down the apple.
+Where is the apple?
+
+ANSWER: the driveway gate was closed
+PROMPT:  Mary moved to the office.
+Daniel travelled to the garden.
+Sandra journeyed to the office.
+Sandra moved to the hallway.
+Daniel travelled to the bathroom.
+Daniel grabbed the football there.
+Sandra took the apple there.
+Sandra went back to the kitchen.
+Where is the apple?
+kitchen
+
+Daniel grabbed the milk there.
+Mary went to the bedroom.
+Sandra journeyed to the garden.
+Daniel left the milk.
+Sandra journeyed to the bedroom.
+Sandra went to the bathroom.
+John went to the office.
+John journeyed to the bathroom.
+John moved to the office.
+Mary journeyed to the bathroom.
+Mary travelled to the kitchen.
+Sandra travelled to the kitchen.
+Daniel journeyed to the office.
+Mary picked up the apple there.
+Sandra went back to the hallway.
+Mary put down the apple.
+Where is the apple?
+kitchen
+
+Daniel journeyed to the kitchen.
+Daniel got the apple there.
+Sandra went back to the office.
+Mary got the football there.
+Mary journeyed to the bathroom.
+Daniel journeyed to the garden.
+Where is the apple?
+
+ANSWER: kitchen
+PROMPT:  Mary moved to the office.
+Daniel travelled to the garden.
+Sandra journeyed to the office.
+Sandra moved to the hallway.
+Daniel travelled to the bathroom.
+Daniel grabbed the football there.
+Sandra took the apple there.
+Sandra went back to the kitchen.
+Where is the apple?
+kitchen
+
+Daniel grabbed the milk there.
+Mary went to the bedroom.
+Sandra journeyed to the garden.
+Daniel left the milk.
+Sandra journeyed to the bedroom.
+Sandra went to the bathroom.
+John went to the office.
+John journeyed to the bathroom.
+John moved to the office.
+Mary journeyed to the bathroom.
+Mary travelled to the kitchen.
+Sandra travelled to the kitchen.
+Daniel journeyed to the office.
+Mary picked up the apple there.
+Sandra went back to the hallway.
+Mary put down the apple.
+Where is the apple?
+kitchen
+
+Daniel journeyed to the kitchen.
+Daniel got the apple there.
+Sandra went back to the office.
+Mary got the football there.
+Mary journeyed to the bathroom.
+Daniel journeyed to the garden.
+Where is the apple?
+garden
+
+Daniel went to the office.
+Mary dropped the football.
+Where is the football?
+
+ANSWER: garden
+PROMPT:  Mary moved to the office.
+Daniel travelled to the garden.
+Sandra journeyed to the office.
+Sandra moved to the hallway.
+Daniel travelled to the bathroom.
+Daniel grabbed the football there.
+Sandra took the apple there.
+Sandra went back to the kitchen.
+Where is the apple?
+kitchen
+
+Daniel grabbed the milk there.
+Mary went to the bedroom.
+Sandra journeyed to the garden.
+Daniel left the milk.
+Sandra journeyed to the bedroom.
+Sandra went to the bathroom.
+John went to the office.
+John journeyed to the bathroom.
+John moved to the office.
+Mary journeyed to the bathroom.
+Mary travelled to the kitchen.
+Sandra travelled to the kitchen.
+Daniel journeyed to the office.
+Mary picked up the apple there.
+Sandra went back to the hallway.
+Mary put down the apple.
+Where is the apple?
+kitchen
+
+Daniel journeyed to the kitchen.
+Daniel got the apple there.
+Sandra went back to the office.
+Mary got the football there.
+Mary journeyed to the bathroom.
+Daniel journeyed to the garden.
+Where is the apple?
+garden
+
+Daniel went to the office.
+Mary dropped the football.
+Where is the football?
+bathroom
+
+John travelled to the kitchen.
+Mary grabbed the football there.
+John went back to the garden.
+John took the milk there.
+John journeyed to the hallway.
+John dropped the milk there.
+Where is the milk?
+
+ANSWER: hallway
+IS FIRST!!
+PROMPT:  Mary put down the football there.
+Sandra moved to the hallway.
+Where is the milk?
+hallway
+
+Mary journeyed to the office.
+Daniel got the milk there.
+Sandra moved to the bedroom.
+John went back to the garden.
+Daniel travelled to the bathroom.
+John took the football there.
+Where is the milk?
+
+ANSWER: room
+PROMPT:  Mary put down the football there.
+Sandra moved to the hallway.
+Where is the milk?
+hallway
+
+Mary journeyed to the office.
+Daniel got the milk there.
+Sandra moved to the bedroom.
+John went back to the garden.
+Daniel travelled to the bathroom.
+John took the football there.
+Where is the milk?
+bathroom
+
+Daniel moved to the hallway.
+Daniel discarded the milk there.
+Where is the milk?
+
+ANSWER: palate
+PROMPT:  Mary put down the football there.
+Sandra moved to the hallway.
+Where is the milk?
+hallway
+
+Mary journeyed to the office.
+Daniel got the milk there.
+Sandra moved to the bedroom.
+John went back to the garden.
+Daniel travelled to the bathroom.
+John took the football there.
+Where is the milk?
+bathroom
+
+Daniel moved to the hallway.
+Daniel discarded the milk there.
+Where is the milk?
+hallway
+
+John went to the kitchen.
+Sandra journeyed to the hallway.
+Where is the football?
+
+ANSWER: game
+PROMPT:  Mary put down the football there.
+Sandra moved to the hallway.
+Where is the milk?
+hallway
+
+Mary journeyed to the office.
+Daniel got the milk there.
+Sandra moved to the bedroom.
+John went back to the garden.
+Daniel travelled to the bathroom.
+John took the football there.
+Where is the milk?
+bathroom
+
+Daniel moved to the hallway.
+Daniel discarded the milk there.
+Where is the milk?
+hallway
+
+John went to the kitchen.
+Sandra journeyed to the hallway.
+Where is the football?
+kitchen
+
+Mary went back to the bathroom.
+Daniel moved to the kitchen.
+Where is the milk?
+
+ANSWER: kitchen
+IS FIRST!!
+PROMPT:  John went back to the bedroom.
+John dropped the football.
+Where is the football?
+bedroom
+
+John got the milk there.
+Daniel travelled to the kitchen.
+Mary took the football there.
+Daniel went back to the bathroom.
+John went back to the garden.
+John left the milk.
+Where is the milk?
+
+ANSWER: 
+PROMPT:  John went back to the bedroom.
+John dropped the football.
+Where is the football?
+bedroom
+
+John got the milk there.
+Daniel travelled to the kitchen.
+Mary took the football there.
+Daniel went back to the bathroom.
+John went back to the garden.
+John left the milk.
+Where is the milk?
+garden
+
+Sandra went back to the office.
+Sandra journeyed to the hallway.
+Where is the milk?
+
+ANSWER: garden
+PROMPT:  John went back to the bedroom.
+John dropped the football.
+Where is the football?
+bedroom
+
+John got the milk there.
+Daniel travelled to the kitchen.
+Mary took the football there.
+Daniel went back to the bathroom.
+John went back to the garden.
+John left the milk.
+Where is the milk?
+garden
+
+Sandra went back to the office.
+Sandra journeyed to the hallway.
+Where is the milk?
+garden
+
+Daniel went back to the hallway.
+Daniel travelled to the kitchen.
+Where is the milk?
+
+ANSWER: kitchen
+PROMPT:  John went back to the bedroom.
+John dropped the football.
+Where is the football?
+bedroom
+
+John got the milk there.
+Daniel travelled to the kitchen.
+Mary took the football there.
+Daniel went back to the bathroom.
+John went back to the garden.
+John left the milk.
+Where is the milk?
+garden
+
+Sandra went back to the office.
+Sandra journeyed to the hallway.
+Where is the milk?
+garden
+
+Daniel went back to the hallway.
+Daniel travelled to the kitchen.
+Where is the milk?
+garden
+
+Mary went back to the kitchen.
+John grabbed the milk there.
+John discarded the milk there.
+Mary discarded the football.
+Where is the milk?
+
+ANSWER: office
+IS FIRST!!
+PROMPT:  Sandra picked up the apple there.
+John grabbed the milk there.
+Where is the football?
+kitchen
+
+John travelled to the hallway.
+Sandra took the football there.
+John went to the bathroom.
+Sandra dropped the football.
+Mary journeyed to the bedroom.
+Mary grabbed the football there.
+Daniel journeyed to the hallway.
+John grabbed the apple there.
+Daniel went back to the garden.
+Daniel went back to the office.
+Daniel took the milk there.
+Sandra went to the hallway.
+John travelled to the bedroom.
+Mary dropped the football.
+Where is the football?
+
+ANSWER: cda "
+PROMPT:  Sandra picked up the apple there.
+John grabbed the milk there.
+Where is the football?
+kitchen
+
+John travelled to the hallway.
+Sandra took the football there.
+John went to the bathroom.
+Sandra dropped the football.
+Mary journeyed to the bedroom.
+Mary grabbed the football there.
+Daniel journeyed to the hallway.
+John grabbed the apple there.
+Daniel went back to the garden.
+Daniel went back to the office.
+Daniel took the milk there.
+Sandra went to the hallway.
+John travelled to the bedroom.
+Mary dropped the football.
+Where is the football?
+bedroom
+
+Mary travelled to the bathroom.
+Mary journeyed to the office.
+Where is the football?
+
+ANSWER: office
+PROMPT:  Sandra picked up the apple there.
+John grabbed the milk there.
+Where is the football?
+kitchen
+
+John travelled to the hallway.
+Sandra took the football there.
+John went to the bathroom.
+Sandra dropped the football.
+Mary journeyed to the bedroom.
+Mary grabbed the football there.
+Daniel journeyed to the hallway.
+John grabbed the apple there.
+Daniel went back to the garden.
+Daniel went back to the office.
+Daniel took the milk there.
+Sandra went to the hallway.
+John travelled to the bedroom.
+Mary dropped the football.
+Where is the football?
+bedroom
+
+Mary travelled to the bathroom.
+Mary journeyed to the office.
+Where is the football?
+bedroom
+
+Mary went to the garden.
+Mary went to the office.
+Where is the football?
+
+ANSWER: garden
+PROMPT:  Sandra picked up the apple there.
+John grabbed the milk there.
+Where is the football?
+kitchen
+
+John travelled to the hallway.
+Sandra took the football there.
+John went to the bathroom.
+Sandra dropped the football.
+Mary journeyed to the bedroom.
+Mary grabbed the football there.
+Daniel journeyed to the hallway.
+John grabbed the apple there.
+Daniel went back to the garden.
+Daniel went back to the office.
+Daniel took the milk there.
+Sandra went to the hallway.
+John travelled to the bedroom.
+Mary dropped the football.
+Where is the football?
+bedroom
+
+Mary travelled to the bathroom.
+Mary journeyed to the office.
+Where is the football?
+bedroom
+
+Mary went to the garden.
+Mary went to the office.
+Where is the football?
+bedroom
+
+Mary moved to the bedroom.
+Daniel dropped the milk.
+Where is the milk?
+
+ANSWER: bedroom
+IS FIRST!!
+PROMPT:  John went back to the office.
+Mary got the football there.
+Where is the milk?
+office
+
+Daniel travelled to the hallway.
+Daniel journeyed to the kitchen.
+Mary moved to the hallway.
+Mary got the football there.
+Daniel travelled to the garden.
+Sandra went to the office.
+Sandra went to the kitchen.
+Sandra moved to the office.
+Mary moved to the bedroom.
+Daniel went to the kitchen.
+Mary discarded the football there.
+Mary went back to the bathroom.
+Where is the football?
+
+ANSWER: office
+PROMPT:  John went back to the office.
+Mary got the football there.
+Where is the milk?
+office
+
+Daniel travelled to the hallway.
+Daniel journeyed to the kitchen.
+Mary moved to the hallway.
+Mary got the football there.
+Daniel travelled to the garden.
+Sandra went to the office.
+Sandra went to the kitchen.
+Sandra moved to the office.
+Mary moved to the bedroom.
+Daniel went to the kitchen.
+Mary discarded the football there.
+Mary went back to the bathroom.
+Where is the football?
+bedroom
+
+Mary travelled to the office.
+John went to the bathroom.
+Where is the football?
+
+ANSWER: house
+PROMPT:  John went back to the office.
+Mary got the football there.
+Where is the milk?
+office
+
+Daniel travelled to the hallway.
+Daniel journeyed to the kitchen.
+Mary moved to the hallway.
+Mary got the football there.
+Daniel travelled to the garden.
+Sandra went to the office.
+Sandra went to the kitchen.
+Sandra moved to the office.
+Mary moved to the bedroom.
+Daniel went to the kitchen.
+Mary discarded the football there.
+Mary went back to the bathroom.
+Where is the football?
+bedroom
+
+Mary travelled to the office.
+John went to the bathroom.
+Where is the football?
+bedroom
+
+John journeyed to the garden.
+Daniel went to the garden.
+Sandra went back to the bathroom.
+Daniel journeyed to the kitchen.
+Sandra went back to the hallway.
+John journeyed to the kitchen.
+Sandra picked up the apple there.
+John journeyed to the bedroom.
+John grabbed the football there.
+John dropped the football.
+Where is the football?
+
+ANSWER: house
+PROMPT:  John went back to the office.
+Mary got the football there.
+Where is the milk?
+office
+
+Daniel travelled to the hallway.
+Daniel journeyed to the kitchen.
+Mary moved to the hallway.
+Mary got the football there.
+Daniel travelled to the garden.
+Sandra went to the office.
+Sandra went to the kitchen.
+Sandra moved to the office.
+Mary moved to the bedroom.
+Daniel went to the kitchen.
+Mary discarded the football there.
+Mary went back to the bathroom.
+Where is the football?
+bedroom
+
+Mary travelled to the office.
+John went to the bathroom.
+Where is the football?
+bedroom
+
+John journeyed to the garden.
+Daniel went to the garden.
+Sandra went back to the bathroom.
+Daniel journeyed to the kitchen.
+Sandra went back to the hallway.
+John journeyed to the kitchen.
+Sandra picked up the apple there.
+John journeyed to the bedroom.
+John grabbed the football there.
+John dropped the football.
+Where is the football?
+bedroom
+
+Daniel moved to the hallway.
+John travelled to the kitchen.
+Where is the football?
+
+ANSWER: bedroom
+IS FIRST!!
+PROMPT:  John went to the bedroom.
+John moved to the kitchen.
+Where is the football?
+bedroom
+
+John picked up the milk there.
+Daniel travelled to the hallway.
+Sandra moved to the bathroom.
+Daniel went back to the bathroom.
+John moved to the kitchen.
+Sandra moved to the hallway.
+Mary travelled to the bedroom.
+Daniel moved to the office.
+John dropped the milk.
+Mary went to the bathroom.
+Where is the milk?
+
+ANSWER: john went to the kitchen
+PROMPT:  John went to the bedroom.
+John moved to the kitchen.
+Where is the football?
+bedroom
+
+John picked up the milk there.
+Daniel travelled to the hallway.
+Sandra moved to the bathroom.
+Daniel went back to the bathroom.
+John moved to the kitchen.
+Sandra moved to the hallway.
+Mary travelled to the bedroom.
+Daniel moved to the office.
+John dropped the milk.
+Mary went to the bathroom.
+Where is the milk?
+kitchen
+
+Daniel moved to the bathroom.
+John moved to the garden.
+Where is the milk?
+
+ANSWER: kitchen
+PROMPT:  John went to the bedroom.
+John moved to the kitchen.
+Where is the football?
+bedroom
+
+John picked up the milk there.
+Daniel travelled to the hallway.
+Sandra moved to the bathroom.
+Daniel went back to the bathroom.
+John moved to the kitchen.
+Sandra moved to the hallway.
+Mary travelled to the bedroom.
+Daniel moved to the office.
+John dropped the milk.
+Mary went to the bathroom.
+Where is the milk?
+kitchen
+
+Daniel moved to the bathroom.
+John moved to the garden.
+Where is the milk?
+kitchen
+
+Sandra moved to the bedroom.
+Sandra took the apple there.
+Sandra dropped the apple.
+John went to the office.
+Where is the apple?
+
+ANSWER: office
+PROMPT:  John went to the bedroom.
+John moved to the kitchen.
+Where is the football?
+bedroom
+
+John picked up the milk there.
+Daniel travelled to the hallway.
+Sandra moved to the bathroom.
+Daniel went back to the bathroom.
+John moved to the kitchen.
+Sandra moved to the hallway.
+Mary travelled to the bedroom.
+Daniel moved to the office.
+John dropped the milk.
+Mary went to the bathroom.
+Where is the milk?
+kitchen
+
+Daniel moved to the bathroom.
+John moved to the garden.
+Where is the milk?
+kitchen
+
+Sandra moved to the bedroom.
+Sandra took the apple there.
+Sandra dropped the apple.
+John went to the office.
+Where is the apple?
+bedroom
+
+Sandra picked up the apple there.
+Sandra went back to the kitchen.
+Where is the apple?
+
+ANSWER: office
+IS FIRST!!
+PROMPT:  Daniel went to the kitchen.
+Sandra journeyed to the bathroom.
+Where is the apple?
+bathroom
+
+John went to the bathroom.
+Sandra journeyed to the bedroom.
+Mary went to the bedroom.
+Daniel travelled to the bedroom.
+Daniel took the milk there.
+Sandra went to the garden.
+John journeyed to the kitchen.
+Daniel left the milk.
+Where is the milk?
+
+ANSWER: downtown
+PROMPT:  Daniel went to the kitchen.
+Sandra journeyed to the bathroom.
+Where is the apple?
+bathroom
+
+John went to the bathroom.
+Sandra journeyed to the bedroom.
+Mary went to the bedroom.
+Daniel travelled to the bedroom.
+Daniel took the milk there.
+Sandra went to the garden.
+John journeyed to the kitchen.
+Daniel left the milk.
+Where is the milk?
+bedroom
+
+Mary moved to the office.
+John went back to the hallway.
+Where is the milk?
+
+ANSWER: bedroom
+PROMPT:  Daniel went to the kitchen.
+Sandra journeyed to the bathroom.
+Where is the apple?
+bathroom
+
+John went to the bathroom.
+Sandra journeyed to the bedroom.
+Mary went to the bedroom.
+Daniel travelled to the bedroom.
+Daniel took the milk there.
+Sandra went to the garden.
+John journeyed to the kitchen.
+Daniel left the milk.
+Where is the milk?
+bedroom
+
+Mary moved to the office.
+John went back to the hallway.
+Where is the milk?
+bedroom
+
+Sandra went back to the office.
+Sandra took the apple there.
+Where is the milk?
+
+ANSWER: bedroom
+PROMPT:  Daniel went to the kitchen.
+Sandra journeyed to the bathroom.
+Where is the apple?
+bathroom
+
+John went to the bathroom.
+Sandra journeyed to the bedroom.
+Mary went to the bedroom.
+Daniel travelled to the bedroom.
+Daniel took the milk there.
+Sandra went to the garden.
+John journeyed to the kitchen.
+Daniel left the milk.
+Where is the milk?
+bedroom
+
+Mary moved to the office.
+John went back to the hallway.
+Where is the milk?
+bedroom
+
+Sandra went back to the office.
+Sandra took the apple there.
+Where is the milk?
+bedroom
+
+John went back to the office.
+Daniel picked up the milk there.
+Daniel left the milk.
+Sandra went back to the bathroom.
+Where is the apple?
+
+ANSWER: sitting with lincoln
+IS FIRST!!
+PROMPT:  John journeyed to the kitchen.
+John moved to the office.
+Where is the milk?
+bedroom
+
+Mary grabbed the milk there.
+Daniel went back to the office.
+Mary dropped the milk.
+Sandra moved to the office.
+Mary picked up the milk there.
+John went to the garden.
+Mary took the apple there.
+Daniel travelled to the bathroom.
+Sandra went back to the bathroom.
+John moved to the bathroom.
+Mary put down the apple.
+Mary left the milk.
+John went back to the hallway.
+Mary took the apple there.
+Mary grabbed the milk there.
+Mary left the apple.
+Daniel went to the bedroom.
+Mary went to the hallway.
+Where is the milk?
+
+ANSWER: daniel went to the bathroom
+PROMPT:  John journeyed to the kitchen.
+John moved to the office.
+Where is the milk?
+bedroom
+
+Mary grabbed the milk there.
+Daniel went back to the office.
+Mary dropped the milk.
+Sandra moved to the office.
+Mary picked up the milk there.
+John went to the garden.
+Mary took the apple there.
+Daniel travelled to the bathroom.
+Sandra went back to the bathroom.
+John moved to the bathroom.
+Mary put down the apple.
+Mary left the milk.
+John went back to the hallway.
+Mary took the apple there.
+Mary grabbed the milk there.
+Mary left the apple.
+Daniel went to the bedroom.
+Mary went to the hallway.
+Where is the milk?
+hallway
+
+John went back to the bedroom.
+Mary journeyed to the office.
+Mary went back to the garden.
+Mary got the apple there.
+John travelled to the garden.
+Mary moved to the bathroom.
+Where is the apple?
+
+ANSWER: shower
+PROMPT:  John journeyed to the kitchen.
+John moved to the office.
+Where is the milk?
+bedroom
+
+Mary grabbed the milk there.
+Daniel went back to the office.
+Mary dropped the milk.
+Sandra moved to the office.
+Mary picked up the milk there.
+John went to the garden.
+Mary took the apple there.
+Daniel travelled to the bathroom.
+Sandra went back to the bathroom.
+John moved to the bathroom.
+Mary put down the apple.
+Mary left the milk.
+John went back to the hallway.
+Mary took the apple there.
+Mary grabbed the milk there.
+Mary left the apple.
+Daniel went to the bedroom.
+Mary went to the hallway.
+Where is the milk?
+hallway
+
+John went back to the bedroom.
+Mary journeyed to the office.
+Mary went back to the garden.
+Mary got the apple there.
+John travelled to the garden.
+Mary moved to the bathroom.
+Where is the apple?
+bathroom
+
+Mary dropped the milk.
+Sandra grabbed the milk there.
+Where is the apple?
+
+ANSWER: dining room _____
+PROMPT:  John journeyed to the kitchen.
+John moved to the office.
+Where is the milk?
+bedroom
+
+Mary grabbed the milk there.
+Daniel went back to the office.
+Mary dropped the milk.
+Sandra moved to the office.
+Mary picked up the milk there.
+John went to the garden.
+Mary took the apple there.
+Daniel travelled to the bathroom.
+Sandra went back to the bathroom.
+John moved to the bathroom.
+Mary put down the apple.
+Mary left the milk.
+John went back to the hallway.
+Mary took the apple there.
+Mary grabbed the milk there.
+Mary left the apple.
+Daniel went to the bedroom.
+Mary went to the hallway.
+Where is the milk?
+hallway
+
+John went back to the bedroom.
+Mary journeyed to the office.
+Mary went back to the garden.
+Mary got the apple there.
+John travelled to the garden.
+Mary moved to the bathroom.
+Where is the apple?
+bathroom
+
+Mary dropped the milk.
+Sandra grabbed the milk there.
+Where is the apple?
+bathroom
+
+Mary went to the bedroom.
+Mary put down the apple.
+Where is the apple?
+
+ANSWER: bedroom
+IS FIRST!!
+PROMPT:  Daniel went back to the bathroom.
+Mary went back to the garden.
+Where is the apple?
+bedroom
+
+John went back to the bathroom.
+John went back to the kitchen.
+John went back to the bedroom.
+John picked up the apple there.
+John discarded the apple.
+John got the apple there.
+John left the apple there.
+Mary went back to the kitchen.
+Where is the apple?
+
+ANSWER: now, the children go
+PROMPT:  Daniel went back to the bathroom.
+Mary went back to the garden.
+Where is the apple?
+bedroom
+
+John went back to the bathroom.
+John went back to the kitchen.
+John went back to the bedroom.
+John picked up the apple there.
+John discarded the apple.
+John got the apple there.
+John left the apple there.
+Mary went back to the kitchen.
+Where is the apple?
+bedroom
+
+John got the apple there.
+Sandra journeyed to the bathroom.
+John left the apple.
+Daniel went back to the kitchen.
+Where is the apple?
+
+ANSWER: bedroom
+PROMPT:  Daniel went back to the bathroom.
+Mary went back to the garden.
+Where is the apple?
+bedroom
+
+John went back to the bathroom.
+John went back to the kitchen.
+John went back to the bedroom.
+John picked up the apple there.
+John discarded the apple.
+John got the apple there.
+John left the apple there.
+Mary went back to the kitchen.
+Where is the apple?
+bedroom
+
+John got the apple there.
+Sandra journeyed to the bathroom.
+John left the apple.
+Daniel went back to the kitchen.
+Where is the apple?
+bedroom
+
+Sandra travelled to the kitchen.
+John picked up the apple there.
+Mary got the football there.
+John dropped the apple.
+Where is the apple?
+
+ANSWER: bedroom
+PROMPT:  Daniel went back to the bathroom.
+Mary went back to the garden.
+Where is the apple?
+bedroom
+
+John went back to the bathroom.
+John went back to the kitchen.
+John went back to the bedroom.
+John picked up the apple there.
+John discarded the apple.
+John got the apple there.
+John left the apple there.
+Mary went back to the kitchen.
+Where is the apple?
+bedroom
+
+John got the apple there.
+Sandra journeyed to the bathroom.
+John left the apple.
+Daniel went back to the kitchen.
+Where is the apple?
+bedroom
+
+Sandra travelled to the kitchen.
+John picked up the apple there.
+Mary got the football there.
+John dropped the apple.
+Where is the apple?
+bedroom
+
+Sandra went back to the garden.
+John took the apple there.
+Mary dropped the football there.
+John went to the office.
+Where is the apple?
+
+ANSWER: bedroom
+IS FIRST!!
+PROMPT:  John discarded the apple.
+John got the milk there.
+Where is the apple?
+office
+
+Mary went back to the office.
+John travelled to the garden.
+John took the milk there.
+John went to the kitchen.
+Where is the milk?
+
+ANSWER: office
+PROMPT:  John discarded the apple.
+John got the milk there.
+Where is the apple?
+office
+
+Mary went back to the office.
+John travelled to the garden.
+John took the milk there.
+John went to the kitchen.
+Where is the milk?
+kitchen
+
+John put down the milk.
+Daniel moved to the office.
+Where is the milk?
+
+ANSWER: office
+PROMPT:  John discarded the apple.
+John got the milk there.
+Where is the apple?
+office
+
+Mary went back to the office.
+John travelled to the garden.
+John took the milk there.
+John went to the kitchen.
+Where is the milk?
+kitchen
+
+John put down the milk.
+Daniel moved to the office.
+Where is the milk?
+kitchen
+
+John picked up the milk there.
+Mary moved to the hallway.
+Mary took the football there.
+John travelled to the bathroom.
+Where is the milk?
+
+ANSWER: bathroom
+PROMPT:  John discarded the apple.
+John got the milk there.
+Where is the apple?
+office
+
+Mary went back to the office.
+John travelled to the garden.
+John took the milk there.
+John went to the kitchen.
+Where is the milk?
+kitchen
+
+John put down the milk.
+Daniel moved to the office.
+Where is the milk?
+kitchen
+
+John picked up the milk there.
+Mary moved to the hallway.
+Mary took the football there.
+John travelled to the bathroom.
+Where is the milk?
+bathroom
+
+Sandra moved to the bathroom.
+John went back to the kitchen.
+John journeyed to the office.
+Mary dropped the football there.
+Where is the football?
+
+ANSWER: office
+IS FIRST!!
+PROMPT:  Sandra journeyed to the garden.
+Mary grabbed the football there.
+John put down the milk.
+John grabbed the milk there.
+Daniel travelled to the hallway.
+Daniel went back to the office.
+Sandra moved to the bedroom.
+Mary dropped the football.
+Where is the football?
+hallway
+
+Daniel got the apple there.
+Sandra journeyed to the office.
+Sandra journeyed to the bathroom.
+Daniel went to the bathroom.
+Where is the apple?
+
+ANSWER: to the foyer
+PROMPT:  Sandra journeyed to the garden.
+Mary grabbed the football there.
+John put down the milk.
+John grabbed the milk there.
+Daniel travelled to the hallway.
+Daniel went back to the office.
+Sandra moved to the bedroom.
+Mary dropped the football.
+Where is the football?
+hallway
+
+Daniel got the apple there.
+Sandra journeyed to the office.
+Sandra journeyed to the bathroom.
+Daniel went to the bathroom.
+Where is the apple?
+bathroom
+
+Mary went to the hallway.
+Daniel grabbed the football there.
+Daniel grabbed the milk there.
+Sandra journeyed to the bedroom.
+John went to the hallway.
+Daniel moved to the office.
+Where is the milk?
+
+ANSWER: office
+PROMPT:  Sandra journeyed to the garden.
+Mary grabbed the football there.
+John put down the milk.
+John grabbed the milk there.
+Daniel travelled to the hallway.
+Daniel went back to the office.
+Sandra moved to the bedroom.
+Mary dropped the football.
+Where is the football?
+hallway
+
+Daniel got the apple there.
+Sandra journeyed to the office.
+Sandra journeyed to the bathroom.
+Daniel went to the bathroom.
+Where is the apple?
+bathroom
+
+Mary went to the hallway.
+Daniel grabbed the football there.
+Daniel grabbed the milk there.
+Sandra journeyed to the bedroom.
+John went to the hallway.
+Daniel moved to the office.
+Where is the milk?
+office
+
+Mary went back to the kitchen.
+John journeyed to the garden.
+Daniel went back to the hallway.
+Mary journeyed to the hallway.
+Daniel discarded the football.
+John went to the bathroom.
+Where is the football?
+
+ANSWER: bathroom
+PROMPT:  Sandra journeyed to the garden.
+Mary grabbed the football there.
+John put down the milk.
+John grabbed the milk there.
+Daniel travelled to the hallway.
+Daniel went back to the office.
+Sandra moved to the bedroom.
+Mary dropped the football.
+Where is the football?
+hallway
+
+Daniel got the apple there.
+Sandra journeyed to the office.
+Sandra journeyed to the bathroom.
+Daniel went to the bathroom.
+Where is the apple?
+bathroom
+
+Mary went to the hallway.
+Daniel grabbed the football there.
+Daniel grabbed the milk there.
+Sandra journeyed to the bedroom.
+John went to the hallway.
+Daniel moved to the office.
+Where is the milk?
+office
+
+Mary went back to the kitchen.
+John journeyed to the garden.
+Daniel went back to the hallway.
+Mary journeyed to the hallway.
+Daniel discarded the football.
+John went to the bathroom.
+Where is the football?
+hallway
+
+Sandra went to the kitchen.
+Mary picked up the football there.
+Mary discarded the football.
+John went back to the hallway.
+Where is the football?
+
+ANSWER: hallway
+IS FIRST!!
+PROMPT:  Sandra went back to the hallway.
+Mary grabbed the football there.
+Daniel moved to the bedroom.
+Mary travelled to the bathroom.
+Where is the football?
+bathroom
+
+Mary travelled to the office.
+Mary picked up the milk there.
+Mary went to the bedroom.
+John went back to the garden.
+Where is the milk?
+
+ANSWER: crossing
+PROMPT:  Sandra went back to the hallway.
+Mary grabbed the football there.
+Daniel moved to the bedroom.
+Mary travelled to the bathroom.
+Where is the football?
+bathroom
+
+Mary travelled to the office.
+Mary picked up the milk there.
+Mary went to the bedroom.
+John went back to the garden.
+Where is the milk?
+bedroom
+
+Mary picked up the apple there.
+John journeyed to the bathroom.
+Where is the milk?
+
+ANSWER: bathroom
+PROMPT:  Sandra went back to the hallway.
+Mary grabbed the football there.
+Daniel moved to the bedroom.
+Mary travelled to the bathroom.
+Where is the football?
+bathroom
+
+Mary travelled to the office.
+Mary picked up the milk there.
+Mary went to the bedroom.
+John went back to the garden.
+Where is the milk?
+bedroom
+
+Mary picked up the apple there.
+John journeyed to the bathroom.
+Where is the milk?
+bedroom
+
+Mary left the milk.
+John went to the bedroom.
+Where is the milk?
+
+ANSWER: bedroom
+PROMPT:  Sandra went back to the hallway.
+Mary grabbed the football there.
+Daniel moved to the bedroom.
+Mary travelled to the bathroom.
+Where is the football?
+bathroom
+
+Mary travelled to the office.
+Mary picked up the milk there.
+Mary went to the bedroom.
+John went back to the garden.
+Where is the milk?
+bedroom
+
+Mary picked up the apple there.
+John journeyed to the bathroom.
+Where is the milk?
+bedroom
+
+Mary left the milk.
+John went to the bedroom.
+Where is the milk?
+bedroom
+
+Mary travelled to the hallway.
+John grabbed the milk there.
+John travelled to the bathroom.
+Mary left the apple.
+Where is the apple?
+
+ANSWER: bomb shelter
+IS FIRST!!
+PROMPT:  Mary took the apple there.
+John left the milk.
+Where is the milk?
+bathroom
+
+Daniel went to the kitchen.
+Daniel grabbed the football there.
+Mary took the milk there.
+Mary journeyed to the office.
+Where is the milk?
+
+ANSWER: mikey left the restaurant
+PROMPT:  Mary took the apple there.
+John left the milk.
+Where is the milk?
+bathroom
+
+Daniel went to the kitchen.
+Daniel grabbed the football there.
+Mary took the milk there.
+Mary journeyed to the office.
+Where is the milk?
+office
+
+Daniel journeyed to the office.
+Daniel travelled to the kitchen.
+Where is the football?
+
+ANSWER: kitchen
+PROMPT:  Mary took the apple there.
+John left the milk.
+Where is the milk?
+bathroom
+
+Daniel went to the kitchen.
+Daniel grabbed the football there.
+Mary took the milk there.
+Mary journeyed to the office.
+Where is the milk?
+office
+
+Daniel journeyed to the office.
+Daniel travelled to the kitchen.
+Where is the football?
+kitchen
+
+John went to the bathroom.
+John journeyed to the hallway.
+Daniel went back to the garden.
+Daniel dropped the football.
+Where is the football?
+
+ANSWER: frontyard
+PROMPT:  Mary took the apple there.
+John left the milk.
+Where is the milk?
+bathroom
+
+Daniel went to the kitchen.
+Daniel grabbed the football there.
+Mary took the milk there.
+Mary journeyed to the office.
+Where is the milk?
+office
+
+Daniel journeyed to the office.
+Daniel travelled to the kitchen.
+Where is the football?
+kitchen
+
+John went to the bathroom.
+John journeyed to the hallway.
+Daniel went back to the garden.
+Daniel dropped the football.
+Where is the football?
+garden
+
+Daniel went to the bathroom.
+Mary discarded the milk.
+Where is the football?
+
+ANSWER: door
+IS FIRST!!
+PROMPT:  John journeyed to the kitchen.
+Sandra took the milk there.
+Where is the football?
+garden
+
+John took the apple there.
+Mary travelled to the bedroom.
+John went to the bathroom.
+John travelled to the bedroom.
+Where is the apple?
+
+ANSWER: bathroom
+PROMPT:  John journeyed to the kitchen.
+Sandra took the milk there.
+Where is the football?
+garden
+
+John took the apple there.
+Mary travelled to the bedroom.
+John went to the bathroom.
+John travelled to the bedroom.
+Where is the apple?
+bedroom
+
+John moved to the bathroom.
+John left the apple.
+Where is the apple?
+
+ANSWER: bedroom
+PROMPT:  John journeyed to the kitchen.
+Sandra took the milk there.
+Where is the football?
+garden
+
+John took the apple there.
+Mary travelled to the bedroom.
+John went to the bathroom.
+John travelled to the bedroom.
+Where is the apple?
+bedroom
+
+John moved to the bathroom.
+John left the apple.
+Where is the apple?
+bathroom
+
+Sandra took the milk there.
+Daniel took the apple there.
+Sandra left the milk.
+Mary went back to the garden.
+Daniel discarded the apple.
+Mary grabbed the football there.
+Daniel went to the garden.
+Sandra grabbed the milk there.
+Daniel moved to the hallway.
+John grabbed the apple there.
+Daniel went back to the bathroom.
+John discarded the apple.
+Where is the apple?
+
+ANSWER: bathroom
+PROMPT:  John journeyed to the kitchen.
+Sandra took the milk there.
+Where is the football?
+garden
+
+John took the apple there.
+Mary travelled to the bedroom.
+John went to the bathroom.
+John travelled to the bedroom.
+Where is the apple?
+bedroom
+
+John moved to the bathroom.
+John left the apple.
+Where is the apple?
+bathroom
+
+Sandra took the milk there.
+Daniel took the apple there.
+Sandra left the milk.
+Mary went back to the garden.
+Daniel discarded the apple.
+Mary grabbed the football there.
+Daniel went to the garden.
+Sandra grabbed the milk there.
+Daniel moved to the hallway.
+John grabbed the apple there.
+Daniel went back to the bathroom.
+John discarded the apple.
+Where is the apple?
+bathroom
+
+Mary moved to the hallway.
+John picked up the apple there.
+John left the apple.
+Daniel got the apple there.
+Sandra discarded the milk.
+Sandra took the milk there.
+Sandra journeyed to the kitchen.
+John travelled to the garden.
+Where is the milk?
+
+ANSWER: garaging area
+IS FIRST!!
+PROMPT:  Mary dropped the football there.
+Daniel discarded the apple.
+Where is the milk?
+kitchen
+
+Sandra went back to the office.
+Sandra went to the bathroom.
+John travelled to the hallway.
+John moved to the bathroom.
+John travelled to the bedroom.
+Mary went to the garden.
+Daniel went back to the hallway.
+John went back to the bathroom.
+John went to the office.
+Mary journeyed to the bathroom.
+John moved to the kitchen.
+Daniel journeyed to the bedroom.
+Daniel took the apple there.
+Sandra moved to the kitchen.
+John picked up the football there.
+John went to the office.
+Where is the football?
+
+ANSWER: daniel got the football there
+PROMPT:  Mary dropped the football there.
+Daniel discarded the apple.
+Where is the milk?
+kitchen
+
+Sandra went back to the office.
+Sandra went to the bathroom.
+John travelled to the hallway.
+John moved to the bathroom.
+John travelled to the bedroom.
+Mary went to the garden.
+Daniel went back to the hallway.
+John went back to the bathroom.
+John went to the office.
+Mary journeyed to the bathroom.
+John moved to the kitchen.
+Daniel journeyed to the bedroom.
+Daniel took the apple there.
+Sandra moved to the kitchen.
+John picked up the football there.
+John went to the office.
+Where is the football?
+office
+
+Daniel travelled to the hallway.
+Daniel went back to the kitchen.
+Where is the football?
+
+ANSWER: office
+PROMPT:  Mary dropped the football there.
+Daniel discarded the apple.
+Where is the milk?
+kitchen
+
+Sandra went back to the office.
+Sandra went to the bathroom.
+John travelled to the hallway.
+John moved to the bathroom.
+John travelled to the bedroom.
+Mary went to the garden.
+Daniel went back to the hallway.
+John went back to the bathroom.
+John went to the office.
+Mary journeyed to the bathroom.
+John moved to the kitchen.
+Daniel journeyed to the bedroom.
+Daniel took the apple there.
+Sandra moved to the kitchen.
+John picked up the football there.
+John went to the office.
+Where is the football?
+office
+
+Daniel travelled to the hallway.
+Daniel went back to the kitchen.
+Where is the football?
+office
+
+Daniel dropped the apple.
+Daniel moved to the hallway.
+Where is the apple?
+
+ANSWER: office
+PROMPT:  Mary dropped the football there.
+Daniel discarded the apple.
+Where is the milk?
+kitchen
+
+Sandra went back to the office.
+Sandra went to the bathroom.
+John travelled to the hallway.
+John moved to the bathroom.
+John travelled to the bedroom.
+Mary went to the garden.
+Daniel went back to the hallway.
+John went back to the bathroom.
+John went to the office.
+Mary journeyed to the bathroom.
+John moved to the kitchen.
+Daniel journeyed to the bedroom.
+Daniel took the apple there.
+Sandra moved to the kitchen.
+John picked up the football there.
+John went to the office.
+Where is the football?
+office
+
+Daniel travelled to the hallway.
+Daniel went back to the kitchen.
+Where is the football?
+office
+
+Daniel dropped the apple.
+Daniel moved to the hallway.
+Where is the apple?
+kitchen
+
+Sandra picked up the apple there.
+John went back to the garden.
+John discarded the football.
+Sandra picked up the milk there.
+Where is the football?
+
+ANSWER: office
+IS FIRST!!
+NUM QUESTIONS: 79 NUM CORRECT: 21 PERCENT ACCURACY: 0.26582278481012656

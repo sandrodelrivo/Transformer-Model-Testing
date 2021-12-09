@@ -1,0 +1,1651 @@
+2021-12-07 22:17:22,701 INFO     | creating task(s): babi:task10k:8
+2021-12-07 22:17:22,745 INFO     | loading fbdialog data: C:\Users\sandr\ParlAI\data\bAbI\tasks_1-20_v1-2\en-valid-10k-nosf\qa8_train.txt
+IS FIRST!!
+PROMPT:  Sandra journeyed to the garden.
+Daniel moved to the kitchen.
+Mary went to the kitchen.
+Sandra journeyed to the office.
+John moved to the office.
+Daniel took the milk there.
+What is Daniel carrying?
+milk
+
+John moved to the kitchen.
+Mary journeyed to the office.
+What is Daniel carrying?
+
+ANSWER: a letter from the "
+PROMPT:  Sandra journeyed to the garden.
+Daniel moved to the kitchen.
+Mary went to the kitchen.
+Sandra journeyed to the office.
+John moved to the office.
+Daniel took the milk there.
+What is Daniel carrying?
+milk
+
+John moved to the kitchen.
+Mary journeyed to the office.
+What is Daniel carrying?
+milk
+
+John went back to the office.
+Sandra travelled to the bathroom.
+What is Daniel carrying?
+
+ANSWER: milk
+PROMPT:  Sandra journeyed to the garden.
+Daniel moved to the kitchen.
+Mary went to the kitchen.
+Sandra journeyed to the office.
+John moved to the office.
+Daniel took the milk there.
+What is Daniel carrying?
+milk
+
+John moved to the kitchen.
+Mary journeyed to the office.
+What is Daniel carrying?
+milk
+
+John went back to the office.
+Sandra travelled to the bathroom.
+What is Daniel carrying?
+milk
+
+Mary went back to the bathroom.
+John went to the garden.
+Mary went to the garden.
+Mary moved to the kitchen.
+Sandra travelled to the bedroom.
+Sandra travelled to the garden.
+Mary moved to the office.
+Daniel moved to the hallway.
+Daniel travelled to the kitchen.
+Sandra travelled to the kitchen.
+Sandra went to the garden.
+Sandra journeyed to the bedroom.
+Daniel moved to the bathroom.
+Daniel moved to the garden.
+Daniel journeyed to the hallway.
+Mary travelled to the bedroom.
+Daniel put down the milk.
+Sandra went back to the hallway.
+What is Daniel carrying?
+
+ANSWER: milk
+IS FIRST!!
+PROMPT:  John travelled to the bedroom.
+Mary journeyed to the garden.
+What is Daniel carrying?
+nothing
+
+John grabbed the milk there.
+John discarded the milk.
+What is John carrying?
+
+ANSWER: something
+PROMPT:  John travelled to the bedroom.
+Mary journeyed to the garden.
+What is Daniel carrying?
+nothing
+
+John grabbed the milk there.
+John discarded the milk.
+What is John carrying?
+nothing
+
+Daniel moved to the office.
+John journeyed to the garden.
+What is John carrying?
+
+ANSWER: nothing
+PROMPT:  John travelled to the bedroom.
+Mary journeyed to the garden.
+What is Daniel carrying?
+nothing
+
+John grabbed the milk there.
+John discarded the milk.
+What is John carrying?
+nothing
+
+Daniel moved to the office.
+John journeyed to the garden.
+What is John carrying?
+nothing
+
+Sandra travelled to the bedroom.
+Mary picked up the apple there.
+What is Mary carrying?
+
+ANSWER: bread
+PROMPT:  John travelled to the bedroom.
+Mary journeyed to the garden.
+What is Daniel carrying?
+nothing
+
+John grabbed the milk there.
+John discarded the milk.
+What is John carrying?
+nothing
+
+Daniel moved to the office.
+John journeyed to the garden.
+What is John carrying?
+nothing
+
+Sandra travelled to the bedroom.
+Mary picked up the apple there.
+What is Mary carrying?
+apple
+
+Mary dropped the apple there.
+Sandra travelled to the garden.
+What is Mary carrying?
+
+ANSWER: big apple
+IS FIRST!!
+PROMPT:  Mary got the apple there.
+Daniel took the milk there.
+What is Mary carrying?
+apple
+
+Sandra journeyed to the bathroom.
+Mary picked up the apple there.
+What is Mary carrying?
+
+ANSWER: a bag
+PROMPT:  Mary got the apple there.
+Daniel took the milk there.
+What is Mary carrying?
+apple
+
+Sandra journeyed to the bathroom.
+Mary picked up the apple there.
+What is Mary carrying?
+apple
+
+Sandra journeyed to the garden.
+John journeyed to the bathroom.
+What is Mary carrying?
+
+ANSWER: apple
+PROMPT:  Mary got the apple there.
+Daniel took the milk there.
+What is Mary carrying?
+apple
+
+Sandra journeyed to the bathroom.
+Mary picked up the apple there.
+What is Mary carrying?
+apple
+
+Sandra journeyed to the garden.
+John journeyed to the bathroom.
+What is Mary carrying?
+apple
+
+Sandra went back to the bedroom.
+Mary discarded the apple.
+What is Mary carrying?
+
+ANSWER: apple
+PROMPT:  Mary got the apple there.
+Daniel took the milk there.
+What is Mary carrying?
+apple
+
+Sandra journeyed to the bathroom.
+Mary picked up the apple there.
+What is Mary carrying?
+apple
+
+Sandra journeyed to the garden.
+John journeyed to the bathroom.
+What is Mary carrying?
+apple
+
+Sandra went back to the bedroom.
+Mary discarded the apple.
+What is Mary carrying?
+nothing
+
+Daniel travelled to the kitchen.
+Mary grabbed the apple there.
+What is Mary carrying?
+
+ANSWER: apple,nothing
+IS FIRST!!
+PROMPT:  John journeyed to the office.
+Daniel journeyed to the hallway.
+What is Mary carrying?
+apple
+
+John journeyed to the hallway.
+Sandra journeyed to the office.
+Mary went back to the bathroom.
+Mary went to the hallway.
+Daniel went back to the garden.
+Sandra journeyed to the kitchen.
+Sandra travelled to the bathroom.
+Sandra went to the kitchen.
+John travelled to the office.
+Mary went back to the bedroom.
+John travelled to the kitchen.
+Mary grabbed the football there.
+What is Mary carrying?
+
+ANSWER: 1 bottle
+PROMPT:  John journeyed to the office.
+Daniel journeyed to the hallway.
+What is Mary carrying?
+apple
+
+John journeyed to the hallway.
+Sandra journeyed to the office.
+Mary went back to the bathroom.
+Mary went to the hallway.
+Daniel went back to the garden.
+Sandra journeyed to the kitchen.
+Sandra travelled to the bathroom.
+Sandra went to the kitchen.
+John travelled to the office.
+Mary went back to the bedroom.
+John travelled to the kitchen.
+Mary grabbed the football there.
+What is Mary carrying?
+football
+
+Mary journeyed to the garden.
+Mary went to the office.
+What is Mary carrying?
+
+ANSWER: book
+PROMPT:  John journeyed to the office.
+Daniel journeyed to the hallway.
+What is Mary carrying?
+apple
+
+John journeyed to the hallway.
+Sandra journeyed to the office.
+Mary went back to the bathroom.
+Mary went to the hallway.
+Daniel went back to the garden.
+Sandra journeyed to the kitchen.
+Sandra travelled to the bathroom.
+Sandra went to the kitchen.
+John travelled to the office.
+Mary went back to the bedroom.
+John travelled to the kitchen.
+Mary grabbed the football there.
+What is Mary carrying?
+football
+
+Mary journeyed to the garden.
+Mary went to the office.
+What is Mary carrying?
+football
+
+Mary went back to the bedroom.
+Mary went back to the kitchen.
+What is Mary carrying?
+
+ANSWER: football
+PROMPT:  John journeyed to the office.
+Daniel journeyed to the hallway.
+What is Mary carrying?
+apple
+
+John journeyed to the hallway.
+Sandra journeyed to the office.
+Mary went back to the bathroom.
+Mary went to the hallway.
+Daniel went back to the garden.
+Sandra journeyed to the kitchen.
+Sandra travelled to the bathroom.
+Sandra went to the kitchen.
+John travelled to the office.
+Mary went back to the bedroom.
+John travelled to the kitchen.
+Mary grabbed the football there.
+What is Mary carrying?
+football
+
+Mary journeyed to the garden.
+Mary went to the office.
+What is Mary carrying?
+football
+
+Mary went back to the bedroom.
+Mary went back to the kitchen.
+What is Mary carrying?
+football
+
+Sandra moved to the bedroom.
+Daniel picked up the milk there.
+What is Daniel carrying?
+
+ANSWER: milk
+IS FIRST!!
+PROMPT:  Sandra went to the kitchen.
+John travelled to the bathroom.
+What is Daniel carrying?
+milk
+
+Mary took the apple there.
+Daniel moved to the kitchen.
+What is Mary carrying?
+
+ANSWER: peas
+PROMPT:  Sandra went to the kitchen.
+John travelled to the bathroom.
+What is Daniel carrying?
+milk
+
+Mary took the apple there.
+Daniel moved to the kitchen.
+What is Mary carrying?
+apple
+
+Mary moved to the kitchen.
+Daniel moved to the bathroom.
+What is Mary carrying?
+
+ANSWER: apple
+PROMPT:  Sandra went to the kitchen.
+John travelled to the bathroom.
+What is Daniel carrying?
+milk
+
+Mary took the apple there.
+Daniel moved to the kitchen.
+What is Mary carrying?
+apple
+
+Mary moved to the kitchen.
+Daniel moved to the bathroom.
+What is Mary carrying?
+apple
+
+Mary dropped the apple.
+Mary moved to the garden.
+What is Mary carrying?
+
+ANSWER: apple
+PROMPT:  Sandra went to the kitchen.
+John travelled to the bathroom.
+What is Daniel carrying?
+milk
+
+Mary took the apple there.
+Daniel moved to the kitchen.
+What is Mary carrying?
+apple
+
+Mary moved to the kitchen.
+Daniel moved to the bathroom.
+What is Mary carrying?
+apple
+
+Mary dropped the apple.
+Mary moved to the garden.
+What is Mary carrying?
+nothing
+
+John moved to the kitchen.
+Sandra got the apple there.
+What is Sandra carrying?
+
+ANSWER: apple
+IS FIRST!!
+PROMPT:  Sandra went back to the bathroom.
+Daniel moved to the office.
+What is Sandra carrying?
+apple
+
+Mary journeyed to the kitchen.
+John travelled to the hallway.
+Daniel went back to the kitchen.
+Mary went to the bathroom.
+Daniel went to the bedroom.
+John moved to the office.
+Sandra travelled to the bathroom.
+Mary took the apple there.
+What is Mary carrying?
+
+ANSWER: apple
+PROMPT:  Sandra went back to the bathroom.
+Daniel moved to the office.
+What is Sandra carrying?
+apple
+
+Mary journeyed to the kitchen.
+John travelled to the hallway.
+Daniel went back to the kitchen.
+Mary went to the bathroom.
+Daniel went to the bedroom.
+John moved to the office.
+Sandra travelled to the bathroom.
+Mary took the apple there.
+What is Mary carrying?
+apple
+
+Daniel moved to the garden.
+Daniel travelled to the bedroom.
+What is Mary carrying?
+
+ANSWER: apple
+PROMPT:  Sandra went back to the bathroom.
+Daniel moved to the office.
+What is Sandra carrying?
+apple
+
+Mary journeyed to the kitchen.
+John travelled to the hallway.
+Daniel went back to the kitchen.
+Mary went to the bathroom.
+Daniel went to the bedroom.
+John moved to the office.
+Sandra travelled to the bathroom.
+Mary took the apple there.
+What is Mary carrying?
+apple
+
+Daniel moved to the garden.
+Daniel travelled to the bedroom.
+What is Mary carrying?
+apple
+
+John moved to the hallway.
+Daniel went to the hallway.
+What is Mary carrying?
+
+ANSWER: apple
+PROMPT:  Sandra went back to the bathroom.
+Daniel moved to the office.
+What is Sandra carrying?
+apple
+
+Mary journeyed to the kitchen.
+John travelled to the hallway.
+Daniel went back to the kitchen.
+Mary went to the bathroom.
+Daniel went to the bedroom.
+John moved to the office.
+Sandra travelled to the bathroom.
+Mary took the apple there.
+What is Mary carrying?
+apple
+
+Daniel moved to the garden.
+Daniel travelled to the bedroom.
+What is Mary carrying?
+apple
+
+John moved to the hallway.
+Daniel went to the hallway.
+What is Mary carrying?
+apple
+
+Mary put down the apple there.
+Sandra moved to the kitchen.
+What is Mary carrying?
+
+ANSWER: apple
+IS FIRST!!
+PROMPT:  Mary travelled to the office.
+Daniel moved to the office.
+What is Mary carrying?
+nothing
+
+John moved to the kitchen.
+Mary moved to the bedroom.
+Sandra went back to the hallway.
+Mary got the milk there.
+What is Mary carrying?
+
+ANSWER: nothing
+PROMPT:  Mary travelled to the office.
+Daniel moved to the office.
+What is Mary carrying?
+nothing
+
+John moved to the kitchen.
+Mary moved to the bedroom.
+Sandra went back to the hallway.
+Mary got the milk there.
+What is Mary carrying?
+milk
+
+Sandra journeyed to the office.
+Sandra took the apple there.
+What is Sandra carrying?
+
+ANSWER: apple
+PROMPT:  Mary travelled to the office.
+Daniel moved to the office.
+What is Mary carrying?
+nothing
+
+John moved to the kitchen.
+Mary moved to the bedroom.
+Sandra went back to the hallway.
+Mary got the milk there.
+What is Mary carrying?
+milk
+
+Sandra journeyed to the office.
+Sandra took the apple there.
+What is Sandra carrying?
+apple
+
+Daniel journeyed to the hallway.
+John went to the bedroom.
+What is Sandra carrying?
+
+ANSWER: apple
+PROMPT:  Mary travelled to the office.
+Daniel moved to the office.
+What is Mary carrying?
+nothing
+
+John moved to the kitchen.
+Mary moved to the bedroom.
+Sandra went back to the hallway.
+Mary got the milk there.
+What is Mary carrying?
+milk
+
+Sandra journeyed to the office.
+Sandra took the apple there.
+What is Sandra carrying?
+apple
+
+Daniel journeyed to the hallway.
+John went to the bedroom.
+What is Sandra carrying?
+apple
+
+John went to the garden.
+Mary journeyed to the bathroom.
+What is Sandra carrying?
+
+ANSWER: apple
+IS FIRST!!
+PROMPT:  John picked up the football there.
+John dropped the football.
+What is John carrying?
+nothing
+
+Sandra went back to the bathroom.
+Mary went back to the garden.
+John got the apple there.
+John went to the garden.
+What is John carrying?
+
+ANSWER: a corn orchard
+PROMPT:  John picked up the football there.
+John dropped the football.
+What is John carrying?
+nothing
+
+Sandra went back to the bathroom.
+Mary went back to the garden.
+John got the apple there.
+John went to the garden.
+What is John carrying?
+apple
+
+Daniel travelled to the office.
+John dropped the apple.
+What is John carrying?
+
+ANSWER: apple
+PROMPT:  John picked up the football there.
+John dropped the football.
+What is John carrying?
+nothing
+
+Sandra went back to the bathroom.
+Mary went back to the garden.
+John got the apple there.
+John went to the garden.
+What is John carrying?
+apple
+
+Daniel travelled to the office.
+John dropped the apple.
+What is John carrying?
+nothing
+
+Mary grabbed the apple there.
+John travelled to the office.
+What is John carrying?
+
+ANSWER: apple
+PROMPT:  John picked up the football there.
+John dropped the football.
+What is John carrying?
+nothing
+
+Sandra went back to the bathroom.
+Mary went back to the garden.
+John got the apple there.
+John went to the garden.
+What is John carrying?
+apple
+
+Daniel travelled to the office.
+John dropped the apple.
+What is John carrying?
+nothing
+
+Mary grabbed the apple there.
+John travelled to the office.
+What is John carrying?
+nothing
+
+Mary went back to the bathroom.
+Mary moved to the office.
+What is John carrying?
+
+ANSWER: a small apple
+IS FIRST!!
+PROMPT:  John moved to the bathroom.
+Mary put down the apple.
+What is Mary carrying?
+nothing
+
+Sandra went back to the garden.
+Sandra went back to the bedroom.
+Sandra journeyed to the kitchen.
+Mary journeyed to the hallway.
+John moved to the kitchen.
+Mary went back to the kitchen.
+John moved to the hallway.
+Sandra went back to the office.
+John went to the kitchen.
+Daniel moved to the bathroom.
+John went back to the hallway.
+Mary journeyed to the bathroom.
+John went back to the office.
+Daniel travelled to the kitchen.
+John journeyed to the hallway.
+Mary journeyed to the office.
+Sandra moved to the kitchen.
+Mary journeyed to the bedroom.
+Daniel journeyed to the bedroom.
+Sandra went to the garden.
+John journeyed to the bathroom.
+Sandra picked up the football there.
+What is Sandra carrying?
+
+ANSWER: nothing
+PROMPT:  John moved to the bathroom.
+Mary put down the apple.
+What is Mary carrying?
+nothing
+
+Sandra went back to the garden.
+Sandra went back to the bedroom.
+Sandra journeyed to the kitchen.
+Mary journeyed to the hallway.
+John moved to the kitchen.
+Mary went back to the kitchen.
+John moved to the hallway.
+Sandra went back to the office.
+John went to the kitchen.
+Daniel moved to the bathroom.
+John went back to the hallway.
+Mary journeyed to the bathroom.
+John went back to the office.
+Daniel travelled to the kitchen.
+John journeyed to the hallway.
+Mary journeyed to the office.
+Sandra moved to the kitchen.
+Mary journeyed to the bedroom.
+Daniel journeyed to the bedroom.
+Sandra went to the garden.
+John journeyed to the bathroom.
+Sandra picked up the football there.
+What is Sandra carrying?
+football
+
+Sandra left the football.
+Sandra journeyed to the bedroom.
+What is Sandra carrying?
+
+ANSWER: fruit
+PROMPT:  John moved to the bathroom.
+Mary put down the apple.
+What is Mary carrying?
+nothing
+
+Sandra went back to the garden.
+Sandra went back to the bedroom.
+Sandra journeyed to the kitchen.
+Mary journeyed to the hallway.
+John moved to the kitchen.
+Mary went back to the kitchen.
+John moved to the hallway.
+Sandra went back to the office.
+John went to the kitchen.
+Daniel moved to the bathroom.
+John went back to the hallway.
+Mary journeyed to the bathroom.
+John went back to the office.
+Daniel travelled to the kitchen.
+John journeyed to the hallway.
+Mary journeyed to the office.
+Sandra moved to the kitchen.
+Mary journeyed to the bedroom.
+Daniel journeyed to the bedroom.
+Sandra went to the garden.
+John journeyed to the bathroom.
+Sandra picked up the football there.
+What is Sandra carrying?
+football
+
+Sandra left the football.
+Sandra journeyed to the bedroom.
+What is Sandra carrying?
+nothing
+
+John went back to the garden.
+Mary journeyed to the hallway.
+What is Sandra carrying?
+
+ANSWER: nothing
+PROMPT:  John moved to the bathroom.
+Mary put down the apple.
+What is Mary carrying?
+nothing
+
+Sandra went back to the garden.
+Sandra went back to the bedroom.
+Sandra journeyed to the kitchen.
+Mary journeyed to the hallway.
+John moved to the kitchen.
+Mary went back to the kitchen.
+John moved to the hallway.
+Sandra went back to the office.
+John went to the kitchen.
+Daniel moved to the bathroom.
+John went back to the hallway.
+Mary journeyed to the bathroom.
+John went back to the office.
+Daniel travelled to the kitchen.
+John journeyed to the hallway.
+Mary journeyed to the office.
+Sandra moved to the kitchen.
+Mary journeyed to the bedroom.
+Daniel journeyed to the bedroom.
+Sandra went to the garden.
+John journeyed to the bathroom.
+Sandra picked up the football there.
+What is Sandra carrying?
+football
+
+Sandra left the football.
+Sandra journeyed to the bedroom.
+What is Sandra carrying?
+nothing
+
+John went back to the garden.
+Mary journeyed to the hallway.
+What is Sandra carrying?
+nothing
+
+Daniel went back to the garden.
+Mary went back to the garden.
+Mary got the apple there.
+Mary got the milk there.
+What is Mary carrying?
+
+ANSWER: jam
+IS FIRST!!
+PROMPT:  Mary dropped the apple.
+Daniel moved to the office.
+What is Mary carrying?
+milk
+
+John travelled to the hallway.
+Sandra grabbed the football there.
+What is Sandra carrying?
+
+ANSWER: bad coffee
+PROMPT:  Mary dropped the apple.
+Daniel moved to the office.
+What is Mary carrying?
+milk
+
+John travelled to the hallway.
+Sandra grabbed the football there.
+What is Sandra carrying?
+football
+
+John travelled to the office.
+Sandra travelled to the kitchen.
+What is Sandra carrying?
+
+ANSWER: care package
+PROMPT:  Mary dropped the apple.
+Daniel moved to the office.
+What is Mary carrying?
+milk
+
+John travelled to the hallway.
+Sandra grabbed the football there.
+What is Sandra carrying?
+football
+
+John travelled to the office.
+Sandra travelled to the kitchen.
+What is Sandra carrying?
+football
+
+Sandra travelled to the garden.
+Mary went to the kitchen.
+What is Sandra carrying?
+
+ANSWER: back to the garden
+PROMPT:  Mary dropped the apple.
+Daniel moved to the office.
+What is Mary carrying?
+milk
+
+John travelled to the hallway.
+Sandra grabbed the football there.
+What is Sandra carrying?
+football
+
+John travelled to the office.
+Sandra travelled to the kitchen.
+What is Sandra carrying?
+football
+
+Sandra travelled to the garden.
+Mary went to the kitchen.
+What is Sandra carrying?
+football
+
+Sandra dropped the football.
+Sandra got the football there.
+What is Sandra carrying?
+
+ANSWER: football
+IS FIRST!!
+PROMPT:  Daniel went back to the office.
+Daniel moved to the bedroom.
+What is Sandra carrying?
+football
+
+Sandra journeyed to the office.
+John went to the garden.
+John travelled to the bathroom.
+John grabbed the football there.
+What is John carrying?
+
+ANSWER: football
+PROMPT:  Daniel went back to the office.
+Daniel moved to the bedroom.
+What is Sandra carrying?
+football
+
+Sandra journeyed to the office.
+John went to the garden.
+John travelled to the bathroom.
+John grabbed the football there.
+What is John carrying?
+football
+
+John went to the garden.
+John dropped the football.
+What is John carrying?
+
+ANSWER: football
+PROMPT:  Daniel went back to the office.
+Daniel moved to the bedroom.
+What is Sandra carrying?
+football
+
+Sandra journeyed to the office.
+John went to the garden.
+John travelled to the bathroom.
+John grabbed the football there.
+What is John carrying?
+football
+
+John went to the garden.
+John dropped the football.
+What is John carrying?
+nothing
+
+John took the football there.
+Sandra moved to the bedroom.
+What is John carrying?
+
+ANSWER: je-44
+PROMPT:  Daniel went back to the office.
+Daniel moved to the bedroom.
+What is Sandra carrying?
+football
+
+Sandra journeyed to the office.
+John went to the garden.
+John travelled to the bathroom.
+John grabbed the football there.
+What is John carrying?
+football
+
+John went to the garden.
+John dropped the football.
+What is John carrying?
+nothing
+
+John took the football there.
+Sandra moved to the bedroom.
+What is John carrying?
+football
+
+John discarded the football.
+Daniel moved to the hallway.
+What is John carrying?
+
+ANSWER: me
+IS FIRST!!
+PROMPT:  John picked up the football there.
+John went to the bedroom.
+What is John carrying?
+football
+
+Sandra journeyed to the bedroom.
+John went to the kitchen.
+John went back to the bedroom.
+Sandra got the milk there.
+What is Sandra carrying?
+
+ANSWER: glass
+PROMPT:  John picked up the football there.
+John went to the bedroom.
+What is John carrying?
+football
+
+Sandra journeyed to the bedroom.
+John went to the kitchen.
+John went back to the bedroom.
+Sandra got the milk there.
+What is Sandra carrying?
+milk
+
+Daniel went back to the office.
+John went back to the bathroom.
+What is Sandra carrying?
+
+ANSWER: nothing
+PROMPT:  John picked up the football there.
+John went to the bedroom.
+What is John carrying?
+football
+
+Sandra journeyed to the bedroom.
+John went to the kitchen.
+John went back to the bedroom.
+Sandra got the milk there.
+What is Sandra carrying?
+milk
+
+Daniel went back to the office.
+John went back to the bathroom.
+What is Sandra carrying?
+milk
+
+Sandra discarded the milk.
+John picked up the apple there.
+What is Sandra carrying?
+
+ANSWER: milk
+PROMPT:  John picked up the football there.
+John went to the bedroom.
+What is John carrying?
+football
+
+Sandra journeyed to the bedroom.
+John went to the kitchen.
+John went back to the bedroom.
+Sandra got the milk there.
+What is Sandra carrying?
+milk
+
+Daniel went back to the office.
+John went back to the bathroom.
+What is Sandra carrying?
+milk
+
+Sandra discarded the milk.
+John picked up the apple there.
+What is Sandra carrying?
+nothing
+
+Mary journeyed to the office.
+John journeyed to the bedroom.
+What is John carrying?
+
+ANSWER: john went to the office
+IS FIRST!!
+PROMPT:  Sandra journeyed to the garden.
+John took the milk there.
+What is John carrying?
+apple milk
+
+John got the football there.
+Daniel journeyed to the bedroom.
+What is John carrying?
+
+ANSWER: pants
+PROMPT:  Sandra journeyed to the garden.
+John took the milk there.
+What is John carrying?
+apple milk
+
+John got the football there.
+Daniel journeyed to the bedroom.
+What is John carrying?
+football
+
+Sandra journeyed to the bedroom.
+Sandra travelled to the garden.
+What is John carrying?
+
+ANSWER: pantaloons
+PROMPT:  Sandra journeyed to the garden.
+John took the milk there.
+What is John carrying?
+apple milk
+
+John got the football there.
+Daniel journeyed to the bedroom.
+What is John carrying?
+football
+
+Sandra journeyed to the bedroom.
+Sandra travelled to the garden.
+What is John carrying?
+football
+
+Mary went to the bedroom.
+Daniel went to the kitchen.
+John went to the office.
+Daniel picked up the milk there.
+What is Daniel carrying?
+
+ANSWER: meal
+PROMPT:  Sandra journeyed to the garden.
+John took the milk there.
+What is John carrying?
+apple milk
+
+John got the football there.
+Daniel journeyed to the bedroom.
+What is John carrying?
+football
+
+Sandra journeyed to the bedroom.
+Sandra travelled to the garden.
+What is John carrying?
+football
+
+Mary went to the bedroom.
+Daniel went to the kitchen.
+John went to the office.
+Daniel picked up the milk there.
+What is Daniel carrying?
+milk
+
+Daniel put down the milk.
+Mary journeyed to the hallway.
+What is Daniel carrying?
+
+ANSWER: milk
+IS FIRST!!
+PROMPT:  John dropped the football.
+Daniel went to the bedroom.
+What is Daniel carrying?
+nothing
+
+Daniel went to the office.
+Sandra went to the office.
+John moved to the bedroom.
+Sandra journeyed to the bathroom.
+Mary journeyed to the office.
+Mary journeyed to the hallway.
+Sandra journeyed to the garden.
+Daniel travelled to the bathroom.
+Daniel got the football there.
+Daniel moved to the bedroom.
+What is Daniel carrying?
+
+ANSWER: distressed
+PROMPT:  John dropped the football.
+Daniel went to the bedroom.
+What is Daniel carrying?
+nothing
+
+Daniel went to the office.
+Sandra went to the office.
+John moved to the bedroom.
+Sandra journeyed to the bathroom.
+Mary journeyed to the office.
+Mary journeyed to the hallway.
+Sandra journeyed to the garden.
+Daniel travelled to the bathroom.
+Daniel got the football there.
+Daniel moved to the bedroom.
+What is Daniel carrying?
+football
+
+Sandra moved to the bedroom.
+Daniel left the football.
+What is Daniel carrying?
+
+ANSWER: football
+PROMPT:  John dropped the football.
+Daniel went to the bedroom.
+What is Daniel carrying?
+nothing
+
+Daniel went to the office.
+Sandra went to the office.
+John moved to the bedroom.
+Sandra journeyed to the bathroom.
+Mary journeyed to the office.
+Mary journeyed to the hallway.
+Sandra journeyed to the garden.
+Daniel travelled to the bathroom.
+Daniel got the football there.
+Daniel moved to the bedroom.
+What is Daniel carrying?
+football
+
+Sandra moved to the bedroom.
+Daniel left the football.
+What is Daniel carrying?
+nothing
+
+Mary journeyed to the bedroom.
+Sandra moved to the kitchen.
+What is Daniel carrying?
+
+ANSWER: a towel
+PROMPT:  John dropped the football.
+Daniel went to the bedroom.
+What is Daniel carrying?
+nothing
+
+Daniel went to the office.
+Sandra went to the office.
+John moved to the bedroom.
+Sandra journeyed to the bathroom.
+Mary journeyed to the office.
+Mary journeyed to the hallway.
+Sandra journeyed to the garden.
+Daniel travelled to the bathroom.
+Daniel got the football there.
+Daniel moved to the bedroom.
+What is Daniel carrying?
+football
+
+Sandra moved to the bedroom.
+Daniel left the football.
+What is Daniel carrying?
+nothing
+
+Mary journeyed to the bedroom.
+Sandra moved to the kitchen.
+What is Daniel carrying?
+nothing
+
+John took the football there.
+Sandra took the milk there.
+What is Daniel carrying?
+
+ANSWER: football
+IS FIRST!!
+PROMPT:  John dropped the football.
+Sandra went back to the office.
+What is John carrying?
+nothing
+
+Daniel picked up the apple there.
+John moved to the bathroom.
+What is Daniel carrying?
+
+ANSWER: nothing
+PROMPT:  John dropped the football.
+Sandra went back to the office.
+What is John carrying?
+nothing
+
+Daniel picked up the apple there.
+John moved to the bathroom.
+What is Daniel carrying?
+apple
+
+Sandra travelled to the garden.
+Daniel moved to the bathroom.
+What is Daniel carrying?
+
+ANSWER: apple
+PROMPT:  John dropped the football.
+Sandra went back to the office.
+What is John carrying?
+nothing
+
+Daniel picked up the apple there.
+John moved to the bathroom.
+What is Daniel carrying?
+apple
+
+Sandra travelled to the garden.
+Daniel moved to the bathroom.
+What is Daniel carrying?
+apple
+
+John journeyed to the kitchen.
+Mary moved to the bedroom.
+Daniel put down the apple.
+Daniel picked up the apple there.
+What is Daniel carrying?
+
+ANSWER: apple
+PROMPT:  John dropped the football.
+Sandra went back to the office.
+What is John carrying?
+nothing
+
+Daniel picked up the apple there.
+John moved to the bathroom.
+What is Daniel carrying?
+apple
+
+Sandra travelled to the garden.
+Daniel moved to the bathroom.
+What is Daniel carrying?
+apple
+
+John journeyed to the kitchen.
+Mary moved to the bedroom.
+Daniel put down the apple.
+Daniel picked up the apple there.
+What is Daniel carrying?
+apple
+
+Mary went to the kitchen.
+Daniel put down the apple.
+What is Daniel carrying?
+
+ANSWER: apple
+IS FIRST!!
+PROMPT:  Mary went to the garden.
+Daniel got the apple there.
+What is Daniel carrying?
+apple
+
+Daniel got the milk there.
+Daniel went to the office.
+What is Daniel carrying?
+
+ANSWER: milk, sweetener
+PROMPT:  Mary went to the garden.
+Daniel got the apple there.
+What is Daniel carrying?
+apple
+
+Daniel got the milk there.
+Daniel went to the office.
+What is Daniel carrying?
+milk
+
+Daniel dropped the milk.
+Mary grabbed the milk there.
+What is Daniel carrying?
+
+ANSWER: milk
+PROMPT:  Mary went to the garden.
+Daniel got the apple there.
+What is Daniel carrying?
+apple
+
+Daniel got the milk there.
+Daniel went to the office.
+What is Daniel carrying?
+milk
+
+Daniel dropped the milk.
+Mary grabbed the milk there.
+What is Daniel carrying?
+nothing
+
+Sandra journeyed to the office.
+Mary put down the milk.
+What is Mary carrying?
+
+ANSWER: something
+PROMPT:  Mary went to the garden.
+Daniel got the apple there.
+What is Daniel carrying?
+apple
+
+Daniel got the milk there.
+Daniel went to the office.
+What is Daniel carrying?
+milk
+
+Daniel dropped the milk.
+Mary grabbed the milk there.
+What is Daniel carrying?
+nothing
+
+Sandra journeyed to the office.
+Mary put down the milk.
+What is Mary carrying?
+nothing
+
+Daniel took the milk there.
+Sandra moved to the hallway.
+What is Daniel carrying?
+
+ANSWER: nothing
+IS FIRST!!
+PROMPT:  Daniel moved to the bedroom.
+Mary went to the garden.
+What is Mary carrying?
+nothing
+
+Sandra got the football there.
+Sandra journeyed to the garden.
+What is Sandra carrying?
+
+ANSWER: nothing    
+PROMPT:  Daniel moved to the bedroom.
+Mary went to the garden.
+What is Mary carrying?
+nothing
+
+Sandra got the football there.
+Sandra journeyed to the garden.
+What is Sandra carrying?
+football
+
+Mary journeyed to the garden.
+Sandra put down the football.
+What is Sandra carrying?
+
+ANSWER: rock
+PROMPT:  Daniel moved to the bedroom.
+Mary went to the garden.
+What is Mary carrying?
+nothing
+
+Sandra got the football there.
+Sandra journeyed to the garden.
+What is Sandra carrying?
+football
+
+Mary journeyed to the garden.
+Sandra put down the football.
+What is Sandra carrying?
+nothing
+
+Sandra moved to the office.
+John got the football there.
+What is John carrying?
+
+ANSWER: 
+PROMPT:  Daniel moved to the bedroom.
+Mary went to the garden.
+What is Mary carrying?
+nothing
+
+Sandra got the football there.
+Sandra journeyed to the garden.
+What is Sandra carrying?
+football
+
+Mary journeyed to the garden.
+Sandra put down the football.
+What is Sandra carrying?
+nothing
+
+Sandra moved to the office.
+John got the football there.
+What is John carrying?
+football
+
+Daniel travelled to the office.
+John moved to the office.
+What is Sandra carrying?
+
+ANSWER: nothing
+IS FIRST!!
+PROMPT:  John journeyed to the hallway.
+Mary went back to the bathroom.
+What is John carrying?
+football
+
+Daniel went back to the office.
+Daniel picked up the milk there.
+What is Daniel carrying?
+
+ANSWER: cigarettes
+PROMPT:  John journeyed to the hallway.
+Mary went back to the bathroom.
+What is John carrying?
+football
+
+Daniel went back to the office.
+Daniel picked up the milk there.
+What is Daniel carrying?
+milk
+
+Daniel went back to the bedroom.
+John went to the bedroom.
+What is Daniel carrying?
+
+ANSWER: baby food [inkling
+PROMPT:  John journeyed to the hallway.
+Mary went back to the bathroom.
+What is John carrying?
+football
+
+Daniel went back to the office.
+Daniel picked up the milk there.
+What is Daniel carrying?
+milk
+
+Daniel went back to the bedroom.
+John went to the bedroom.
+What is Daniel carrying?
+milk
+
+Sandra travelled to the hallway.
+Mary travelled to the kitchen.
+What is Daniel carrying?
+
+ANSWER: hot water bottle
+PROMPT:  John journeyed to the hallway.
+Mary went back to the bathroom.
+What is John carrying?
+football
+
+Daniel went back to the office.
+Daniel picked up the milk there.
+What is Daniel carrying?
+milk
+
+Daniel went back to the bedroom.
+John went to the bedroom.
+What is Daniel carrying?
+milk
+
+Sandra travelled to the hallway.
+Mary travelled to the kitchen.
+What is Daniel carrying?
+milk
+
+Mary went to the bedroom.
+Sandra went to the garden.
+Sandra went to the bathroom.
+Mary travelled to the bathroom.
+Sandra journeyed to the garden.
+Daniel went back to the bathroom.
+Daniel picked up the football there.
+Daniel went to the hallway.
+What is Daniel carrying?
+
+ANSWER: football
+IS FIRST!!
+PROMPT:  Sandra went to the bedroom.
+Daniel discarded the football.
+What is Daniel carrying?
+milk
+
+Sandra got the football there.
+Sandra took the milk there.
+What is Sandra carrying?
+
+ANSWER: milk
+PROMPT:  Sandra went to the bedroom.
+Daniel discarded the football.
+What is Daniel carrying?
+milk
+
+Sandra got the football there.
+Sandra took the milk there.
+What is Sandra carrying?
+football milk
+
+Sandra left the football.
+Sandra got the football there.
+What is Sandra carrying?
+
+ANSWER: milk milk
+PROMPT:  Sandra went to the bedroom.
+Daniel discarded the football.
+What is Daniel carrying?
+milk
+
+Sandra got the football there.
+Sandra took the milk there.
+What is Sandra carrying?
+football milk
+
+Sandra left the football.
+Sandra got the football there.
+What is Sandra carrying?
+football milk
+
+Daniel went back to the bedroom.
+John journeyed to the bathroom.
+What is Sandra carrying?
+
+ANSWER: milk
+PROMPT:  Sandra went to the bedroom.
+Daniel discarded the football.
+What is Daniel carrying?
+milk
+
+Sandra got the football there.
+Sandra took the milk there.
+What is Sandra carrying?
+football milk
+
+Sandra left the football.
+Sandra got the football there.
+What is Sandra carrying?
+football milk
+
+Daniel went back to the bedroom.
+John journeyed to the bathroom.
+What is Sandra carrying?
+football milk
+
+Daniel went back to the garden.
+Sandra discarded the football.
+What is Sandra carrying?
+
+ANSWER: bowl milk
+IS FIRST!!
+PROMPT:  John went back to the kitchen.
+Sandra left the milk.
+What is Sandra carrying?
+nothing
+
+Sandra took the apple there.
+Mary journeyed to the garden.
+What is Sandra carrying?
+
+ANSWER: the apple
+PROMPT:  John went back to the kitchen.
+Sandra left the milk.
+What is Sandra carrying?
+nothing
+
+Sandra took the apple there.
+Mary journeyed to the garden.
+What is Sandra carrying?
+apple
+
+Sandra got the football there.
+Daniel moved to the kitchen.
+What is Sandra carrying?
+
+ANSWER: football
+PROMPT:  John went back to the kitchen.
+Sandra left the milk.
+What is Sandra carrying?
+nothing
+
+Sandra took the apple there.
+Mary journeyed to the garden.
+What is Sandra carrying?
+apple
+
+Sandra got the football there.
+Daniel moved to the kitchen.
+What is Sandra carrying?
+apple football
+
+Sandra put down the apple.
+John journeyed to the office.
+What is Sandra carrying?
+
+ANSWER: pain glove
+PROMPT:  John went back to the kitchen.
+Sandra left the milk.
+What is Sandra carrying?
+nothing
+
+Sandra took the apple there.
+Mary journeyed to the garden.
+What is Sandra carrying?
+apple
+
+Sandra got the football there.
+Daniel moved to the kitchen.
+What is Sandra carrying?
+apple football
+
+Sandra put down the apple.
+John journeyed to the office.
+What is Sandra carrying?
+football
+
+Daniel went back to the office.
+Sandra got the apple there.
+What is Sandra carrying?
+
+ANSWER: apple football
+IS FIRST!!
+NUM QUESTIONS: 79 NUM CORRECT: 24 PERCENT ACCURACY: 0.3037974683544304

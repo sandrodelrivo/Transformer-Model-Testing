@@ -1,0 +1,2769 @@
+2021-12-07 21:24:07,998 INFO     | creating task(s): babi:task10k:5
+2021-12-07 21:24:08,103 INFO     | loading fbdialog data: C:\Users\sandr\ParlAI\data\bAbI\tasks_1-20_v1-2\en-valid-10k-nosf\qa5_train.txt
+PROMPT:  Bill went back to the garden.
+Bill journeyed to the office.
+Fred picked up the milk there.
+Fred left the milk.
+Mary journeyed to the office.
+Mary went back to the garden.
+Jeff picked up the football there.
+Bill went back to the bedroom.
+Jeff picked up the milk there.
+Jeff travelled to the garden.
+Jeff gave the football to Mary.
+Bill journeyed to the garden.
+Who gave the football?
+
+ANSWER: common sense prevailed and the
+PROMPT:  Bill went back to the garden.
+Bill journeyed to the office.
+Fred picked up the milk there.
+Fred left the milk.
+Mary journeyed to the office.
+Mary went back to the garden.
+Jeff picked up the football there.
+Bill went back to the bedroom.
+Jeff picked up the milk there.
+Jeff travelled to the garden.
+Jeff gave the football to Mary.
+Bill journeyed to the garden.
+Who gave the football?
+Jeff
+
+Mary passed the football to Bill.
+Bill passed the football to Mary.
+Who did Bill give the football to?
+
+ANSWER: mary
+PROMPT:  Bill went back to the garden.
+Bill journeyed to the office.
+Fred picked up the milk there.
+Fred left the milk.
+Mary journeyed to the office.
+Mary went back to the garden.
+Jeff picked up the football there.
+Bill went back to the bedroom.
+Jeff picked up the milk there.
+Jeff travelled to the garden.
+Jeff gave the football to Mary.
+Bill journeyed to the garden.
+Who gave the football?
+Jeff
+
+Mary passed the football to Bill.
+Bill passed the football to Mary.
+Who did Bill give the football to?
+Mary
+
+Mary gave the football to Bill.
+Bill handed the football to Mary.
+What did Bill give to Mary?
+
+ANSWER: brian
+PROMPT:  Bill went back to the garden.
+Bill journeyed to the office.
+Fred picked up the milk there.
+Fred left the milk.
+Mary journeyed to the office.
+Mary went back to the garden.
+Jeff picked up the football there.
+Bill went back to the bedroom.
+Jeff picked up the milk there.
+Jeff travelled to the garden.
+Jeff gave the football to Mary.
+Bill journeyed to the garden.
+Who gave the football?
+Jeff
+
+Mary passed the football to Bill.
+Bill passed the football to Mary.
+Who did Bill give the football to?
+Mary
+
+Mary gave the football to Bill.
+Bill handed the football to Mary.
+What did Bill give to Mary?
+football
+
+Mary left the football.
+Jeff left the milk there.
+Who received the football?
+
+ANSWER: mary
+PROMPT:  Mary journeyed to the bathroom.
+Jeff journeyed to the bedroom.
+What did Bill give to Mary?
+
+ANSWER: what did felicity give
+PROMPT:  Mary journeyed to the bathroom.
+Jeff journeyed to the bedroom.
+What did Bill give to Mary?
+football
+
+Bill went back to the bedroom.
+Bill picked up the football there.
+Jeff journeyed to the hallway.
+Jeff went to the office.
+Bill moved to the kitchen.
+Mary went back to the hallway.
+Jeff journeyed to the hallway.
+Mary travelled to the office.
+Bill discarded the football.
+Mary journeyed to the hallway.
+Bill got the football there.
+Bill discarded the football.
+Bill journeyed to the garden.
+Mary went to the office.
+Jeff journeyed to the bedroom.
+Bill went to the kitchen.
+Jeff journeyed to the kitchen.
+Jeff grabbed the football there.
+Bill went to the office.
+Mary went back to the kitchen.
+Bill went to the bedroom.
+Jeff handed the football to Mary.
+Who gave the football?
+
+ANSWER: mary went outside
+PROMPT:  Mary journeyed to the bathroom.
+Jeff journeyed to the bedroom.
+What did Bill give to Mary?
+football
+
+Bill went back to the bedroom.
+Bill picked up the football there.
+Jeff journeyed to the hallway.
+Jeff went to the office.
+Bill moved to the kitchen.
+Mary went back to the hallway.
+Jeff journeyed to the hallway.
+Mary travelled to the office.
+Bill discarded the football.
+Mary journeyed to the hallway.
+Bill got the football there.
+Bill discarded the football.
+Bill journeyed to the garden.
+Mary went to the office.
+Jeff journeyed to the bedroom.
+Bill went to the kitchen.
+Jeff journeyed to the kitchen.
+Jeff grabbed the football there.
+Bill went to the office.
+Mary went back to the kitchen.
+Bill went to the bedroom.
+Jeff handed the football to Mary.
+Who gave the football?
+Jeff
+
+Mary handed the football to Jeff.
+Jeff journeyed to the office.
+What did Mary give to Jeff?
+
+ANSWER: football
+PROMPT:  Mary journeyed to the bathroom.
+Jeff journeyed to the bedroom.
+What did Bill give to Mary?
+football
+
+Bill went back to the bedroom.
+Bill picked up the football there.
+Jeff journeyed to the hallway.
+Jeff went to the office.
+Bill moved to the kitchen.
+Mary went back to the hallway.
+Jeff journeyed to the hallway.
+Mary travelled to the office.
+Bill discarded the football.
+Mary journeyed to the hallway.
+Bill got the football there.
+Bill discarded the football.
+Bill journeyed to the garden.
+Mary went to the office.
+Jeff journeyed to the bedroom.
+Bill went to the kitchen.
+Jeff journeyed to the kitchen.
+Jeff grabbed the football there.
+Bill went to the office.
+Mary went back to the kitchen.
+Bill went to the bedroom.
+Jeff handed the football to Mary.
+Who gave the football?
+Jeff
+
+Mary handed the football to Jeff.
+Jeff journeyed to the office.
+What did Mary give to Jeff?
+football
+
+Jeff left the football.
+Jeff travelled to the garden.
+Who gave the football?
+
+ANSWER: bill
+PROMPT:  Mary journeyed to the bathroom.
+Jeff journeyed to the bedroom.
+What did Bill give to Mary?
+football
+
+Bill went back to the bedroom.
+Bill picked up the football there.
+Jeff journeyed to the hallway.
+Jeff went to the office.
+Bill moved to the kitchen.
+Mary went back to the hallway.
+Jeff journeyed to the hallway.
+Mary travelled to the office.
+Bill discarded the football.
+Mary journeyed to the hallway.
+Bill got the football there.
+Bill discarded the football.
+Bill journeyed to the garden.
+Mary went to the office.
+Jeff journeyed to the bedroom.
+Bill went to the kitchen.
+Jeff journeyed to the kitchen.
+Jeff grabbed the football there.
+Bill went to the office.
+Mary went back to the kitchen.
+Bill went to the bedroom.
+Jeff handed the football to Mary.
+Who gave the football?
+Jeff
+
+Mary handed the football to Jeff.
+Jeff journeyed to the office.
+What did Mary give to Jeff?
+football
+
+Jeff left the football.
+Jeff travelled to the garden.
+Who gave the football?
+Mary
+
+Mary moved to the bedroom.
+Fred moved to the kitchen.
+Mary travelled to the office.
+Mary took the football there.
+Mary moved to the bedroom.
+Fred went back to the office.
+Mary passed the football to Bill.
+Bill gave the football to Mary.
+Who did Bill give the football to?
+
+ANSWER: mary
+PROMPT:  Mary gave the football to Bill.
+Mary travelled to the kitchen.
+What did Mary give to Bill?
+
+ANSWER: mary said what is bill
+PROMPT:  Mary gave the football to Bill.
+Mary travelled to the kitchen.
+What did Mary give to Bill?
+football
+
+Mary went to the kitchen.
+Jeff picked up the apple there.
+Bill went back to the bedroom.
+Jeff passed the apple to Bill.
+Who gave the apple to Bill?
+
+ANSWER: no one
+PROMPT:  Mary gave the football to Bill.
+Mary travelled to the kitchen.
+What did Mary give to Bill?
+football
+
+Mary went to the kitchen.
+Jeff picked up the apple there.
+Bill went back to the bedroom.
+Jeff passed the apple to Bill.
+Who gave the apple to Bill?
+Jeff
+
+Bill passed the apple to Jeff.
+Jeff gave the apple to Bill.
+What did Jeff give to Bill?
+
+ANSWER: islipbank
+PROMPT:  Mary gave the football to Bill.
+Mary travelled to the kitchen.
+What did Mary give to Bill?
+football
+
+Mary went to the kitchen.
+Jeff picked up the apple there.
+Bill went back to the bedroom.
+Jeff passed the apple to Bill.
+Who gave the apple to Bill?
+Jeff
+
+Bill passed the apple to Jeff.
+Jeff gave the apple to Bill.
+What did Jeff give to Bill?
+apple
+
+Bill journeyed to the garden.
+Fred moved to the kitchen.
+Who gave the apple?
+
+ANSWER: fred
+PROMPT:  Mary gave the football to Bill.
+Mary travelled to the kitchen.
+What did Mary give to Bill?
+football
+
+Mary went to the kitchen.
+Jeff picked up the apple there.
+Bill went back to the bedroom.
+Jeff passed the apple to Bill.
+Who gave the apple to Bill?
+Jeff
+
+Bill passed the apple to Jeff.
+Jeff gave the apple to Bill.
+What did Jeff give to Bill?
+apple
+
+Bill journeyed to the garden.
+Fred moved to the kitchen.
+Who gave the apple?
+Jeff
+
+Jeff took the football there.
+Jeff went back to the bathroom.
+Who gave the apple?
+
+ANSWER: stamps
+PROMPT:  Mary journeyed to the bedroom.
+Jeff went back to the bedroom.
+Jeff passed the football to Mary.
+Mary passed the football to Jeff.
+Who gave the football to Jeff?
+
+ANSWER: mary turned the ball over
+PROMPT:  Mary journeyed to the bedroom.
+Jeff went back to the bedroom.
+Jeff passed the football to Mary.
+Mary passed the football to Jeff.
+Who gave the football to Jeff?
+Mary
+
+Bill went to the garden.
+Jeff went back to the bedroom.
+Mary went to the bedroom.
+Fred took the milk there.
+Jeff took the football there.
+Jeff passed the football to Mary.
+Who gave the football?
+
+ANSWER: mary using her hands
+PROMPT:  Mary journeyed to the bedroom.
+Jeff went back to the bedroom.
+Jeff passed the football to Mary.
+Mary passed the football to Jeff.
+Who gave the football to Jeff?
+Mary
+
+Bill went to the garden.
+Jeff went back to the bedroom.
+Mary went to the bedroom.
+Fred took the milk there.
+Jeff took the football there.
+Jeff passed the football to Mary.
+Who gave the football?
+Jeff
+
+Fred put down the milk.
+Mary gave the football to Jeff.
+What did Mary give to Jeff?
+
+ANSWER: jeff
+PROMPT:  Mary journeyed to the bedroom.
+Jeff went back to the bedroom.
+Jeff passed the football to Mary.
+Mary passed the football to Jeff.
+Who gave the football to Jeff?
+Mary
+
+Bill went to the garden.
+Jeff went back to the bedroom.
+Mary went to the bedroom.
+Fred took the milk there.
+Jeff took the football there.
+Jeff passed the football to Mary.
+Who gave the football?
+Jeff
+
+Fred put down the milk.
+Mary gave the football to Jeff.
+What did Mary give to Jeff?
+football
+
+Jeff discarded the football.
+Bill went to the office.
+Who gave the football?
+
+ANSWER: mary
+PROMPT:  Mary journeyed to the bedroom.
+Jeff went back to the bedroom.
+Jeff passed the football to Mary.
+Mary passed the football to Jeff.
+Who gave the football to Jeff?
+Mary
+
+Bill went to the garden.
+Jeff went back to the bedroom.
+Mary went to the bedroom.
+Fred took the milk there.
+Jeff took the football there.
+Jeff passed the football to Mary.
+Who gave the football?
+Jeff
+
+Fred put down the milk.
+Mary gave the football to Jeff.
+What did Mary give to Jeff?
+football
+
+Jeff discarded the football.
+Bill went to the office.
+Who gave the football?
+Mary
+
+Mary picked up the football there.
+Mary handed the football to Jeff.
+What did Mary give to Jeff?
+
+ANSWER: john set the books down
+PROMPT:  Fred went to the kitchen.
+Mary journeyed to the bathroom.
+Who gave the football to Jeff?
+
+ANSWER: who gave the ball to
+PROMPT:  Fred went to the kitchen.
+Mary journeyed to the bathroom.
+Who gave the football to Jeff?
+Mary
+
+Bill moved to the office.
+Bill moved to the kitchen.
+Fred got the milk there.
+Fred dropped the milk.
+Fred grabbed the milk there.
+Fred discarded the milk.
+Jeff journeyed to the garden.
+Mary moved to the kitchen.
+Fred took the milk there.
+Fred put down the milk.
+Jeff journeyed to the kitchen.
+Jeff travelled to the garden.
+Bill went back to the office.
+Fred got the milk there.
+Bill moved to the hallway.
+Fred went back to the office.
+Jeff journeyed to the bathroom.
+Fred discarded the milk.
+Fred picked up the milk there.
+Jeff went to the garden.
+Mary moved to the garden.
+Fred put down the milk there.
+Fred got the milk there.
+Mary took the apple there.
+Mary moved to the hallway.
+Bill went to the kitchen.
+Jeff picked up the football there.
+Jeff travelled to the kitchen.
+Fred travelled to the bathroom.
+Jeff gave the football to Bill.
+Who gave the football?
+
+ANSWER: all
+PROMPT:  Fred went to the kitchen.
+Mary journeyed to the bathroom.
+Who gave the football to Jeff?
+Mary
+
+Bill moved to the office.
+Bill moved to the kitchen.
+Fred got the milk there.
+Fred dropped the milk.
+Fred grabbed the milk there.
+Fred discarded the milk.
+Jeff journeyed to the garden.
+Mary moved to the kitchen.
+Fred took the milk there.
+Fred put down the milk.
+Jeff journeyed to the kitchen.
+Jeff travelled to the garden.
+Bill went back to the office.
+Fred got the milk there.
+Bill moved to the hallway.
+Fred went back to the office.
+Jeff journeyed to the bathroom.
+Fred discarded the milk.
+Fred picked up the milk there.
+Jeff went to the garden.
+Mary moved to the garden.
+Fred put down the milk there.
+Fred got the milk there.
+Mary took the apple there.
+Mary moved to the hallway.
+Bill went to the kitchen.
+Jeff picked up the football there.
+Jeff travelled to the kitchen.
+Fred travelled to the bathroom.
+Jeff gave the football to Bill.
+Who gave the football?
+Jeff
+
+Fred put down the milk there.
+Bill handed the football to Jeff.
+What did Bill give to Jeff?
+
+ANSWER: fred
+PROMPT:  Fred went to the kitchen.
+Mary journeyed to the bathroom.
+Who gave the football to Jeff?
+Mary
+
+Bill moved to the office.
+Bill moved to the kitchen.
+Fred got the milk there.
+Fred dropped the milk.
+Fred grabbed the milk there.
+Fred discarded the milk.
+Jeff journeyed to the garden.
+Mary moved to the kitchen.
+Fred took the milk there.
+Fred put down the milk.
+Jeff journeyed to the kitchen.
+Jeff travelled to the garden.
+Bill went back to the office.
+Fred got the milk there.
+Bill moved to the hallway.
+Fred went back to the office.
+Jeff journeyed to the bathroom.
+Fred discarded the milk.
+Fred picked up the milk there.
+Jeff went to the garden.
+Mary moved to the garden.
+Fred put down the milk there.
+Fred got the milk there.
+Mary took the apple there.
+Mary moved to the hallway.
+Bill went to the kitchen.
+Jeff picked up the football there.
+Jeff travelled to the kitchen.
+Fred travelled to the bathroom.
+Jeff gave the football to Bill.
+Who gave the football?
+Jeff
+
+Fred put down the milk there.
+Bill handed the football to Jeff.
+What did Bill give to Jeff?
+football
+
+Jeff gave the football to Bill.
+Bill passed the football to Jeff.
+Who gave the football to Jeff?
+
+ANSWER: bill
+PROMPT:  Fred went to the kitchen.
+Mary journeyed to the bathroom.
+Who gave the football to Jeff?
+Mary
+
+Bill moved to the office.
+Bill moved to the kitchen.
+Fred got the milk there.
+Fred dropped the milk.
+Fred grabbed the milk there.
+Fred discarded the milk.
+Jeff journeyed to the garden.
+Mary moved to the kitchen.
+Fred took the milk there.
+Fred put down the milk.
+Jeff journeyed to the kitchen.
+Jeff travelled to the garden.
+Bill went back to the office.
+Fred got the milk there.
+Bill moved to the hallway.
+Fred went back to the office.
+Jeff journeyed to the bathroom.
+Fred discarded the milk.
+Fred picked up the milk there.
+Jeff went to the garden.
+Mary moved to the garden.
+Fred put down the milk there.
+Fred got the milk there.
+Mary took the apple there.
+Mary moved to the hallway.
+Bill went to the kitchen.
+Jeff picked up the football there.
+Jeff travelled to the kitchen.
+Fred travelled to the bathroom.
+Jeff gave the football to Bill.
+Who gave the football?
+Jeff
+
+Fred put down the milk there.
+Bill handed the football to Jeff.
+What did Bill give to Jeff?
+football
+
+Jeff gave the football to Bill.
+Bill passed the football to Jeff.
+Who gave the football to Jeff?
+Bill
+
+Fred grabbed the milk there.
+Jeff handed the football to Bill.
+What did Jeff give to Bill?
+
+ANSWER: milk
+PROMPT:  Bill gave the football to Jeff.
+Jeff handed the football to Bill.
+What did Jeff give to Bill?
+
+ANSWER: 
+PROMPT:  Bill gave the football to Jeff.
+Jeff handed the football to Bill.
+What did Jeff give to Bill?
+football
+
+Bill got the apple there.
+Mary got the football there.
+Jeff went to the garden.
+Mary went to the bedroom.
+Bill went to the bedroom.
+Fred moved to the office.
+Bill passed the apple to Mary.
+Mary handed the apple to Bill.
+What did Mary give to Bill?
+
+ANSWER: apple
+PROMPT:  Bill gave the football to Jeff.
+Jeff handed the football to Bill.
+What did Jeff give to Bill?
+football
+
+Bill got the apple there.
+Mary got the football there.
+Jeff went to the garden.
+Mary went to the bedroom.
+Bill went to the bedroom.
+Fred moved to the office.
+Bill passed the apple to Mary.
+Mary handed the apple to Bill.
+What did Mary give to Bill?
+apple
+
+Bill passed the apple to Mary.
+Mary passed the apple to Bill.
+Who gave the apple to Bill?
+
+ANSWER: fred
+PROMPT:  Bill gave the football to Jeff.
+Jeff handed the football to Bill.
+What did Jeff give to Bill?
+football
+
+Bill got the apple there.
+Mary got the football there.
+Jeff went to the garden.
+Mary went to the bedroom.
+Bill went to the bedroom.
+Fred moved to the office.
+Bill passed the apple to Mary.
+Mary handed the apple to Bill.
+What did Mary give to Bill?
+apple
+
+Bill passed the apple to Mary.
+Mary passed the apple to Bill.
+Who gave the apple to Bill?
+Mary
+
+Jeff journeyed to the bathroom.
+Mary put down the football.
+Who gave the apple to Bill?
+
+ANSWER: mary
+PROMPT:  Bill gave the football to Jeff.
+Jeff handed the football to Bill.
+What did Jeff give to Bill?
+football
+
+Bill got the apple there.
+Mary got the football there.
+Jeff went to the garden.
+Mary went to the bedroom.
+Bill went to the bedroom.
+Fred moved to the office.
+Bill passed the apple to Mary.
+Mary handed the apple to Bill.
+What did Mary give to Bill?
+apple
+
+Bill passed the apple to Mary.
+Mary passed the apple to Bill.
+Who gave the apple to Bill?
+Mary
+
+Jeff journeyed to the bathroom.
+Mary put down the football.
+Who gave the apple to Bill?
+Mary
+
+Mary took the football there.
+Bill travelled to the garden.
+Who gave the apple to Bill?
+
+ANSWER: mary
+PROMPT:  Bill travelled to the hallway.
+Mary left the football.
+Fred went back to the bedroom.
+Jeff got the milk there.
+Mary journeyed to the bathroom.
+Bill dropped the apple there.
+Fred got the football there.
+Mary moved to the garden.
+Fred went to the hallway.
+Fred gave the football to Bill.
+Who gave the football to Bill?
+
+ANSWER: no one
+PROMPT:  Bill travelled to the hallway.
+Mary left the football.
+Fred went back to the bedroom.
+Jeff got the milk there.
+Mary journeyed to the bathroom.
+Bill dropped the apple there.
+Fred got the football there.
+Mary moved to the garden.
+Fred went to the hallway.
+Fred gave the football to Bill.
+Who gave the football to Bill?
+Fred
+
+Jeff moved to the office.
+Mary went back to the bathroom.
+Jeff got the apple there.
+Jeff went to the hallway.
+Jeff passed the apple to Bill.
+Bill passed the apple to Jeff.
+Who did Bill give the apple to?
+
+ANSWER: fred
+PROMPT:  Bill travelled to the hallway.
+Mary left the football.
+Fred went back to the bedroom.
+Jeff got the milk there.
+Mary journeyed to the bathroom.
+Bill dropped the apple there.
+Fred got the football there.
+Mary moved to the garden.
+Fred went to the hallway.
+Fred gave the football to Bill.
+Who gave the football to Bill?
+Fred
+
+Jeff moved to the office.
+Mary went back to the bathroom.
+Jeff got the apple there.
+Jeff went to the hallway.
+Jeff passed the apple to Bill.
+Bill passed the apple to Jeff.
+Who did Bill give the apple to?
+Jeff
+
+Jeff passed the apple to Bill.
+Fred travelled to the kitchen.
+Who received the apple?
+
+ANSWER: fred
+PROMPT:  Bill travelled to the hallway.
+Mary left the football.
+Fred went back to the bedroom.
+Jeff got the milk there.
+Mary journeyed to the bathroom.
+Bill dropped the apple there.
+Fred got the football there.
+Mary moved to the garden.
+Fred went to the hallway.
+Fred gave the football to Bill.
+Who gave the football to Bill?
+Fred
+
+Jeff moved to the office.
+Mary went back to the bathroom.
+Jeff got the apple there.
+Jeff went to the hallway.
+Jeff passed the apple to Bill.
+Bill passed the apple to Jeff.
+Who did Bill give the apple to?
+Jeff
+
+Jeff passed the apple to Bill.
+Fred travelled to the kitchen.
+Who received the apple?
+Bill
+
+Bill passed the apple to Jeff.
+Mary journeyed to the garden.
+Who gave the apple to Jeff?
+
+ANSWER: fred
+PROMPT:  Bill travelled to the hallway.
+Mary left the football.
+Fred went back to the bedroom.
+Jeff got the milk there.
+Mary journeyed to the bathroom.
+Bill dropped the apple there.
+Fred got the football there.
+Mary moved to the garden.
+Fred went to the hallway.
+Fred gave the football to Bill.
+Who gave the football to Bill?
+Fred
+
+Jeff moved to the office.
+Mary went back to the bathroom.
+Jeff got the apple there.
+Jeff went to the hallway.
+Jeff passed the apple to Bill.
+Bill passed the apple to Jeff.
+Who did Bill give the apple to?
+Jeff
+
+Jeff passed the apple to Bill.
+Fred travelled to the kitchen.
+Who received the apple?
+Bill
+
+Bill passed the apple to Jeff.
+Mary journeyed to the garden.
+Who gave the apple to Jeff?
+Bill
+
+Jeff passed the apple to Bill.
+Bill went back to the bathroom.
+Who did Jeff give the apple to?
+
+ANSWER: bill
+PROMPT:  Bill put down the apple.
+Mary went to the kitchen.
+Who gave the apple?
+
+ANSWER: mary was slicing
+PROMPT:  Bill put down the apple.
+Mary went to the kitchen.
+Who gave the apple?
+Jeff
+
+Fred travelled to the kitchen.
+Bill went to the hallway.
+Mary went to the bedroom.
+Bill journeyed to the kitchen.
+Fred went back to the hallway.
+Mary moved to the office.
+Bill travelled to the hallway.
+Mary went back to the bedroom.
+Bill travelled to the kitchen.
+Fred went to the kitchen.
+Fred moved to the bedroom.
+Bill went back to the garden.
+Mary went to the kitchen.
+Fred went to the hallway.
+Mary moved to the hallway.
+Mary travelled to the office.
+Mary travelled to the kitchen.
+Bill went back to the hallway.
+Mary travelled to the garden.
+Fred moved to the office.
+Fred moved to the garden.
+Bill journeyed to the office.
+Bill picked up the milk there.
+Bill put down the milk.
+Bill moved to the garden.
+Mary moved to the bedroom.
+Fred went back to the bedroom.
+Jeff went to the garden.
+Bill travelled to the office.
+Fred moved to the bathroom.
+Bill got the milk there.
+Fred went back to the bedroom.
+Mary travelled to the office.
+Mary travelled to the garden.
+Jeff went back to the hallway.
+Fred moved to the garden.
+Bill went back to the bedroom.
+Fred went back to the office.
+Bill went back to the garden.
+Bill handed the milk to Mary.
+Who did Bill give the milk to?
+
+ANSWER: mary
+PROMPT:  Bill put down the apple.
+Mary went to the kitchen.
+Who gave the apple?
+Jeff
+
+Fred travelled to the kitchen.
+Bill went to the hallway.
+Mary went to the bedroom.
+Bill journeyed to the kitchen.
+Fred went back to the hallway.
+Mary moved to the office.
+Bill travelled to the hallway.
+Mary went back to the bedroom.
+Bill travelled to the kitchen.
+Fred went to the kitchen.
+Fred moved to the bedroom.
+Bill went back to the garden.
+Mary went to the kitchen.
+Fred went to the hallway.
+Mary moved to the hallway.
+Mary travelled to the office.
+Mary travelled to the kitchen.
+Bill went back to the hallway.
+Mary travelled to the garden.
+Fred moved to the office.
+Fred moved to the garden.
+Bill journeyed to the office.
+Bill picked up the milk there.
+Bill put down the milk.
+Bill moved to the garden.
+Mary moved to the bedroom.
+Fred went back to the bedroom.
+Jeff went to the garden.
+Bill travelled to the office.
+Fred moved to the bathroom.
+Bill got the milk there.
+Fred went back to the bedroom.
+Mary travelled to the office.
+Mary travelled to the garden.
+Jeff went back to the hallway.
+Fred moved to the garden.
+Bill went back to the bedroom.
+Fred went back to the office.
+Bill went back to the garden.
+Bill handed the milk to Mary.
+Who did Bill give the milk to?
+Mary
+
+Mary handed the milk to Bill.
+Bill gave the milk to Mary.
+Who gave the milk to Mary?
+
+ANSWER: jeff
+PROMPT:  Bill put down the apple.
+Mary went to the kitchen.
+Who gave the apple?
+Jeff
+
+Fred travelled to the kitchen.
+Bill went to the hallway.
+Mary went to the bedroom.
+Bill journeyed to the kitchen.
+Fred went back to the hallway.
+Mary moved to the office.
+Bill travelled to the hallway.
+Mary went back to the bedroom.
+Bill travelled to the kitchen.
+Fred went to the kitchen.
+Fred moved to the bedroom.
+Bill went back to the garden.
+Mary went to the kitchen.
+Fred went to the hallway.
+Mary moved to the hallway.
+Mary travelled to the office.
+Mary travelled to the kitchen.
+Bill went back to the hallway.
+Mary travelled to the garden.
+Fred moved to the office.
+Fred moved to the garden.
+Bill journeyed to the office.
+Bill picked up the milk there.
+Bill put down the milk.
+Bill moved to the garden.
+Mary moved to the bedroom.
+Fred went back to the bedroom.
+Jeff went to the garden.
+Bill travelled to the office.
+Fred moved to the bathroom.
+Bill got the milk there.
+Fred went back to the bedroom.
+Mary travelled to the office.
+Mary travelled to the garden.
+Jeff went back to the hallway.
+Fred moved to the garden.
+Bill went back to the bedroom.
+Fred went back to the office.
+Bill went back to the garden.
+Bill handed the milk to Mary.
+Who did Bill give the milk to?
+Mary
+
+Mary handed the milk to Bill.
+Bill gave the milk to Mary.
+Who gave the milk to Mary?
+Bill
+
+Mary passed the milk to Bill.
+Bill handed the milk to Mary.
+Who did Bill give the milk to?
+
+ANSWER: mary
+PROMPT:  Bill put down the apple.
+Mary went to the kitchen.
+Who gave the apple?
+Jeff
+
+Fred travelled to the kitchen.
+Bill went to the hallway.
+Mary went to the bedroom.
+Bill journeyed to the kitchen.
+Fred went back to the hallway.
+Mary moved to the office.
+Bill travelled to the hallway.
+Mary went back to the bedroom.
+Bill travelled to the kitchen.
+Fred went to the kitchen.
+Fred moved to the bedroom.
+Bill went back to the garden.
+Mary went to the kitchen.
+Fred went to the hallway.
+Mary moved to the hallway.
+Mary travelled to the office.
+Mary travelled to the kitchen.
+Bill went back to the hallway.
+Mary travelled to the garden.
+Fred moved to the office.
+Fred moved to the garden.
+Bill journeyed to the office.
+Bill picked up the milk there.
+Bill put down the milk.
+Bill moved to the garden.
+Mary moved to the bedroom.
+Fred went back to the bedroom.
+Jeff went to the garden.
+Bill travelled to the office.
+Fred moved to the bathroom.
+Bill got the milk there.
+Fred went back to the bedroom.
+Mary travelled to the office.
+Mary travelled to the garden.
+Jeff went back to the hallway.
+Fred moved to the garden.
+Bill went back to the bedroom.
+Fred went back to the office.
+Bill went back to the garden.
+Bill handed the milk to Mary.
+Who did Bill give the milk to?
+Mary
+
+Mary handed the milk to Bill.
+Bill gave the milk to Mary.
+Who gave the milk to Mary?
+Bill
+
+Mary passed the milk to Bill.
+Bill handed the milk to Mary.
+Who did Bill give the milk to?
+Mary
+
+Mary handed the milk to Bill.
+Bill gave the milk to Mary.
+What did Bill give to Mary?
+
+ANSWER: andy
+PROMPT:  Fred went back to the kitchen.
+Mary gave the milk to Bill.
+Who gave the milk to Bill?
+
+ANSWER: that's right!
+PROMPT:  Fred went back to the kitchen.
+Mary gave the milk to Bill.
+Who gave the milk to Bill?
+Mary
+
+Jeff went back to the kitchen.
+Jeff grabbed the football there.
+Jeff travelled to the bedroom.
+Jeff travelled to the bathroom.
+Fred moved to the kitchen.
+Bill travelled to the kitchen.
+Jeff went back to the bedroom.
+Bill got the milk there.
+Mary went back to the bathroom.
+Jeff put down the football.
+Mary moved to the office.
+Bill went back to the hallway.
+Jeff journeyed to the bathroom.
+Fred travelled to the bedroom.
+Bill journeyed to the kitchen.
+Jeff picked up the apple there.
+Fred went back to the kitchen.
+Bill passed the milk to Fred.
+Who received the milk?
+
+ANSWER: fred
+PROMPT:  Fred went back to the kitchen.
+Mary gave the milk to Bill.
+Who gave the milk to Bill?
+Mary
+
+Jeff went back to the kitchen.
+Jeff grabbed the football there.
+Jeff travelled to the bedroom.
+Jeff travelled to the bathroom.
+Fred moved to the kitchen.
+Bill travelled to the kitchen.
+Jeff went back to the bedroom.
+Bill got the milk there.
+Mary went back to the bathroom.
+Jeff put down the football.
+Mary moved to the office.
+Bill went back to the hallway.
+Jeff journeyed to the bathroom.
+Fred travelled to the bedroom.
+Bill journeyed to the kitchen.
+Jeff picked up the apple there.
+Fred went back to the kitchen.
+Bill passed the milk to Fred.
+Who received the milk?
+Fred
+
+Mary went to the hallway.
+Fred went back to the hallway.
+Who gave the milk?
+
+ANSWER: fred
+PROMPT:  Fred went back to the kitchen.
+Mary gave the milk to Bill.
+Who gave the milk to Bill?
+Mary
+
+Jeff went back to the kitchen.
+Jeff grabbed the football there.
+Jeff travelled to the bedroom.
+Jeff travelled to the bathroom.
+Fred moved to the kitchen.
+Bill travelled to the kitchen.
+Jeff went back to the bedroom.
+Bill got the milk there.
+Mary went back to the bathroom.
+Jeff put down the football.
+Mary moved to the office.
+Bill went back to the hallway.
+Jeff journeyed to the bathroom.
+Fred travelled to the bedroom.
+Bill journeyed to the kitchen.
+Jeff picked up the apple there.
+Fred went back to the kitchen.
+Bill passed the milk to Fred.
+Who received the milk?
+Fred
+
+Mary went to the hallway.
+Fred went back to the hallway.
+Who gave the milk?
+Bill
+
+Fred passed the milk to Mary.
+Bill moved to the bathroom.
+Who received the milk?
+
+ANSWER: mary
+PROMPT:  Fred went back to the kitchen.
+Mary gave the milk to Bill.
+Who gave the milk to Bill?
+Mary
+
+Jeff went back to the kitchen.
+Jeff grabbed the football there.
+Jeff travelled to the bedroom.
+Jeff travelled to the bathroom.
+Fred moved to the kitchen.
+Bill travelled to the kitchen.
+Jeff went back to the bedroom.
+Bill got the milk there.
+Mary went back to the bathroom.
+Jeff put down the football.
+Mary moved to the office.
+Bill went back to the hallway.
+Jeff journeyed to the bathroom.
+Fred travelled to the bedroom.
+Bill journeyed to the kitchen.
+Jeff picked up the apple there.
+Fred went back to the kitchen.
+Bill passed the milk to Fred.
+Who received the milk?
+Fred
+
+Mary went to the hallway.
+Fred went back to the hallway.
+Who gave the milk?
+Bill
+
+Fred passed the milk to Mary.
+Bill moved to the bathroom.
+Who received the milk?
+Mary
+
+Fred moved to the bathroom.
+Jeff moved to the hallway.
+Who gave the milk?
+
+ANSWER: jeff and mary
+PROMPT:  Jeff travelled to the bedroom.
+Fred went back to the bedroom.
+Jeff left the apple.
+Mary travelled to the garden.
+Fred picked up the apple there.
+Fred discarded the apple.
+Jeff got the apple there.
+Jeff got the football there.
+Bill journeyed to the kitchen.
+Jeff went to the hallway.
+Fred went back to the bathroom.
+Fred moved to the garden.
+Mary handed the milk to Fred.
+Fred discarded the milk.
+What did Mary give to Fred?
+
+ANSWER: mary gave the bmw to
+PROMPT:  Jeff travelled to the bedroom.
+Fred went back to the bedroom.
+Jeff left the apple.
+Mary travelled to the garden.
+Fred picked up the apple there.
+Fred discarded the apple.
+Jeff got the apple there.
+Jeff got the football there.
+Bill journeyed to the kitchen.
+Jeff went to the hallway.
+Fred went back to the bathroom.
+Fred moved to the garden.
+Mary handed the milk to Fred.
+Fred discarded the milk.
+What did Mary give to Fred?
+milk
+
+Jeff took the milk there.
+Jeff dropped the milk.
+Jeff took the milk there.
+Jeff left the milk.
+Fred moved to the bathroom.
+Jeff picked up the milk there.
+Jeff passed the milk to Fred.
+Fred gave the milk to Jeff.
+What did Fred give to Jeff?
+
+ANSWER: milk
+PROMPT:  Jeff travelled to the bedroom.
+Fred went back to the bedroom.
+Jeff left the apple.
+Mary travelled to the garden.
+Fred picked up the apple there.
+Fred discarded the apple.
+Jeff got the apple there.
+Jeff got the football there.
+Bill journeyed to the kitchen.
+Jeff went to the hallway.
+Fred went back to the bathroom.
+Fred moved to the garden.
+Mary handed the milk to Fred.
+Fred discarded the milk.
+What did Mary give to Fred?
+milk
+
+Jeff took the milk there.
+Jeff dropped the milk.
+Jeff took the milk there.
+Jeff left the milk.
+Fred moved to the bathroom.
+Jeff picked up the milk there.
+Jeff passed the milk to Fred.
+Fred gave the milk to Jeff.
+What did Fred give to Jeff?
+milk
+
+Fred went back to the hallway.
+Fred journeyed to the bathroom.
+Who did Fred give the milk to?
+
+ANSWER: mary
+PROMPT:  Jeff travelled to the bedroom.
+Fred went back to the bedroom.
+Jeff left the apple.
+Mary travelled to the garden.
+Fred picked up the apple there.
+Fred discarded the apple.
+Jeff got the apple there.
+Jeff got the football there.
+Bill journeyed to the kitchen.
+Jeff went to the hallway.
+Fred went back to the bathroom.
+Fred moved to the garden.
+Mary handed the milk to Fred.
+Fred discarded the milk.
+What did Mary give to Fred?
+milk
+
+Jeff took the milk there.
+Jeff dropped the milk.
+Jeff took the milk there.
+Jeff left the milk.
+Fred moved to the bathroom.
+Jeff picked up the milk there.
+Jeff passed the milk to Fred.
+Fred gave the milk to Jeff.
+What did Fred give to Jeff?
+milk
+
+Fred went back to the hallway.
+Fred journeyed to the bathroom.
+Who did Fred give the milk to?
+Jeff
+
+Jeff handed the milk to Fred.
+Fred handed the milk to Jeff.
+Who received the milk?
+
+ANSWER: fred
+PROMPT:  Jeff travelled to the bedroom.
+Fred went back to the bedroom.
+Jeff left the apple.
+Mary travelled to the garden.
+Fred picked up the apple there.
+Fred discarded the apple.
+Jeff got the apple there.
+Jeff got the football there.
+Bill journeyed to the kitchen.
+Jeff went to the hallway.
+Fred went back to the bathroom.
+Fred moved to the garden.
+Mary handed the milk to Fred.
+Fred discarded the milk.
+What did Mary give to Fred?
+milk
+
+Jeff took the milk there.
+Jeff dropped the milk.
+Jeff took the milk there.
+Jeff left the milk.
+Fred moved to the bathroom.
+Jeff picked up the milk there.
+Jeff passed the milk to Fred.
+Fred gave the milk to Jeff.
+What did Fred give to Jeff?
+milk
+
+Fred went back to the hallway.
+Fred journeyed to the bathroom.
+Who did Fred give the milk to?
+Jeff
+
+Jeff handed the milk to Fred.
+Fred handed the milk to Jeff.
+Who received the milk?
+Jeff
+
+Jeff gave the milk to Fred.
+Fred passed the milk to Jeff.
+What did Fred give to Jeff?
+
+ANSWER: milk
+PROMPT:  Fred journeyed to the bedroom.
+Fred moved to the kitchen.
+Who gave the milk to Jeff?
+
+ANSWER: fred looked up jeff
+PROMPT:  Fred journeyed to the bedroom.
+Fred moved to the kitchen.
+Who gave the milk to Jeff?
+Fred
+
+Fred moved to the bathroom.
+Jeff went to the hallway.
+Fred journeyed to the bedroom.
+Jeff took the football there.
+Bill travelled to the kitchen.
+Bill took the apple there.
+Fred travelled to the kitchen.
+Mary went back to the kitchen.
+Bill gave the apple to Mary.
+Mary gave the apple to Fred.
+What did Mary give to Fred?
+
+ANSWER: mary
+PROMPT:  Fred journeyed to the bedroom.
+Fred moved to the kitchen.
+Who gave the milk to Jeff?
+Fred
+
+Fred moved to the bathroom.
+Jeff went to the hallway.
+Fred journeyed to the bedroom.
+Jeff took the football there.
+Bill travelled to the kitchen.
+Bill took the apple there.
+Fred travelled to the kitchen.
+Mary went back to the kitchen.
+Bill gave the apple to Mary.
+Mary gave the apple to Fred.
+What did Mary give to Fred?
+apple
+
+Fred passed the apple to Mary.
+Fred went to the bathroom.
+Who gave the apple to Mary?
+
+ANSWER: apple
+PROMPT:  Fred journeyed to the bedroom.
+Fred moved to the kitchen.
+Who gave the milk to Jeff?
+Fred
+
+Fred moved to the bathroom.
+Jeff went to the hallway.
+Fred journeyed to the bedroom.
+Jeff took the football there.
+Bill travelled to the kitchen.
+Bill took the apple there.
+Fred travelled to the kitchen.
+Mary went back to the kitchen.
+Bill gave the apple to Mary.
+Mary gave the apple to Fred.
+What did Mary give to Fred?
+apple
+
+Fred passed the apple to Mary.
+Fred went to the bathroom.
+Who gave the apple to Mary?
+Fred
+
+Mary handed the apple to Bill.
+Fred went to the bedroom.
+Who received the apple?
+
+ANSWER: bill passed the apple to
+PROMPT:  Fred journeyed to the bedroom.
+Fred moved to the kitchen.
+Who gave the milk to Jeff?
+Fred
+
+Fred moved to the bathroom.
+Jeff went to the hallway.
+Fred journeyed to the bedroom.
+Jeff took the football there.
+Bill travelled to the kitchen.
+Bill took the apple there.
+Fred travelled to the kitchen.
+Mary went back to the kitchen.
+Bill gave the apple to Mary.
+Mary gave the apple to Fred.
+What did Mary give to Fred?
+apple
+
+Fred passed the apple to Mary.
+Fred went to the bathroom.
+Who gave the apple to Mary?
+Fred
+
+Mary handed the apple to Bill.
+Fred went to the bedroom.
+Who received the apple?
+Bill
+
+Bill dropped the apple.
+Mary picked up the apple there.
+What did Mary give to Bill?
+
+ANSWER: apple
+PROMPT:  Jeff discarded the football.
+Mary travelled to the bedroom.
+Mary handed the apple to Fred.
+Fred handed the apple to Mary.
+What did Fred give to Mary?
+
+ANSWER: mary handed fred the apple
+PROMPT:  Jeff discarded the football.
+Mary travelled to the bedroom.
+Mary handed the apple to Fred.
+Fred handed the apple to Mary.
+What did Fred give to Mary?
+apple
+
+Mary went to the hallway.
+Jeff picked up the milk there.
+Fred travelled to the office.
+Jeff grabbed the football there.
+Bill moved to the bedroom.
+Jeff left the football.
+Jeff left the milk there.
+Jeff got the milk there.
+Mary went back to the kitchen.
+Jeff picked up the football there.
+Jeff discarded the milk.
+Bill grabbed the apple there.
+Bill went back to the hallway.
+Fred went back to the hallway.
+Bill gave the apple to Fred.
+Mary went back to the bedroom.
+What did Bill give to Fred?
+
+ANSWER: there were two cups in
+PROMPT:  Jeff discarded the football.
+Mary travelled to the bedroom.
+Mary handed the apple to Fred.
+Fred handed the apple to Mary.
+What did Fred give to Mary?
+apple
+
+Mary went to the hallway.
+Jeff picked up the milk there.
+Fred travelled to the office.
+Jeff grabbed the football there.
+Bill moved to the bedroom.
+Jeff left the football.
+Jeff left the milk there.
+Jeff got the milk there.
+Mary went back to the kitchen.
+Jeff picked up the football there.
+Jeff discarded the milk.
+Bill grabbed the apple there.
+Bill went back to the hallway.
+Fred went back to the hallway.
+Bill gave the apple to Fred.
+Mary went back to the bedroom.
+What did Bill give to Fred?
+apple
+
+Jeff put down the football.
+Fred handed the apple to Bill.
+Who gave the apple?
+
+ANSWER: fred - bill
+PROMPT:  Jeff discarded the football.
+Mary travelled to the bedroom.
+Mary handed the apple to Fred.
+Fred handed the apple to Mary.
+What did Fred give to Mary?
+apple
+
+Mary went to the hallway.
+Jeff picked up the milk there.
+Fred travelled to the office.
+Jeff grabbed the football there.
+Bill moved to the bedroom.
+Jeff left the football.
+Jeff left the milk there.
+Jeff got the milk there.
+Mary went back to the kitchen.
+Jeff picked up the football there.
+Jeff discarded the milk.
+Bill grabbed the apple there.
+Bill went back to the hallway.
+Fred went back to the hallway.
+Bill gave the apple to Fred.
+Mary went back to the bedroom.
+What did Bill give to Fred?
+apple
+
+Jeff put down the football.
+Fred handed the apple to Bill.
+Who gave the apple?
+Fred
+
+Bill put down the apple.
+Bill picked up the apple there.
+What did Fred give to Bill?
+
+ANSWER: apple
+PROMPT:  Jeff discarded the football.
+Mary travelled to the bedroom.
+Mary handed the apple to Fred.
+Fred handed the apple to Mary.
+What did Fred give to Mary?
+apple
+
+Mary went to the hallway.
+Jeff picked up the milk there.
+Fred travelled to the office.
+Jeff grabbed the football there.
+Bill moved to the bedroom.
+Jeff left the football.
+Jeff left the milk there.
+Jeff got the milk there.
+Mary went back to the kitchen.
+Jeff picked up the football there.
+Jeff discarded the milk.
+Bill grabbed the apple there.
+Bill went back to the hallway.
+Fred went back to the hallway.
+Bill gave the apple to Fred.
+Mary went back to the bedroom.
+What did Bill give to Fred?
+apple
+
+Jeff put down the football.
+Fred handed the apple to Bill.
+Who gave the apple?
+Fred
+
+Bill put down the apple.
+Bill picked up the apple there.
+What did Fred give to Bill?
+apple
+
+Bill passed the apple to Fred.
+Bill travelled to the bedroom.
+Who gave the apple?
+
+ANSWER: fred
+PROMPT:  Jeff picked up the football there.
+Jeff dropped the football there.
+What did Bill give to Fred?
+
+ANSWER: bill gave the hand-
+PROMPT:  Jeff picked up the football there.
+Jeff dropped the football there.
+What did Bill give to Fred?
+apple
+
+Mary journeyed to the office.
+Mary moved to the garden.
+Fred moved to the office.
+Mary travelled to the bedroom.
+Mary grabbed the milk there.
+Jeff travelled to the bedroom.
+Fred went back to the garden.
+Jeff travelled to the garden.
+Fred moved to the kitchen.
+Mary journeyed to the garden.
+Mary passed the milk to Jeff.
+Jeff gave the milk to Mary.
+Who gave the milk?
+
+ANSWER: alan
+PROMPT:  Jeff picked up the football there.
+Jeff dropped the football there.
+What did Bill give to Fred?
+apple
+
+Mary journeyed to the office.
+Mary moved to the garden.
+Fred moved to the office.
+Mary travelled to the bedroom.
+Mary grabbed the milk there.
+Jeff travelled to the bedroom.
+Fred went back to the garden.
+Jeff travelled to the garden.
+Fred moved to the kitchen.
+Mary journeyed to the garden.
+Mary passed the milk to Jeff.
+Jeff gave the milk to Mary.
+Who gave the milk?
+Jeff
+
+Fred travelled to the bathroom.
+Mary gave the milk to Jeff.
+Who gave the milk to Jeff?
+
+ANSWER: mary
+PROMPT:  Jeff picked up the football there.
+Jeff dropped the football there.
+What did Bill give to Fred?
+apple
+
+Mary journeyed to the office.
+Mary moved to the garden.
+Fred moved to the office.
+Mary travelled to the bedroom.
+Mary grabbed the milk there.
+Jeff travelled to the bedroom.
+Fred went back to the garden.
+Jeff travelled to the garden.
+Fred moved to the kitchen.
+Mary journeyed to the garden.
+Mary passed the milk to Jeff.
+Jeff gave the milk to Mary.
+Who gave the milk?
+Jeff
+
+Fred travelled to the bathroom.
+Mary gave the milk to Jeff.
+Who gave the milk to Jeff?
+Mary
+
+Fred went back to the office.
+Jeff passed the milk to Mary.
+Who did Jeff give the milk to?
+
+ANSWER: mary
+PROMPT:  Jeff picked up the football there.
+Jeff dropped the football there.
+What did Bill give to Fred?
+apple
+
+Mary journeyed to the office.
+Mary moved to the garden.
+Fred moved to the office.
+Mary travelled to the bedroom.
+Mary grabbed the milk there.
+Jeff travelled to the bedroom.
+Fred went back to the garden.
+Jeff travelled to the garden.
+Fred moved to the kitchen.
+Mary journeyed to the garden.
+Mary passed the milk to Jeff.
+Jeff gave the milk to Mary.
+Who gave the milk?
+Jeff
+
+Fred travelled to the bathroom.
+Mary gave the milk to Jeff.
+Who gave the milk to Jeff?
+Mary
+
+Fred went back to the office.
+Jeff passed the milk to Mary.
+Who did Jeff give the milk to?
+Mary
+
+Mary handed the milk to Jeff.
+Jeff passed the milk to Mary.
+What did Jeff give to Mary?
+
+ANSWER: karamel
+PROMPT:  Mary handed the milk to Jeff.
+Jeff passed the milk to Mary.
+Who received the milk?
+
+ANSWER: mary passed the milk to
+PROMPT:  Mary handed the milk to Jeff.
+Jeff passed the milk to Mary.
+Who received the milk?
+Mary
+
+Fred went back to the kitchen.
+Jeff went to the garden.
+Fred moved to the bathroom.
+Jeff went to the bathroom.
+Jeff journeyed to the hallway.
+Bill went to the hallway.
+Fred picked up the football there.
+Mary picked up the milk there.
+Mary journeyed to the office.
+Mary went to the kitchen.
+Mary discarded the milk.
+Mary picked up the milk there.
+Mary travelled to the bedroom.
+Mary moved to the garden.
+Mary dropped the milk there.
+Mary grabbed the milk there.
+Mary dropped the milk.
+Fred grabbed the apple there.
+Mary moved to the bedroom.
+Fred went back to the hallway.
+Bill travelled to the garden.
+Fred handed the apple to Jeff.
+What did Fred give to Jeff?
+
+ANSWER: mary
+PROMPT:  Mary handed the milk to Jeff.
+Jeff passed the milk to Mary.
+Who received the milk?
+Mary
+
+Fred went back to the kitchen.
+Jeff went to the garden.
+Fred moved to the bathroom.
+Jeff went to the bathroom.
+Jeff journeyed to the hallway.
+Bill went to the hallway.
+Fred picked up the football there.
+Mary picked up the milk there.
+Mary journeyed to the office.
+Mary went to the kitchen.
+Mary discarded the milk.
+Mary picked up the milk there.
+Mary travelled to the bedroom.
+Mary moved to the garden.
+Mary dropped the milk there.
+Mary grabbed the milk there.
+Mary dropped the milk.
+Fred grabbed the apple there.
+Mary moved to the bedroom.
+Fred went back to the hallway.
+Bill travelled to the garden.
+Fred handed the apple to Jeff.
+What did Fred give to Jeff?
+apple
+
+Jeff gave the apple to Fred.
+Bill travelled to the kitchen.
+What did Jeff give to Fred?
+
+ANSWER: apple
+PROMPT:  Mary handed the milk to Jeff.
+Jeff passed the milk to Mary.
+Who received the milk?
+Mary
+
+Fred went back to the kitchen.
+Jeff went to the garden.
+Fred moved to the bathroom.
+Jeff went to the bathroom.
+Jeff journeyed to the hallway.
+Bill went to the hallway.
+Fred picked up the football there.
+Mary picked up the milk there.
+Mary journeyed to the office.
+Mary went to the kitchen.
+Mary discarded the milk.
+Mary picked up the milk there.
+Mary travelled to the bedroom.
+Mary moved to the garden.
+Mary dropped the milk there.
+Mary grabbed the milk there.
+Mary dropped the milk.
+Fred grabbed the apple there.
+Mary moved to the bedroom.
+Fred went back to the hallway.
+Bill travelled to the garden.
+Fred handed the apple to Jeff.
+What did Fred give to Jeff?
+apple
+
+Jeff gave the apple to Fred.
+Bill travelled to the kitchen.
+What did Jeff give to Fred?
+apple
+
+Bill travelled to the bathroom.
+Fred gave the apple to Jeff.
+What did Fred give to Jeff?
+
+ANSWER: apple
+PROMPT:  Mary handed the milk to Jeff.
+Jeff passed the milk to Mary.
+Who received the milk?
+Mary
+
+Fred went back to the kitchen.
+Jeff went to the garden.
+Fred moved to the bathroom.
+Jeff went to the bathroom.
+Jeff journeyed to the hallway.
+Bill went to the hallway.
+Fred picked up the football there.
+Mary picked up the milk there.
+Mary journeyed to the office.
+Mary went to the kitchen.
+Mary discarded the milk.
+Mary picked up the milk there.
+Mary travelled to the bedroom.
+Mary moved to the garden.
+Mary dropped the milk there.
+Mary grabbed the milk there.
+Mary dropped the milk.
+Fred grabbed the apple there.
+Mary moved to the bedroom.
+Fred went back to the hallway.
+Bill travelled to the garden.
+Fred handed the apple to Jeff.
+What did Fred give to Jeff?
+apple
+
+Jeff gave the apple to Fred.
+Bill travelled to the kitchen.
+What did Jeff give to Fred?
+apple
+
+Bill travelled to the bathroom.
+Fred gave the apple to Jeff.
+What did Fred give to Jeff?
+apple
+
+Jeff passed the apple to Fred.
+Fred passed the apple to Jeff.
+Who gave the apple?
+
+ANSWER: mary
+PROMPT:  Jeff passed the apple to Fred.
+Fred left the football there.
+What did Jeff give to Fred?
+
+ANSWER: jump forward
+PROMPT:  Jeff passed the apple to Fred.
+Fred left the football there.
+What did Jeff give to Fred?
+apple
+
+Bill went back to the office.
+Fred went back to the bathroom.
+Mary travelled to the kitchen.
+Mary moved to the office.
+Mary journeyed to the kitchen.
+Mary journeyed to the garden.
+Fred journeyed to the hallway.
+Mary travelled to the hallway.
+Bill went back to the bedroom.
+Bill journeyed to the garden.
+Bill journeyed to the office.
+Mary went to the kitchen.
+Fred moved to the bathroom.
+Bill moved to the bedroom.
+Mary went to the hallway.
+Bill moved to the bathroom.
+Bill travelled to the hallway.
+Fred journeyed to the office.
+Bill went back to the kitchen.
+Mary went to the bedroom.
+Bill got the apple there.
+Mary got the football there.
+Fred journeyed to the bedroom.
+Bill put down the apple.
+Mary dropped the football.
+Fred moved to the hallway.
+Mary picked up the football there.
+Mary went to the garden.
+Mary put down the football.
+Mary travelled to the bathroom.
+Mary travelled to the office.
+Mary went to the garden.
+Mary picked up the football there.
+Fred moved to the garden.
+Mary handed the football to Fred.
+Fred handed the football to Mary.
+Who gave the football?
+
+ANSWER: tommy got 1 point
+PROMPT:  Jeff passed the apple to Fred.
+Fred left the football there.
+What did Jeff give to Fred?
+apple
+
+Bill went back to the office.
+Fred went back to the bathroom.
+Mary travelled to the kitchen.
+Mary moved to the office.
+Mary journeyed to the kitchen.
+Mary journeyed to the garden.
+Fred journeyed to the hallway.
+Mary travelled to the hallway.
+Bill went back to the bedroom.
+Bill journeyed to the garden.
+Bill journeyed to the office.
+Mary went to the kitchen.
+Fred moved to the bathroom.
+Bill moved to the bedroom.
+Mary went to the hallway.
+Bill moved to the bathroom.
+Bill travelled to the hallway.
+Fred journeyed to the office.
+Bill went back to the kitchen.
+Mary went to the bedroom.
+Bill got the apple there.
+Mary got the football there.
+Fred journeyed to the bedroom.
+Bill put down the apple.
+Mary dropped the football.
+Fred moved to the hallway.
+Mary picked up the football there.
+Mary went to the garden.
+Mary put down the football.
+Mary travelled to the bathroom.
+Mary travelled to the office.
+Mary went to the garden.
+Mary picked up the football there.
+Fred moved to the garden.
+Mary handed the football to Fred.
+Fred handed the football to Mary.
+Who gave the football?
+Fred
+
+Mary journeyed to the bedroom.
+Bill moved to the office.
+Who gave the football?
+
+ANSWER: fred
+PROMPT:  Jeff passed the apple to Fred.
+Fred left the football there.
+What did Jeff give to Fred?
+apple
+
+Bill went back to the office.
+Fred went back to the bathroom.
+Mary travelled to the kitchen.
+Mary moved to the office.
+Mary journeyed to the kitchen.
+Mary journeyed to the garden.
+Fred journeyed to the hallway.
+Mary travelled to the hallway.
+Bill went back to the bedroom.
+Bill journeyed to the garden.
+Bill journeyed to the office.
+Mary went to the kitchen.
+Fred moved to the bathroom.
+Bill moved to the bedroom.
+Mary went to the hallway.
+Bill moved to the bathroom.
+Bill travelled to the hallway.
+Fred journeyed to the office.
+Bill went back to the kitchen.
+Mary went to the bedroom.
+Bill got the apple there.
+Mary got the football there.
+Fred journeyed to the bedroom.
+Bill put down the apple.
+Mary dropped the football.
+Fred moved to the hallway.
+Mary picked up the football there.
+Mary went to the garden.
+Mary put down the football.
+Mary travelled to the bathroom.
+Mary travelled to the office.
+Mary went to the garden.
+Mary picked up the football there.
+Fred moved to the garden.
+Mary handed the football to Fred.
+Fred handed the football to Mary.
+Who gave the football?
+Fred
+
+Mary journeyed to the bedroom.
+Bill moved to the office.
+Who gave the football?
+Fred
+
+Mary went back to the garden.
+Bill journeyed to the hallway.
+What did Fred give to Mary?
+
+ANSWER: fruit
+PROMPT:  Jeff passed the apple to Fred.
+Fred left the football there.
+What did Jeff give to Fred?
+apple
+
+Bill went back to the office.
+Fred went back to the bathroom.
+Mary travelled to the kitchen.
+Mary moved to the office.
+Mary journeyed to the kitchen.
+Mary journeyed to the garden.
+Fred journeyed to the hallway.
+Mary travelled to the hallway.
+Bill went back to the bedroom.
+Bill journeyed to the garden.
+Bill journeyed to the office.
+Mary went to the kitchen.
+Fred moved to the bathroom.
+Bill moved to the bedroom.
+Mary went to the hallway.
+Bill moved to the bathroom.
+Bill travelled to the hallway.
+Fred journeyed to the office.
+Bill went back to the kitchen.
+Mary went to the bedroom.
+Bill got the apple there.
+Mary got the football there.
+Fred journeyed to the bedroom.
+Bill put down the apple.
+Mary dropped the football.
+Fred moved to the hallway.
+Mary picked up the football there.
+Mary went to the garden.
+Mary put down the football.
+Mary travelled to the bathroom.
+Mary travelled to the office.
+Mary went to the garden.
+Mary picked up the football there.
+Fred moved to the garden.
+Mary handed the football to Fred.
+Fred handed the football to Mary.
+Who gave the football?
+Fred
+
+Mary journeyed to the bedroom.
+Bill moved to the office.
+Who gave the football?
+Fred
+
+Mary went back to the garden.
+Bill journeyed to the hallway.
+What did Fred give to Mary?
+football
+
+Mary gave the football to Fred.
+Fred handed the football to Mary.
+Who gave the football?
+
+ANSWER: fred
+PROMPT:  Mary handed the football to Fred.
+Fred gave the football to Mary.
+Who did Fred give the football to?
+
+ANSWER: who did mary give the
+PROMPT:  Mary handed the football to Fred.
+Fred gave the football to Mary.
+Who did Fred give the football to?
+Mary
+
+Fred journeyed to the office.
+Fred moved to the kitchen.
+Jeff went back to the kitchen.
+Mary went to the hallway.
+Mary got the football there.
+Jeff journeyed to the office.
+Bill moved to the kitchen.
+Bill moved to the office.
+Mary put down the football.
+Mary went to the bedroom.
+Mary travelled to the hallway.
+Mary took the football there.
+Bill journeyed to the bathroom.
+Fred travelled to the garden.
+Mary moved to the office.
+Mary handed the football to Jeff.
+What did Mary give to Jeff?
+
+ANSWER: jeff
+PROMPT:  Mary handed the football to Fred.
+Fred gave the football to Mary.
+Who did Fred give the football to?
+Mary
+
+Fred journeyed to the office.
+Fred moved to the kitchen.
+Jeff went back to the kitchen.
+Mary went to the hallway.
+Mary got the football there.
+Jeff journeyed to the office.
+Bill moved to the kitchen.
+Bill moved to the office.
+Mary put down the football.
+Mary went to the bedroom.
+Mary travelled to the hallway.
+Mary took the football there.
+Bill journeyed to the bathroom.
+Fred travelled to the garden.
+Mary moved to the office.
+Mary handed the football to Jeff.
+What did Mary give to Jeff?
+football
+
+Fred took the milk there.
+Jeff gave the football to Mary.
+What did Jeff give to Mary?
+
+ANSWER: football
+PROMPT:  Mary handed the football to Fred.
+Fred gave the football to Mary.
+Who did Fred give the football to?
+Mary
+
+Fred journeyed to the office.
+Fred moved to the kitchen.
+Jeff went back to the kitchen.
+Mary went to the hallway.
+Mary got the football there.
+Jeff journeyed to the office.
+Bill moved to the kitchen.
+Bill moved to the office.
+Mary put down the football.
+Mary went to the bedroom.
+Mary travelled to the hallway.
+Mary took the football there.
+Bill journeyed to the bathroom.
+Fred travelled to the garden.
+Mary moved to the office.
+Mary handed the football to Jeff.
+What did Mary give to Jeff?
+football
+
+Fred took the milk there.
+Jeff gave the football to Mary.
+What did Jeff give to Mary?
+football
+
+Mary handed the football to Jeff.
+Bill got the apple there.
+Who gave the football?
+
+ANSWER: edward gave the football to
+PROMPT:  Mary handed the football to Fred.
+Fred gave the football to Mary.
+Who did Fred give the football to?
+Mary
+
+Fred journeyed to the office.
+Fred moved to the kitchen.
+Jeff went back to the kitchen.
+Mary went to the hallway.
+Mary got the football there.
+Jeff journeyed to the office.
+Bill moved to the kitchen.
+Bill moved to the office.
+Mary put down the football.
+Mary went to the bedroom.
+Mary travelled to the hallway.
+Mary took the football there.
+Bill journeyed to the bathroom.
+Fred travelled to the garden.
+Mary moved to the office.
+Mary handed the football to Jeff.
+What did Mary give to Jeff?
+football
+
+Fred took the milk there.
+Jeff gave the football to Mary.
+What did Jeff give to Mary?
+football
+
+Mary handed the football to Jeff.
+Bill got the apple there.
+Who gave the football?
+Mary
+
+Mary moved to the hallway.
+Fred put down the milk.
+Who gave the football to Jeff?
+
+ANSWER: mary
+PROMPT:  Fred grabbed the milk there.
+Fred went back to the bedroom.
+Mary went back to the garden.
+Bill dropped the apple.
+Bill went back to the garden.
+Jeff moved to the hallway.
+Fred went back to the bathroom.
+Fred put down the milk there.
+Mary went to the kitchen.
+Fred picked up the apple there.
+Fred went back to the garden.
+Fred passed the apple to Bill.
+Who gave the apple?
+
+ANSWER: fred who fed the picnic
+PROMPT:  Fred grabbed the milk there.
+Fred went back to the bedroom.
+Mary went back to the garden.
+Bill dropped the apple.
+Bill went back to the garden.
+Jeff moved to the hallway.
+Fred went back to the bathroom.
+Fred put down the milk there.
+Mary went to the kitchen.
+Fred picked up the apple there.
+Fred went back to the garden.
+Fred passed the apple to Bill.
+Who gave the apple?
+Fred
+
+Bill went back to the bathroom.
+Mary grabbed the apple there.
+Jeff travelled to the office.
+Mary handed the apple to Jeff.
+Who received the apple?
+
+ANSWER: mary
+PROMPT:  Fred grabbed the milk there.
+Fred went back to the bedroom.
+Mary went back to the garden.
+Bill dropped the apple.
+Bill went back to the garden.
+Jeff moved to the hallway.
+Fred went back to the bathroom.
+Fred put down the milk there.
+Mary went to the kitchen.
+Fred picked up the apple there.
+Fred went back to the garden.
+Fred passed the apple to Bill.
+Who gave the apple?
+Fred
+
+Bill went back to the bathroom.
+Mary grabbed the apple there.
+Jeff travelled to the office.
+Mary handed the apple to Jeff.
+Who received the apple?
+Jeff
+
+Jeff left the apple.
+Mary moved to the hallway.
+What did Mary give to Jeff?
+
+ANSWER: what is the sex between
+PROMPT:  Fred grabbed the milk there.
+Fred went back to the bedroom.
+Mary went back to the garden.
+Bill dropped the apple.
+Bill went back to the garden.
+Jeff moved to the hallway.
+Fred went back to the bathroom.
+Fred put down the milk there.
+Mary went to the kitchen.
+Fred picked up the apple there.
+Fred went back to the garden.
+Fred passed the apple to Bill.
+Who gave the apple?
+Fred
+
+Bill went back to the bathroom.
+Mary grabbed the apple there.
+Jeff travelled to the office.
+Mary handed the apple to Jeff.
+Who received the apple?
+Jeff
+
+Jeff left the apple.
+Mary moved to the hallway.
+What did Mary give to Jeff?
+apple
+
+Fred went to the kitchen.
+Jeff travelled to the bedroom.
+Who received the apple?
+
+ANSWER: mary
+PROMPT:  Fred grabbed the milk there.
+Fred went back to the bedroom.
+Mary went back to the garden.
+Bill dropped the apple.
+Bill went back to the garden.
+Jeff moved to the hallway.
+Fred went back to the bathroom.
+Fred put down the milk there.
+Mary went to the kitchen.
+Fred picked up the apple there.
+Fred went back to the garden.
+Fred passed the apple to Bill.
+Who gave the apple?
+Fred
+
+Bill went back to the bathroom.
+Mary grabbed the apple there.
+Jeff travelled to the office.
+Mary handed the apple to Jeff.
+Who received the apple?
+Jeff
+
+Jeff left the apple.
+Mary moved to the hallway.
+What did Mary give to Jeff?
+apple
+
+Fred went to the kitchen.
+Jeff travelled to the bedroom.
+Who received the apple?
+Jeff
+
+Jeff went to the kitchen.
+Fred moved to the office.
+Bill travelled to the kitchen.
+Fred got the apple there.
+Mary journeyed to the bathroom.
+Jeff travelled to the office.
+Mary travelled to the garden.
+Bill journeyed to the office.
+Fred passed the apple to Bill.
+Fred went to the garden.
+What did Fred give to Bill?
+
+ANSWER: shiny apple
+PROMPT:  Jeff went back to the kitchen.
+Jeff went to the garden.
+What did Fred give to Bill?
+
+ANSWER: and what did he get
+PROMPT:  Jeff went back to the kitchen.
+Jeff went to the garden.
+What did Fred give to Bill?
+apple
+
+Bill travelled to the hallway.
+Jeff went back to the bedroom.
+Jeff grabbed the milk there.
+Bill journeyed to the garden.
+Jeff journeyed to the hallway.
+Fred went back to the bedroom.
+Jeff travelled to the kitchen.
+Jeff went to the office.
+Fred moved to the bathroom.
+Bill went back to the kitchen.
+Fred moved to the garden.
+Mary journeyed to the garden.
+Bill took the football there.
+Jeff put down the milk.
+Bill travelled to the bedroom.
+Bill dropped the football.
+Mary journeyed to the kitchen.
+Jeff went back to the bedroom.
+Fred journeyed to the office.
+Bill took the football there.
+Bill passed the football to Jeff.
+Mary took the apple there.
+Who received the football?
+
+ANSWER: shane
+PROMPT:  Jeff went back to the kitchen.
+Jeff went to the garden.
+What did Fred give to Bill?
+apple
+
+Bill travelled to the hallway.
+Jeff went back to the bedroom.
+Jeff grabbed the milk there.
+Bill journeyed to the garden.
+Jeff journeyed to the hallway.
+Fred went back to the bedroom.
+Jeff travelled to the kitchen.
+Jeff went to the office.
+Fred moved to the bathroom.
+Bill went back to the kitchen.
+Fred moved to the garden.
+Mary journeyed to the garden.
+Bill took the football there.
+Jeff put down the milk.
+Bill travelled to the bedroom.
+Bill dropped the football.
+Mary journeyed to the kitchen.
+Jeff went back to the bedroom.
+Fred journeyed to the office.
+Bill took the football there.
+Bill passed the football to Jeff.
+Mary took the apple there.
+Who received the football?
+Jeff
+
+Jeff handed the football to Bill.
+Fred went to the bedroom.
+What did Jeff give to Bill?
+
+ANSWER: popcorn
+PROMPT:  Jeff went back to the kitchen.
+Jeff went to the garden.
+What did Fred give to Bill?
+apple
+
+Bill travelled to the hallway.
+Jeff went back to the bedroom.
+Jeff grabbed the milk there.
+Bill journeyed to the garden.
+Jeff journeyed to the hallway.
+Fred went back to the bedroom.
+Jeff travelled to the kitchen.
+Jeff went to the office.
+Fred moved to the bathroom.
+Bill went back to the kitchen.
+Fred moved to the garden.
+Mary journeyed to the garden.
+Bill took the football there.
+Jeff put down the milk.
+Bill travelled to the bedroom.
+Bill dropped the football.
+Mary journeyed to the kitchen.
+Jeff went back to the bedroom.
+Fred journeyed to the office.
+Bill took the football there.
+Bill passed the football to Jeff.
+Mary took the apple there.
+Who received the football?
+Jeff
+
+Jeff handed the football to Bill.
+Fred went to the bedroom.
+What did Jeff give to Bill?
+football
+
+Jeff travelled to the bathroom.
+Bill put down the football.
+Who gave the football to Bill?
+
+ANSWER: jeff
+PROMPT:  Jeff went back to the kitchen.
+Jeff went to the garden.
+What did Fred give to Bill?
+apple
+
+Bill travelled to the hallway.
+Jeff went back to the bedroom.
+Jeff grabbed the milk there.
+Bill journeyed to the garden.
+Jeff journeyed to the hallway.
+Fred went back to the bedroom.
+Jeff travelled to the kitchen.
+Jeff went to the office.
+Fred moved to the bathroom.
+Bill went back to the kitchen.
+Fred moved to the garden.
+Mary journeyed to the garden.
+Bill took the football there.
+Jeff put down the milk.
+Bill travelled to the bedroom.
+Bill dropped the football.
+Mary journeyed to the kitchen.
+Jeff went back to the bedroom.
+Fred journeyed to the office.
+Bill took the football there.
+Bill passed the football to Jeff.
+Mary took the apple there.
+Who received the football?
+Jeff
+
+Jeff handed the football to Bill.
+Fred went to the bedroom.
+What did Jeff give to Bill?
+football
+
+Jeff travelled to the bathroom.
+Bill put down the football.
+Who gave the football to Bill?
+Jeff
+
+Bill moved to the garden.
+Mary journeyed to the garden.
+Mary gave the apple to Bill.
+Jeff moved to the garden.
+What did Mary give to Bill?
+
+ANSWER: apple
+PROMPT:  Jeff moved to the kitchen.
+Fred got the football there.
+Who gave the apple?
+
+ANSWER: the boy had speared
+PROMPT:  Jeff moved to the kitchen.
+Fred got the football there.
+Who gave the apple?
+Mary
+
+Mary went back to the hallway.
+Jeff journeyed to the hallway.
+Bill went to the office.
+Jeff travelled to the office.
+Mary went back to the office.
+Jeff took the milk there.
+Bill journeyed to the bathroom.
+Jeff handed the milk to Mary.
+Who received the milk?
+
+ANSWER: mary
+PROMPT:  Jeff moved to the kitchen.
+Fred got the football there.
+Who gave the apple?
+Mary
+
+Mary went back to the hallway.
+Jeff journeyed to the hallway.
+Bill went to the office.
+Jeff travelled to the office.
+Mary went back to the office.
+Jeff took the milk there.
+Bill journeyed to the bathroom.
+Jeff handed the milk to Mary.
+Who received the milk?
+Mary
+
+Bill went back to the bedroom.
+Mary gave the milk to Jeff.
+Who gave the milk to Jeff?
+
+ANSWER: mary
+PROMPT:  Jeff moved to the kitchen.
+Fred got the football there.
+Who gave the apple?
+Mary
+
+Mary went back to the hallway.
+Jeff journeyed to the hallway.
+Bill went to the office.
+Jeff travelled to the office.
+Mary went back to the office.
+Jeff took the milk there.
+Bill journeyed to the bathroom.
+Jeff handed the milk to Mary.
+Who received the milk?
+Mary
+
+Bill went back to the bedroom.
+Mary gave the milk to Jeff.
+Who gave the milk to Jeff?
+Mary
+
+Jeff passed the milk to Mary.
+Bill went back to the kitchen.
+Who received the milk?
+
+ANSWER: mary
+PROMPT:  Jeff moved to the kitchen.
+Fred got the football there.
+Who gave the apple?
+Mary
+
+Mary went back to the hallway.
+Jeff journeyed to the hallway.
+Bill went to the office.
+Jeff travelled to the office.
+Mary went back to the office.
+Jeff took the milk there.
+Bill journeyed to the bathroom.
+Jeff handed the milk to Mary.
+Who received the milk?
+Mary
+
+Bill went back to the bedroom.
+Mary gave the milk to Jeff.
+Who gave the milk to Jeff?
+Mary
+
+Jeff passed the milk to Mary.
+Bill went back to the kitchen.
+Who received the milk?
+Mary
+
+Mary discarded the milk.
+Bill journeyed to the bathroom.
+Who received the milk?
+
+ANSWER: mary
+PROMPT:  Fred went back to the bathroom.
+Fred picked up the apple there.
+Fred moved to the garden.
+Fred moved to the hallway.
+Mary took the milk there.
+Mary passed the milk to Jeff.
+What did Mary give to Jeff?
+
+ANSWER: mary gave jeff the apple
+PROMPT:  Fred went back to the bathroom.
+Fred picked up the apple there.
+Fred moved to the garden.
+Fred moved to the hallway.
+Mary took the milk there.
+Mary passed the milk to Jeff.
+What did Mary give to Jeff?
+milk
+
+Bill journeyed to the bedroom.
+Bill got the apple there.
+Fred went back to the kitchen.
+Fred moved to the bathroom.
+Jeff went to the kitchen.
+Bill discarded the apple there.
+Jeff travelled to the bedroom.
+Bill picked up the apple there.
+Bill gave the apple to Jeff.
+Fred moved to the kitchen.
+Who gave the apple?
+
+ANSWER: a leftover breakfast
+PROMPT:  Fred went back to the bathroom.
+Fred picked up the apple there.
+Fred moved to the garden.
+Fred moved to the hallway.
+Mary took the milk there.
+Mary passed the milk to Jeff.
+What did Mary give to Jeff?
+milk
+
+Bill journeyed to the bedroom.
+Bill got the apple there.
+Fred went back to the kitchen.
+Fred moved to the bathroom.
+Jeff went to the kitchen.
+Bill discarded the apple there.
+Jeff travelled to the bedroom.
+Bill picked up the apple there.
+Bill gave the apple to Jeff.
+Fred moved to the kitchen.
+Who gave the apple?
+Bill
+
+Fred went to the garden.
+Jeff gave the apple to Bill.
+What did Jeff give to Bill?
+
+ANSWER: apple
+PROMPT:  Fred went back to the bathroom.
+Fred picked up the apple there.
+Fred moved to the garden.
+Fred moved to the hallway.
+Mary took the milk there.
+Mary passed the milk to Jeff.
+What did Mary give to Jeff?
+milk
+
+Bill journeyed to the bedroom.
+Bill got the apple there.
+Fred went back to the kitchen.
+Fred moved to the bathroom.
+Jeff went to the kitchen.
+Bill discarded the apple there.
+Jeff travelled to the bedroom.
+Bill picked up the apple there.
+Bill gave the apple to Jeff.
+Fred moved to the kitchen.
+Who gave the apple?
+Bill
+
+Fred went to the garden.
+Jeff gave the apple to Bill.
+What did Jeff give to Bill?
+apple
+
+Bill gave the apple to Jeff.
+Fred went to the hallway.
+Who gave the apple to Jeff?
+
+ANSWER: bill
+PROMPT:  Fred went back to the bathroom.
+Fred picked up the apple there.
+Fred moved to the garden.
+Fred moved to the hallway.
+Mary took the milk there.
+Mary passed the milk to Jeff.
+What did Mary give to Jeff?
+milk
+
+Bill journeyed to the bedroom.
+Bill got the apple there.
+Fred went back to the kitchen.
+Fred moved to the bathroom.
+Jeff went to the kitchen.
+Bill discarded the apple there.
+Jeff travelled to the bedroom.
+Bill picked up the apple there.
+Bill gave the apple to Jeff.
+Fred moved to the kitchen.
+Who gave the apple?
+Bill
+
+Fred went to the garden.
+Jeff gave the apple to Bill.
+What did Jeff give to Bill?
+apple
+
+Bill gave the apple to Jeff.
+Fred went to the hallway.
+Who gave the apple to Jeff?
+Bill
+
+Jeff gave the apple to Bill.
+Bill passed the apple to Jeff.
+Who did Bill give the apple to?
+
+ANSWER: go ahead, give that
+PROMPT:  Bill went back to the bathroom.
+Jeff went to the office.
+What did Bill give to Jeff?
+
+ANSWER: 1 mac tied his
+NUM QUESTIONS: 100 NUM CORRECT: 13 PERCENT ACCURACY: 0.13
